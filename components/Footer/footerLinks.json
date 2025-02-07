@@ -1,0 +1,63 @@
+{
+    "primary": {
+        "Documentation": "/Documentation",
+        "Features": "/Features",
+        "Getting Started": "/getting-started",
+        "About Us": "/aboutus"
+    },
+    "megamenu": {
+        "Topic 1": {
+            "Secondary Link1": "/testdd",
+            "Secondary Link2": "/#",
+            "Secondary Secondary link that is a bit longer than most of the others": "/",
+            "Secondary Link3": "/#"
+        },
+        "Topic 2": {
+            "Secondary Link1": "/testdd",
+            "Secondary Secondary link that is a bit longer than most of the others": "/",
+            "Secondary Link2": "/#",
+            "Secondary Link3": "/#"
+        },
+        "Topic 3": {
+            "Secondary Link1": "/testdd",
+            "Secondary Link2": "/#",
+            "Secondary Link3": "/#",
+            "Secondary Secondary link that is a bit longer than most of the others": "/"
+        },
+        "Topic 4": {
+            "Secondary Link1": "/testdd",
+            "Secondary Link2": "/#",
+            "Secondary Link3": "/#"
+        }
+    },
+    "identifier": {
+        "img": "img/parent-agency.png",
+        "name": "Intellibridge",
+        "slogan": "Identify Opportunities   |   Inform Risk",
+        "links": {
+            "rowone": {
+                "About Crash": "/testdd",
+                "FOIA requests": "/#",
+                "Office of the Inspector General": "/#",
+                "Accessibility support": "/#",
+                "No FEAR Act data": "/#",
+                "Performance reports": "/#",
+                "Privacy Policy": "/#"
+            }
+        },
+        "identifierfooter": {
+            "text": "Looking for U.S. government information and services?",
+            "link": {
+                "title": "Visit USA.gov",
+                "url": "/#"
+            }
+        }
+    },
+    "socialmedia": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com",
+        "instagram": "https://instagram.com",
+        "rss": "/rss"
+    }
+}

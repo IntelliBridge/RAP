@@ -1,0 +1,30 @@
+.sign-in-page {
+    .auth-content {
+        background-color: #F0F0F0;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+        .login-box {
+            background-color: #fff;
+            margin: 0 auto;
+            padding: 2rem 3.5rem;
+        }
+        .usa-prose-h3 {
+            font-size: 22px;
+        }
+        .sso-content {
+            padding: 1rem 3.5rem;
+
+        }
+    }
+    label{
+        font-weight: normal;
+        margin-top: 0;
+    }
+}
+.ui-controls {
+    position: fixed;
+    right: 20px;
+    top: 0;
+    background-color: lightgray;
+    padding: 10px;
+}

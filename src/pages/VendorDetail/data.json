@@ -1,0 +1,562 @@
+[
+    {
+        "unique_id": "C12DA9VGJ9E5",
+        "Name": "KNS, L.L.C.",
+        "Cage": "8AWQ9",
+        "NAICS": 423320,
+        "PSC": "5680",
+        "Last_Updated": 20231106,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "4033 AMHERST AVE",
+            "line_2": null,
+            "city": "DALLAS",
+            "state": "TX",
+            "zip_code": 75225,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "4033 AMHERST AVE.",
+            "line_2": null,
+            "city": "DALLAS",
+            "state": "TX",
+            "zip_code": 75225,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "KELLY",
+                "middle_initial": "F",
+                "last_name": "WATERMAN",
+                "title": null,
+                "address": {
+                    "line_1": "4033 AMHERST AVE.",
+                    "line_2": null,
+                    "city": "DALLAS",
+                    "zip_code": 75225,
+                    "country": "USA",
+                    "state": "TX"
+                }
+            },
+            "secondary": {
+                "first_name": null,
+                "middle_initial": null,
+                "last_name": null,
+                "title": null,
+                "address": {
+                    "line_1": null,
+                    "line_2": null,
+                    "city": null,
+                    "zip_code": null,
+                    "country": null,
+                    "state": null
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C19BCCXLDM21",
+        "Name": "ATLANTA ATTACHMENT COMPANY",
+        "Cage": "3HNS0",
+        "NAICS": 333310,
+        "PSC": null,
+        "Last_Updated": 20230919,
+        "Description": null,
+        "dba_name": "ATLANTA ATTACHMENT CO INC",
+        "physical_address": {
+            "line_1": "362 INDUSTRIAL PARK DR",
+            "line_2": null,
+            "city": "LAWRENCEVILLE",
+            "state": "GA",
+            "zip_code": 30046,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "PO BOX 128",
+            "line_2": null,
+            "city": "HICKORY",
+            "state": "NC",
+            "zip_code": 28603,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "JULIETA",
+                "middle_initial": null,
+                "last_name": "LOPEZ",
+                "title": "CREDIT MANAGER",
+                "address": {
+                    "line_1": "362 INDUSTRIAL PARK DRIVE",
+                    "line_2": null,
+                    "city": "LAWRENCEVILLE",
+                    "zip_code": 30046,
+                    "country": "USA",
+                    "state": "GA"
+                }
+            },
+            "secondary": {
+                "first_name": null,
+                "middle_initial": null,
+                "last_name": null,
+                "title": null,
+                "address": {
+                    "line_1": null,
+                    "line_2": null,
+                    "city": null,
+                    "zip_code": null,
+                    "country": null,
+                    "state": null
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C1B3JJDXVZB7",
+        "Name": "POMA JAMES",
+        "Cage": "8BR12",
+        "NAICS": 814110,
+        "PSC": null,
+        "Last_Updated": 20230505,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "48288 SUGARBERRY LN",
+            "line_2": null,
+            "city": "MACOMB",
+            "state": "MI",
+            "zip_code": 48044,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "48288 SUGARBERRY LN",
+            "line_2": null,
+            "city": "MACOMB",
+            "state": "MI",
+            "zip_code": 48044,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "JAMES",
+                "middle_initial": null,
+                "last_name": "POMA",
+                "title": "PRESIDENT",
+                "address": {
+                    "line_1": "48288 SUGARBERRY LN",
+                    "line_2": null,
+                    "city": "MACOMB",
+                    "zip_code": 48044,
+                    "country": "USA",
+                    "state": "MI"
+                }
+            },
+            "secondary": {
+                "first_name": null,
+                "middle_initial": null,
+                "last_name": null,
+                "title": null,
+                "address": {
+                    "line_1": null,
+                    "line_2": null,
+                    "city": null,
+                    "zip_code": null,
+                    "country": null,
+                    "state": null
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C1B7LPPS4KL6",
+        "Name": "TOWN OF POLLOCK",
+        "Cage": "5U1U3",
+        "NAICS": null,
+        "PSC": null,
+        "Last_Updated": 20231002,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "916 F AVE",
+            "line_2": null,
+            "city": "POLLOCK",
+            "state": "SD",
+            "zip_code": 57648,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "916 F. AVENUE",
+            "line_2": "PO BOX 57",
+            "city": "POLLOCK",
+            "state": "SD",
+            "zip_code": 57648,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "LEANNE",
+                "middle_initial": "M",
+                "last_name": "JAKOBSEN",
+                "title": "FINANCE OFFICER",
+                "address": {
+                    "line_1": "916 F. AVENUE",
+                    "line_2": "PO BOX 57",
+                    "city": "POLLOCK",
+                    "zip_code": 57648,
+                    "country": "USA",
+                    "state": "SD"
+                }
+            },
+            "secondary": {
+                "first_name": null,
+                "middle_initial": null,
+                "last_name": null,
+                "title": null,
+                "address": {
+                    "line_1": null,
+                    "line_2": null,
+                    "city": null,
+                    "zip_code": null,
+                    "country": null,
+                    "state": null
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C1FLMDRCWT17",
+        "Name": "COUNTY OF JEFFERSON",
+        "Cage": "68B22",
+        "NAICS": null,
+        "PSC": null,
+        "Last_Updated": 20230731,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "600 AIRPARK DRIVE",
+            "line_2": null,
+            "city": "WINTERSVILLE",
+            "state": "OH",
+            "zip_code": 43953,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "600 AIRPARK DRIVE",
+            "line_2": null,
+            "city": "WINTERSVILLE",
+            "state": "OH",
+            "zip_code": 43953,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "GARY",
+                "middle_initial": "R.",
+                "last_name": "FOLDEN",
+                "title": "MR.",
+                "address": {
+                    "line_1": "600 AIRPARK DRIVE",
+                    "line_2": null,
+                    "city": "WINTERSVILLE",
+                    "zip_code": 43953,
+                    "country": "USA",
+                    "state": "OH"
+                }
+            },
+            "secondary": {
+                "first_name": "BRIAN",
+                "middle_initial": "A.",
+                "last_name": "THAXTON",
+                "title": "MR.",
+                "address": {
+                    "line_1": "600 AIRPARK DRIVE",
+                    "line_2": null,
+                    "city": "WINTERSVILLE",
+                    "zip_code": 43953,
+                    "country": "USA",
+                    "state": "OH"
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C1GWUMJPD556",
+        "Name": "SPECIAL OLYMPICS PUERTO RICO INC",
+        "Cage": "8T1U3",
+        "NAICS": null,
+        "PSC": null,
+        "Last_Updated": 20231102,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "URB. ALTAMESA",
+            "line_2": "1600 CALLE SANTA ROSA",
+            "city": "SAN JUAN",
+            "state": "PR",
+            "zip_code": 921,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "URB ALTAMESA",
+            "line_2": "1600 CALLE SANTA ROSA",
+            "city": "SAN JUAN",
+            "state": "PR",
+            "zip_code": 921,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "JOSE",
+                "middle_initial": null,
+                "last_name": "FERNANDEZ",
+                "title": "ACCOUNTANT",
+                "address": {
+                    "line_1": "PARQUE SAN IGNACIO",
+                    "line_2": "A10 UPSALA",
+                    "city": "SAN JUAN",
+                    "zip_code": 921,
+                    "country": "USA",
+                    "state": "PR"
+                }
+            },
+            "secondary": {
+                "first_name": null,
+                "middle_initial": null,
+                "last_name": null,
+                "title": null,
+                "address": {
+                    "line_1": null,
+                    "line_2": null,
+                    "city": null,
+                    "zip_code": null,
+                    "country": null,
+                    "state": null
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C1JHNC68DCQ6",
+        "Name": "SOUTH COUNTY CHOPPERS",
+        "Cage": null,
+        "NAICS": null,
+        "PSC": null,
+        "Last_Updated": 20230413,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "904 BOSTON NECK RD",
+            "line_2": null,
+            "city": "NARRAGANSETT",
+            "state": "RI",
+            "zip_code": 2882,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "904 BOSTON NECK RD STE 3",
+            "line_2": null,
+            "city": "NARRAGANSETT",
+            "state": "RI",
+            "zip_code": 2882,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "JOHN",
+                "middle_initial": "J",
+                "last_name": "THOMASSO",
+                "title": null,
+                "address": {
+                    "line_1": "904 NECK RD",
+                    "line_2": null,
+                    "city": "NARRAGANSETT",
+                    "zip_code": 2882,
+                    "country": "USA",
+                    "state": "RI"
+                }
+            },
+            "secondary": {
+                "first_name": null,
+                "middle_initial": null,
+                "last_name": null,
+                "title": null,
+                "address": {
+                    "line_1": null,
+                    "line_2": null,
+                    "city": null,
+                    "zip_code": null,
+                    "country": null,
+                    "state": null
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C22HB93N6FT9",
+        "Name": "FUSION INNOVATION, LLC",
+        "Cage": "7KAJ1",
+        "NAICS": 541611,
+        "PSC": null,
+        "Last_Updated": 20240104,
+        "Description": null,
+        "dba_name": "FUSION INNOVATION LLC",
+        "physical_address": {
+            "line_1": "3009 FOX MILL RD",
+            "line_2": null,
+            "city": "OAKTON",
+            "state": "VA",
+            "zip_code": 22124,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "3009 FOX MILL RD",
+            "line_2": null,
+            "city": "OAKTON",
+            "state": "VA",
+            "zip_code": 22124,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "TROY",
+                "middle_initial": null,
+                "last_name": "THOMAN",
+                "title": null,
+                "address": {
+                    "line_1": "3009 FOX MILL RD",
+                    "line_2": null,
+                    "city": "OAKTON",
+                    "zip_code": 22124,
+                    "country": "USA",
+                    "state": "VA"
+                }
+            },
+            "secondary": {
+                "first_name": null,
+                "middle_initial": null,
+                "last_name": null,
+                "title": null,
+                "address": {
+                    "line_1": null,
+                    "line_2": null,
+                    "city": null,
+                    "zip_code": null,
+                    "country": null,
+                    "state": null
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C23NH1WQCLB8",
+        "Name": "TRINITY AIR INC",
+        "Cage": "8RYW6",
+        "NAICS": 481211,
+        "PSC": null,
+        "Last_Updated": 20231126,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "3706 UNIVERSITY AVE S",
+            "line_2": null,
+            "city": "FAIRBANKS",
+            "state": "AK",
+            "zip_code": 99709,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "3706 UNIVERSITY AVE SOUTH",
+            "line_2": null,
+            "city": "FAIRBANKS",
+            "state": "AK",
+            "zip_code": 99709,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "KRISTY",
+                "middle_initial": "J",
+                "last_name": "BRAUN",
+                "title": null,
+                "address": {
+                    "line_1": "3706 S UNIVERSITY AVE",
+                    "line_2": null,
+                    "city": "FAIRBANKS",
+                    "zip_code": 99709,
+                    "country": "USA",
+                    "state": "AK"
+                }
+            },
+            "secondary": {
+                "first_name": "KARL",
+                "middle_initial": null,
+                "last_name": "BRAUN",
+                "title": null,
+                "address": {
+                    "line_1": "3706 UNIVERSITY AVE SOUTH",
+                    "line_2": null,
+                    "city": "FAIRBANKS",
+                    "zip_code": 99709,
+                    "country": "USA",
+                    "state": "AK"
+                }
+            }
+        }
+    },
+    {
+        "unique_id": "C2BYYLMBKGM8",
+        "Name": "FONTAINE CONSULTING LLC",
+        "Cage": "6PPL9",
+        "NAICS": 236220,
+        "PSC": "R408~R699~R703~R706~R707~R799~U008",
+        "Last_Updated": 20230731,
+        "Description": null,
+        "dba_name": null,
+        "physical_address": {
+            "line_1": "1033 7TH ST STE 104",
+            "line_2": null,
+            "city": "EAST MOLINE",
+            "state": "IL",
+            "zip_code": 61244,
+            "country": "USA"
+        },
+        "mailing_address": {
+            "line_1": "1033 7TH STREET",
+            "line_2": "SUITE 104",
+            "city": "EAST MOLINE",
+            "state": "IL",
+            "zip_code": 61244,
+            "country": "USA"
+        },
+        "POC": {
+            "primary": {
+                "first_name": "SARA",
+                "middle_initial": null,
+                "last_name": "PENNINGTON",
+                "title": "VP HR",
+                "address": {
+                    "line_1": "1033 7TH STREET",
+                    "line_2": "SUITE 104",
+                    "city": "EAST MOLINE",
+                    "zip_code": 61244,
+                    "country": "USA",
+                    "state": "IL"
+                }
+            },
+            "secondary": {
+                "first_name": "YVES",
+                "middle_initial": null,
+                "last_name": "FONTAINE",
+                "title": "PRESIDENT",
+                "address": {
+                    "line_1": "6664 CROW CREEK ROAD",
+                    "line_2": null,
+                    "city": "BETTENDORF",
+                    "zip_code": 52722,
+                    "country": "USA",
+                    "state": "IA"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,126 @@
+.usa-footer {
+    font-family: PublicSans;
+    .grid-container{
+        max-width: unset;
+    }
+    &__logo {
+        margin-bottom: 20px;
+    }
+    &__contact-heading, &__logo-heading {
+        font-family: PublicSans;
+    }
+    &__contact-links {
+        padding-left: 78px;
+    }
+    &__secondary-section {
+        background-color: #E6E6E6;
+        padding-top: 0;
+        padding-bottom: 0;
+        .grid-container {
+            max-width: unset;
+            nav {
+                max-width: unset;
+            }
+        }
+    }
+    .usa-social-link {
+        background-color: transparent;
+    }
+    &-idenitifier {
+        background-color: #000000;
+        padding-top: 10px;
+        .grid-container-widescreen {
+            max-width: unset;
+        }
+        &-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        &-logo, &-slogan {
+            color: white;
+            text-align: left;
+        }
+        &-logo {
+            font-size: 1.5rem;
+        }
+        &-slogan {
+            text-align: right;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            text-transform: uppercase;
+        }
+        .usa-footer__idenitifier-company-links {
+           flex-direction: column;
+           text-align: left; 
+           a {
+            margin: 10px;
+            color: #73B3E7;
+           }
+        }
+    }
+    .big-footer {
+        padding-bottom: 2.5rem;
+    }
+    .usa-slim-adress {
+        .grid-row {
+            display: block;
+            margin-bottom: 15px;
+            margin-top: 15px;
+        }
+    }
+}
+
+.usa-footer__idenitifier-company-footer {
+    margin: 20px 0 25px;
+    padding-left: 87px;
+    color:white;
+    a {
+        color: #73B3E7;
+    }
+}
+.big-footer {
+    .grid-row {
+        .tablet\:grid-col-8 {
+            padding-left: 0;
+            padding-right: 0;
+        }
+        nav {
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+    }
+}
+.usa-sign-up {
+    padding-top: 2rem;
+}
+
+.usa-footer-disclaimer {
+    border-top: 1px solid #454545;
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.usa-footer-idenitifier {
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.usa-footer__logo {
+    align-items: flex-end;
+}
+.usa-footer__logo-img {
+    max-width: unset;
+}
+.identifier-parent-link {
+    margin-left: 5.5rem;
+}
+.disclaimer-title,  .disclaimer-text{
+    margin-left: 5.5rem;
+    margin-right: 5.5rem;
+
+}
+.disclaimer-title {
+    margin-bottom: .5rem;
+    font-weight: 700;
+}

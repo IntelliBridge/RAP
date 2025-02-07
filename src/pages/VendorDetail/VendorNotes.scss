@@ -1,0 +1,41 @@
+.notes-section-title{
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    box-shadow: 0 3.25px 0px -2px #A9AEB1;
+    padding-bottom: .5rem;
+}
+.notes {
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 3.25px 0px -2px #A9AEB1;
+  color: #1B1B1B;
+  .by-line {
+    color: #3D4551;
+    p {
+      span{
+        margin-left: .5rem;
+        margin-right: .5rem;
+      }
+      a {
+        margin-left: .5rem;
+
+      }
+    }
+
+  }
+  .note-files {
+    display: flex;
+    flex-wrap: wrap;
+    
+
+    .note-file {
+      display: flex;
+      align-items: center;
+      margin-right: 2rem;
+      img {
+        margin-right: .5rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+.overview-viz {
+  display: flex;
+}
+.doughnut-chart-container {
+  background-color: #fff;
+  border-radius: 1px;
+  border: 2px solid #DFE1E2;
+  padding: 1.5rem 2rem;
+  width: 28%;
+  .heading {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .label {
+    margin-bottom: 2rem;
+  }
+}
+.number-viz-container,
+.number-singlebar-even-viz-container,
+.number-singlebar-even-viz-container {
+  margin-right: .75rem;
+}
+
+.number-viz-container {
+  width:35%;
+}
+.number-singlebar-even-viz-container {
+  width: 35%;
+}
+#user-role {
+  position: absolute;
+  top: 0;
+  right: 2rem;
+  width: fit-content;
+}
+.usa-section {
+  position: relative;
+}

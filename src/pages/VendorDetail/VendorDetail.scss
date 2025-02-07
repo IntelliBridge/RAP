@@ -1,0 +1,31 @@
+.vendor-details {
+  background-color: #Fff;
+  padding:1rem 2rem;
+  margin-bottom: 2rem;
+  .top-level-label {
+    // font-size: 1rem;
+    color: #3D4551;
+    font-weight: 700;
+  }
+  .vendor-name {
+    width: 100%;
+    h1 {
+      margin-top: .25rem;
+    }
+  }
+  .flex {
+    display: flex;
+  }
+  .space-between {
+    justify-content: space-between;
+  }
+  .vendor-information {
+    width: 100%;
+    .info {
+      font-size: 2rem;
+    }
+  }
+  &.confliction {
+    box-shadow: inset 1rem 0  #ff4616;
+  }
+}

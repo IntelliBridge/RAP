@@ -1,0 +1,12 @@
+.display-value-input-component {
+  margin-right: 1.5rem;
+  .display-value {
+    font-size: 22px;
+    padding-right: 2rem;
+    margin-bottom: 1.5rem;
+    line-height: 3.5rem;
+    &.display-value-type-country {
+      white-space: nowrap;
+    }
+  }
+}

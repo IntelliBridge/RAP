@@ -1,0 +1,74 @@
+{
+    "recruits": [
+        {
+            "id": "12252",
+            "first_name": "Marcus",
+            "middle_initial": "J",
+            "last_name": "Caldwell",
+            "rank": "Private (E-1)",
+            "gender": "male",
+            "address": "4820 Marine Avenue",
+            "address_2": "",
+            "city": "Camp Pendleton",
+            "state": "CA",
+            "zip": 92055,
+            "email": "marcus.caldwell@usmc.net",
+            "phone": 17605550194,
+            "dob": "2006-02-02",
+            "overall_wellness": {
+                "millitary": 91,
+                "family": 76,
+                "physical": 89,
+                "medical": 92,
+                "mental": 91,
+                "experience": 72,
+                "tobacco": 36,
+                "alcohol": 82,
+                "work_experience": 78
+            },
+            "survey": {
+                "Military Specific": {
+                    "Were you prepared for the daily schedule?": "Somewhat, but the early mornings were difficult.",
+                    "Did you find teamwork exercises helpful?": "Yes, they built strong bonds with my peers.",
+                    "Did you feel supported by your superiors?": "Yes, they were very encouraging."
+                },
+                "Family": {
+                    "Do you maintain regular contact with family?": "Yes, I call home every Sunday.",
+                    "Has your family used any military-provided resources?": "Yes, they attended a pre-deployment seminar.",
+                    "Do you feel supported by your family?": "Yes, but they miss me a lot."
+                },
+                "Physical Health": {
+                    "Have you sustained any injuries during training?": "Yes, mild shoulder strain during pull-ups.",
+                    "Do you feel the meals meet your nutritional needs?": "Yes, but portions could be larger.",
+                    "Are you satisfied with your fitness progress?": "Yes, I’ve improved my endurance significantly."
+                },
+                "Medical Care": {
+                    "Have you visited a medical facility during training?": "Yes, for a minor cold.",
+                    "Were your concerns addressed promptly?": "Yes, within a day.",
+                    "Are you satisfied with the quality of medical care?": "Yes, very professional."
+                },
+                "Mental Health": {
+                    "Have you felt stressed during training?": "Yes, especially in the beginning.",
+                    "Have you sought help for stress management?": "Yes, attended mindfulness workshops.",
+                    "Do you feel supported by mental health resources?": "Yes, they’re very accessible."
+                },
+                "Experiences": {
+                    "What has been your favorite part of training?": "The team-building exercises.",
+                    "What has been the hardest adjustment?": "Getting used to the daily schedule.",
+                    "Do you feel supported by your peers?": "Yes, they’ve been very helpful."
+                },
+                "Alcohol": {
+                    "Do you consume alcohol regularly?": "No, not during training.",
+                    "Have you attended alcohol awareness sessions?": "Yes, mandatory program during orientation.",
+                    "Do you feel informed about responsible drinking?": "Yes, the sessions were very clear."
+                },
+                "Work Experience": {
+                    "Did you have a job before enlisting?": "Yes, I worked as a cashier.",
+                    "Do you feel your previous experience prepared you for military life?": "Somewhat, especially customer service skills.",
+                    "Are you interested in leadership opportunities?": "Yes, I’d like to lead a team."
+                }
+            }
+            
+        }
+    ]
+}

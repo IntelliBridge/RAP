@@ -1,0 +1,4546 @@
+{
+    "vendor_classifications": [
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "236220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "531390",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "611710",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "927110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FRFTWN17QUF3",
+            "naics_code": "928110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FJNBVMNALZQ1",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NQXJBJTPPK65",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "YBMJKB9DJB21",
+            "naics_code": "517410",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "YBMJKB9DJB21",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "YBMJKB9DJB21",
+            "naics_code": "541360",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "YBMJKB9DJB21",
+            "naics_code": "541370",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "YBMJKB9DJB21",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "YBMJKB9DJB21",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VH1ZJJ9CW9B4",
+            "naics_code": "336414",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VH1ZJJ9CW9B4",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VH1ZJJ9CW9B4",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VH1ZJJ9CW9B4",
+            "naics_code": "927110",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "927110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KE5BCQK73S43",
+            "naics_code": "928110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HAPXP7PKDKS9",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HAPXP7PKDKS9",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "YU49ARMJ1MD5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "YU49ARMJ1MD5",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "YU49ARMJ1MD5",
+            "naics_code": "541512",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "LAJJQWA1PF31",
+            "naics_code": "336411",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "LAJJQWA1PF31",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LAJJQWA1PF31",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LAJJQWA1PF31",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LAJJQWA1PF31",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HF1ZJJM2MWB5",
+            "naics_code": "334419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HF1ZJJM2MWB5",
+            "naics_code": "334511",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "HF1ZJJM2MWB5",
+            "naics_code": "811210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "621999",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KHK6E1JW9C15",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "H1C4ZVECADM6",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "H1C4ZVECADM6",
+            "naics_code": "336414",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "H1C4ZVECADM6",
+            "naics_code": "336415",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "H1C4ZVECADM6",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "H1C4ZVECADM6",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "J666RX4KKLK8",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "J666RX4KKLK8",
+            "naics_code": "541511",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "J666RX4KKLK8",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GYKENE15SAT8",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GYKENE15SAT8",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GYKENE15SAT8",
+            "naics_code": "517410",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GYKENE15SAT8",
+            "naics_code": "541330",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "GYKENE15SAT8",
+            "naics_code": "611512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JHFZTG8ZC9V2",
+            "naics_code": "336411",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "JHFZTG8ZC9V2",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JHFZTG8ZC9V2",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JHFZTG8ZC9V2",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "H4DYTE2MHQ11",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "H4DYTE2MHQ11",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "H4DYTE2MHQ11",
+            "naics_code": "541715",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "M3HLN4G4PQT9",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M3HLN4G4PQT9",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M3HLN4G4PQT9",
+            "naics_code": "541990",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "H91LD1GY6JN5",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "M25AW7P5S7K7",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M25AW7P5S7K7",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M25AW7P5S7K7",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "M25AW7P5S7K7",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M25AW7P5S7K7",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "336411",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WZWRLY4G3PL8",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "W9LACPBZDUV3",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "X3K6MA9ZLTW6",
+            "naics_code": "423710",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "U5BBKY1S5GF6",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "U5BBKY1S5GF6",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "U5BBKY1S5GF6",
+            "naics_code": "541715",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "SWNGPNU86XM5",
+            "naics_code": "336414",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "334511",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "336414",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "336415",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "SML4NN2CT556",
+            "naics_code": "611699",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DLEKTJFY1UX7",
+            "naics_code": "611512",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "334220",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "513210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541360",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541370",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D17AN2KWNJK3",
+            "naics_code": "541930",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G5NSKYNG4VH6",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G5NSKYNG4VH6",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "G5NSKYNG4VH6",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G1WYNX6MQTN5",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "CTFDL6CPUNY5",
+            "naics_code": "334511",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "CTFDL6CPUNY5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "CTFDL6CPUNY5",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "CTFDL6CPUNY5",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "R6APMGPCKTN4",
+            "naics_code": "517410",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "R6APMGPCKTN4",
+            "naics_code": "541330",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "R6APMGPCKTN4",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "236220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "531390",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "611710",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GE1TZ982MES7",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "334220",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "334290",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "517410",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "G8YTUPGGAJN5",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QK7VQKC76AA3",
+            "naics_code": "334511",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "QK7VQKC76AA3",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QK7VQKC76AA3",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QK7VQKC76AA3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "ND7JL11CAD56",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "ND7JL11CAD56",
+            "naics_code": "541330",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "ND7JL11CAD56",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "336411",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "336611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "336992",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "E466BXU4KJH8",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "ESWLE6UACDM5",
+            "naics_code": "423860",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "DDNRRJ9EU1L9",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "F4H1XCKLJ2H3",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "F4H1XCKLJ2H3",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "F4H1XCKLJ2H3",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "F4H1XCKLJ2H3",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "F4H1XCKLJ2H3",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "F4H1XCKLJ2H3",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "F4H1XCKLJ2H3",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NU2UC8MX6NK1",
+            "naics_code": "551114",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "N22JVFUZQU79",
+            "naics_code": "335910",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "N22JVFUZQU79",
+            "naics_code": "423860",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "N22JVFUZQU79",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "N22JVFUZQU79",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHCWN1JGKKU1",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "541330",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "541420",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "QL4CHNKHQQF4",
+            "naics_code": "811210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541511",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NRDMMS91Q8E8",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHJHM5MZKMN5",
+            "naics_code": "334419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHJHM5MZKMN5",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PHJHM5MZKMN5",
+            "naics_code": "811210",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "UEGFHX6R6KJ1",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "UEGFHX6R6KJ1",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "UEGFHX6R6KJ1",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "UEGFHX6R6KJ1",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TYQPX4JC9Q33",
+            "naics_code": "541330",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "TYQPX4JC9Q33",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VSZKN88TQ3U5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VSZKN88TQ3U5",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "336411",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "336414",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "336415",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "336992",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JJM4FRDZJDX1",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JXHRK8FKNJN4",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JXHRK8FKNJN4",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JXHRK8FKNJN4",
+            "naics_code": "541715",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "GV6JZ3N61FW9",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GV6JZ3N61FW9",
+            "naics_code": "541330",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "LYL4E7AZMKN7",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LYL4E7AZMKN7",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LYL4E7AZMKN7",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "334220",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "336992",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M8JLMEHJADQ5",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HLWWEH2CCXW5",
+            "naics_code": "336414",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HLWWEH2CCXW5",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HLWWEH2CCXW5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HLWWEH2CCXW5",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "HLWWEH2CCXW5",
+            "naics_code": "927110",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "561990",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "927110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JTR2WGJLDNQ1",
+            "naics_code": "928110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "236220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "334111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "334512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "334515",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "336611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "488999",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "531390",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541370",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541890",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541910",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541930",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "611699",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "611710",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "813920",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "927110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JCBMLGPE6Z71",
+            "naics_code": "928110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M6BRZ1FHEZQ1",
+            "naics_code": "334220",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "M6BRZ1FHEZQ1",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "M6BRZ1FHEZQ1",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "XM8ZJ6ML9CW7",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "XM8ZJ6ML9CW7",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "XM8ZJ6ML9CW7",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "XM8ZJ6ML9CW7",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "XM8ZJ6ML9CW7",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "XM8ZJ6ML9CW7",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VGWWP5R9M3N6",
+            "naics_code": "336414",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "VGWWP5R9M3N6",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VGWWP5R9M3N6",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NJVNVWQJMPA4",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NJVNVWQJMPA4",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NJVNVWQJMPA4",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "NJVNVWQJMPA4",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NQ74LNFKCY84",
+            "naics_code": "517410",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "FBRTAX7SGND3",
+            "naics_code": "336411",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "FBRTAX7SGND3",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FBRTAX7SGND3",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FBRTAX7SGND3",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FBRTAX7SGND3",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "FBRTAX7SGND3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "236220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "334512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "334515",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "336611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "488999",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "531390",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541370",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541890",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541910",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541930",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "611699",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "611710",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MZQ9GE6K4M95",
+            "naics_code": "813920",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PMK6M1AK2669",
+            "naics_code": "721110",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "RMYAXLTM5S24",
+            "naics_code": "335910",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RMYAXLTM5S24",
+            "naics_code": "336412",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RMYAXLTM5S24",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RMYAXLTM5S24",
+            "naics_code": "423860",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "RMYAXLTM5S24",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "N64BN2M8M5G8",
+            "naics_code": "423710",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "N64BN2M8M5G8",
+            "naics_code": "423860",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "334310",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "517410",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "518210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541690",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "RUFSMTCJ9GX3",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "927110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "JFTHYSFPWQE3",
+            "naics_code": "928110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "KG7FUM3TCA37",
+            "naics_code": "423860",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "236220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "531390",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541714",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541820",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "611710",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "LKU1PEC5UM96",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "L88BGSA3X6Z1",
+            "naics_code": "517410",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "334111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "334112",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "334210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "334290",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "334519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "336411",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "336414",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "517410",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "518210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541370",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "TXT3HAAZREF1",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D27FSZD2L2U9",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D27FSZD2L2U9",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "D27FSZD2L2U9",
+            "naics_code": "541715",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "CTKLDK3V4M97",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "CTKLDK3V4M97",
+            "naics_code": "334519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "CTKLDK3V4M97",
+            "naics_code": "336413",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "CTKLDK3V4M97",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "F5VJXR8LLZP5",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "F5VJXR8LLZP5",
+            "naics_code": "518210",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "GHXZMXLAQC79",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GHXZMXLAQC79",
+            "naics_code": "336413",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "GHXZMXLAQC79",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "GHXZMXLAQC79",
+            "naics_code": "561621",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "334511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "334519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "336413",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "336419",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "MF2LE5RK6L84",
+            "naics_code": "611512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541330",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "PJ2MS5C1J6A7",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NU3MATKPALM4",
+            "naics_code": "334220",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "NU3MATKPALM4",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NU3MATKPALM4",
+            "naics_code": "336992",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NU3MATKPALM4",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "NU3MATKPALM4",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "L6Q3WZQJCKK1",
+            "naics_code": "423710",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "HRDJHD926HW6",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "WDW1NAE5MCL5",
+            "naics_code": "562910",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "WE38N9QJWHZ5",
+            "naics_code": "336411",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WE38N9QJWHZ5",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "WE38N9QJWHZ5",
+            "naics_code": "488190",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "WE38N9QJWHZ5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "236220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "334220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "336413",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "488111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "488190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "531390",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541199",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541219",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541380",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541612",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541613",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541620",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541720",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "561499",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "561990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "611710",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "921190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "927110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "VZHBEXPGE6G3",
+            "naics_code": "928110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "517810",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "518210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541370",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541512",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541513",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541715",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "DJ8QWMKKC1M5",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C12DA9VGJ9E5",
+            "naics_code": "237310",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C12DA9VGJ9E5",
+            "naics_code": "324121",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C12DA9VGJ9E5",
+            "naics_code": "423320",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C12DA9VGJ9E5",
+            "naics_code": "423390",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C12DA9VGJ9E5",
+            "naics_code": "423990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C12DA9VGJ9E5",
+            "naics_code": "541840",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C19BCCXLDM21",
+            "naics_code": "333310",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C1B3JJDXVZB7",
+            "naics_code": "814110",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C1B7LPPS4KL6",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "C1FLMDRCWT17",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "C1GWUMJPD556",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "C1JHNC68DCQ6",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541511",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541512",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541611",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C22HB93N6FT9",
+            "naics_code": "928110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C23NH1WQCLB8",
+            "naics_code": "481211",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C23NH1WQCLB8",
+            "naics_code": "481212",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "236220",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "488999",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "493110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "493190",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "541330",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "541519",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "541611",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "541614",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "541618",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "541690",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "541990",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "561110",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "561210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "611420",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "611430",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2BYYLMBKGM8",
+            "naics_code": "811111",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2CZASLLH3W6",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "C2LVTFJTGUU1",
+            "naics_code": "541713",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C2LVTFJTGUU1",
+            "naics_code": "541715",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C2S6CR6BM187",
+            "naics_code": null,
+            "is_primary_naics": null,
+            "description": null
+        },
+        {
+            "UEI": "C3BJL6KKG3H1",
+            "naics_code": "488410",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "238120",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "238290",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "238990",
+            "is_primary_naics": "True",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "484210",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "484220",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "484230",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "488991",
+            "is_primary_naics": "False",
+            "description": null
+        },
+        {
+            "UEI": "C3FSNS3MM859",
+            "naics_code": "811310",
+            "is_primary_naics": "False",
+            "description": null
+        }
+    ]
+}

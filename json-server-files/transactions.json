@@ -1,0 +1,4414 @@
+{
+    "transactions": [
+        {
+            "id": "0",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2016,
+            "new_awards": 46.0,
+            "all_transactions": 17814739.729999997
+        },
+        {
+            "id": "1",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2017,
+            "new_awards": 36.0,
+            "all_transactions": 8372331.74
+        },
+        {
+            "id": "2",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2018,
+            "new_awards": 30.0,
+            "all_transactions": 8596035.49
+        },
+        {
+            "id": "3",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2019,
+            "new_awards": 15.0,
+            "all_transactions": 3416379.9599999995
+        },
+        {
+            "id": "4",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2020,
+            "new_awards": 9.0,
+            "all_transactions": -367408.89
+        },
+        {
+            "id": "5",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2021,
+            "new_awards": 23.0,
+            "all_transactions": -398338.14
+        },
+        {
+            "id": "6",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2022,
+            "new_awards": 10.0,
+            "all_transactions": -133004.8
+        },
+        {
+            "id": "7",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2023,
+            "new_awards": 5.0,
+            "all_transactions": 158035.11000000002
+        },
+        {
+            "id": "8",
+            "UEI": "U5BBKY1S5GF6",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "9",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "10",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "11",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2018,
+            "new_awards": 1.0,
+            "all_transactions": 4500000.0
+        },
+        {
+            "id": "12",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2019,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "13",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "14",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "15",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "16",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "17",
+            "UEI": "L88BGSA3X6Z1",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "18",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2016,
+            "new_awards": 60.0,
+            "all_transactions": 89182493.37999998
+        },
+        {
+            "id": "19",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2017,
+            "new_awards": 146.0,
+            "all_transactions": 198363840.03000003
+        },
+        {
+            "id": "20",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2018,
+            "new_awards": 437.0,
+            "all_transactions": 340696798.30999994
+        },
+        {
+            "id": "21",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2019,
+            "new_awards": 535.0,
+            "all_transactions": 325564029.47
+        },
+        {
+            "id": "22",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2020,
+            "new_awards": 319.0,
+            "all_transactions": 404977421.9
+        },
+        {
+            "id": "23",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2021,
+            "new_awards": 356.0,
+            "all_transactions": 306941385.3
+        },
+        {
+            "id": "24",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2022,
+            "new_awards": 284.0,
+            "all_transactions": 271044010.57
+        },
+        {
+            "id": "25",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2023,
+            "new_awards": 396.0,
+            "all_transactions": 569610509.3400002
+        },
+        {
+            "id": "26",
+            "UEI": "NJVNVWQJMPA4",
+            "year": 2024,
+            "new_awards": 55.0,
+            "all_transactions": 49081470.86000001
+        },
+        {
+            "id": "27",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2016,
+            "new_awards": 2.0,
+            "all_transactions": 501439.36
+        },
+        {
+            "id": "28",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2017,
+            "new_awards": 2.0,
+            "all_transactions": 1960235.39
+        },
+        {
+            "id": "29",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2018,
+            "new_awards": 2.0,
+            "all_transactions": 1628821.53
+        },
+        {
+            "id": "30",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2019,
+            "new_awards": 2.0,
+            "all_transactions": 1971308.78
+        },
+        {
+            "id": "31",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 978195.28
+        },
+        {
+            "id": "32",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2021,
+            "new_awards": 2.0,
+            "all_transactions": 1501588.33
+        },
+        {
+            "id": "33",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2022,
+            "new_awards": 3.0,
+            "all_transactions": 1195713.01
+        },
+        {
+            "id": "34",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "35",
+            "UEI": "DJ8QWMKKC1M5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "36",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2016,
+            "new_awards": 8505.0,
+            "all_transactions": 42396520.81
+        },
+        {
+            "id": "37",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2017,
+            "new_awards": 12553.0,
+            "all_transactions": 45128770.79999999
+        },
+        {
+            "id": "38",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2018,
+            "new_awards": 15292.0,
+            "all_transactions": 58789944.99000002
+        },
+        {
+            "id": "39",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2019,
+            "new_awards": 6536.0,
+            "all_transactions": 28511367.640000004
+        },
+        {
+            "id": "40",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2020,
+            "new_awards": 3967.0,
+            "all_transactions": 19787705.75
+        },
+        {
+            "id": "41",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2021,
+            "new_awards": 2283.0,
+            "all_transactions": 14082593.929999998
+        },
+        {
+            "id": "42",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2022,
+            "new_awards": 2110.0,
+            "all_transactions": 10321335.619999995
+        },
+        {
+            "id": "43",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2023,
+            "new_awards": 1570.0,
+            "all_transactions": 11407373.2
+        },
+        {
+            "id": "44",
+            "UEI": "N64BN2M8M5G8",
+            "year": 2024,
+            "new_awards": 155.0,
+            "all_transactions": 1028731.17
+        },
+        {
+            "id": "45",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "46",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2017,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "47",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "48",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "49",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "50",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "51",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "52",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "53",
+            "UEI": "JTR2WGJLDNQ1",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "54",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2016,
+            "new_awards": 11.0,
+            "all_transactions": -97484.56
+        },
+        {
+            "id": "55",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2017,
+            "new_awards": 5.0,
+            "all_transactions": -276952.73
+        },
+        {
+            "id": "56",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2018,
+            "new_awards": 6.0,
+            "all_transactions": 17253.45
+        },
+        {
+            "id": "57",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "58",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2020,
+            "new_awards": 6.0,
+            "all_transactions": -261335.84
+        },
+        {
+            "id": "59",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "60",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "61",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "62",
+            "UEI": "G1WYNX6MQTN5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "63",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "64",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2017,
+            "new_awards": 1.0,
+            "all_transactions": 24459.0
+        },
+        {
+            "id": "65",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2018,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "66",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "67",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "68",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "69",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "70",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "71",
+            "UEI": "NQXJBJTPPK65",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "72",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2016,
+            "new_awards": 28.0,
+            "all_transactions": 59474273.21000001
+        },
+        {
+            "id": "73",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2017,
+            "new_awards": 29.0,
+            "all_transactions": 75514994.98999998
+        },
+        {
+            "id": "74",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2018,
+            "new_awards": 28.0,
+            "all_transactions": 154918495.1
+        },
+        {
+            "id": "75",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2019,
+            "new_awards": 30.0,
+            "all_transactions": 221176687.14
+        },
+        {
+            "id": "76",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2020,
+            "new_awards": 21.0,
+            "all_transactions": 140706781.97000003
+        },
+        {
+            "id": "77",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2021,
+            "new_awards": 60.0,
+            "all_transactions": 49690159.69
+        },
+        {
+            "id": "78",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2022,
+            "new_awards": 26.0,
+            "all_transactions": 112370745.90999998
+        },
+        {
+            "id": "79",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2023,
+            "new_awards": 46.0,
+            "all_transactions": 96746018.08
+        },
+        {
+            "id": "80",
+            "UEI": "H1C4ZVECADM6",
+            "year": 2024,
+            "new_awards": 4.0,
+            "all_transactions": 896393.76
+        },
+        {
+            "id": "81",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2016,
+            "new_awards": 180.0,
+            "all_transactions": 6999178283.79
+        },
+        {
+            "id": "82",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2017,
+            "new_awards": 178.0,
+            "all_transactions": 5889061713.030001
+        },
+        {
+            "id": "83",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2018,
+            "new_awards": 269.0,
+            "all_transactions": 6314162741.240001
+        },
+        {
+            "id": "84",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2019,
+            "new_awards": 275.0,
+            "all_transactions": 7257137463.23
+        },
+        {
+            "id": "85",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2020,
+            "new_awards": 274.0,
+            "all_transactions": 3387866091.12
+        },
+        {
+            "id": "86",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2021,
+            "new_awards": 359.0,
+            "all_transactions": 7287374089.290002
+        },
+        {
+            "id": "87",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2022,
+            "new_awards": 356.0,
+            "all_transactions": 3899174688.84
+        },
+        {
+            "id": "88",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2023,
+            "new_awards": 474.0,
+            "all_transactions": 3318134414.360001
+        },
+        {
+            "id": "89",
+            "UEI": "WZWRLY4G3PL8",
+            "year": 2024,
+            "new_awards": 106.0,
+            "all_transactions": 3926277.83
+        },
+        {
+            "id": "90",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2016,
+            "new_awards": 26.0,
+            "all_transactions": 25455475.49
+        },
+        {
+            "id": "91",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2017,
+            "new_awards": 26.0,
+            "all_transactions": 20144487.06
+        },
+        {
+            "id": "92",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2018,
+            "new_awards": 14.0,
+            "all_transactions": 19541533.38
+        },
+        {
+            "id": "93",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2019,
+            "new_awards": 16.0,
+            "all_transactions": 14358253.989999998
+        },
+        {
+            "id": "94",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2020,
+            "new_awards": 23.0,
+            "all_transactions": 2996710.11
+        },
+        {
+            "id": "95",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2021,
+            "new_awards": 7.0,
+            "all_transactions": -858421.5700000001
+        },
+        {
+            "id": "96",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2022,
+            "new_awards": 12.0,
+            "all_transactions": -281111.93
+        },
+        {
+            "id": "97",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2023,
+            "new_awards": 3.0,
+            "all_transactions": 142455.55
+        },
+        {
+            "id": "98",
+            "UEI": "GHXZMXLAQC79",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "99",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "100",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2017,
+            "new_awards": 3.0,
+            "all_transactions": 104650.48
+        },
+        {
+            "id": "101",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "102",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2019,
+            "new_awards": 2.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "103",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2020,
+            "new_awards": 21.0,
+            "all_transactions": 16057230.569999998
+        },
+        {
+            "id": "104",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2021,
+            "new_awards": 20.0,
+            "all_transactions": 55103573.9
+        },
+        {
+            "id": "105",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2022,
+            "new_awards": 16.0,
+            "all_transactions": 27356405.200000003
+        },
+        {
+            "id": "106",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2023,
+            "new_awards": 12.0,
+            "all_transactions": 17671632.450000003
+        },
+        {
+            "id": "107",
+            "UEI": "TXT3HAAZREF1",
+            "year": 2024,
+            "new_awards": 6.0,
+            "all_transactions": 9851196.94
+        },
+        {
+            "id": "108",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2016,
+            "new_awards": 77.0,
+            "all_transactions": 1890932251.25
+        },
+        {
+            "id": "109",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2017,
+            "new_awards": 84.0,
+            "all_transactions": 1900490784.12
+        },
+        {
+            "id": "110",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2018,
+            "new_awards": 111.0,
+            "all_transactions": 1742326217.4499996
+        },
+        {
+            "id": "111",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2019,
+            "new_awards": 101.0,
+            "all_transactions": 1430836547.3000002
+        },
+        {
+            "id": "112",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2020,
+            "new_awards": 107.0,
+            "all_transactions": 1582152011.1500006
+        },
+        {
+            "id": "113",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2021,
+            "new_awards": 118.0,
+            "all_transactions": 1484358191.88
+        },
+        {
+            "id": "114",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2022,
+            "new_awards": 72.0,
+            "all_transactions": 99518647.07
+        },
+        {
+            "id": "115",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2023,
+            "new_awards": 85.0,
+            "all_transactions": 112935752.54999998
+        },
+        {
+            "id": "116",
+            "UEI": "M8JLMEHJADQ5",
+            "year": 2024,
+            "new_awards": 16.0,
+            "all_transactions": 4111233.63
+        },
+        {
+            "id": "117",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2016,
+            "new_awards": 19.0,
+            "all_transactions": 126621321.82
+        },
+        {
+            "id": "118",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2017,
+            "new_awards": 16.0,
+            "all_transactions": 111658524.79
+        },
+        {
+            "id": "119",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2018,
+            "new_awards": 18.0,
+            "all_transactions": 46014700.74
+        },
+        {
+            "id": "120",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2019,
+            "new_awards": 16.0,
+            "all_transactions": 384098858.75000006
+        },
+        {
+            "id": "121",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2020,
+            "new_awards": 14.0,
+            "all_transactions": 430161941.33
+        },
+        {
+            "id": "122",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2021,
+            "new_awards": 18.0,
+            "all_transactions": 195012525.40000004
+        },
+        {
+            "id": "123",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2022,
+            "new_awards": 18.0,
+            "all_transactions": 150487740.26
+        },
+        {
+            "id": "124",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2023,
+            "new_awards": 13.0,
+            "all_transactions": 347390357.89
+        },
+        {
+            "id": "125",
+            "UEI": "M6BRZ1FHEZQ1",
+            "year": 2024,
+            "new_awards": 6.0,
+            "all_transactions": 30156394.470000003
+        },
+        {
+            "id": "126",
+            "UEI": "ND7JL11CAD56",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "127",
+            "UEI": "ND7JL11CAD56",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "128",
+            "UEI": "ND7JL11CAD56",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "129",
+            "UEI": "ND7JL11CAD56",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "130",
+            "UEI": "ND7JL11CAD56",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "131",
+            "UEI": "ND7JL11CAD56",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "132",
+            "UEI": "ND7JL11CAD56",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "133",
+            "UEI": "ND7JL11CAD56",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "134",
+            "UEI": "ND7JL11CAD56",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "135",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2016,
+            "new_awards": 125.0,
+            "all_transactions": 111440216.35
+        },
+        {
+            "id": "136",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2017,
+            "new_awards": 73.0,
+            "all_transactions": 266025514.02000004
+        },
+        {
+            "id": "137",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2018,
+            "new_awards": 101.0,
+            "all_transactions": 226279040.88
+        },
+        {
+            "id": "138",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2019,
+            "new_awards": 100.0,
+            "all_transactions": 391248090.51
+        },
+        {
+            "id": "139",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2020,
+            "new_awards": 114.0,
+            "all_transactions": 353625101.54
+        },
+        {
+            "id": "140",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2021,
+            "new_awards": 107.0,
+            "all_transactions": 338359925.31000006
+        },
+        {
+            "id": "141",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2022,
+            "new_awards": 77.0,
+            "all_transactions": 225518397.73999995
+        },
+        {
+            "id": "142",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2023,
+            "new_awards": 79.0,
+            "all_transactions": 253371474.20000005
+        },
+        {
+            "id": "143",
+            "UEI": "XM8ZJ6ML9CW7",
+            "year": 2024,
+            "new_awards": 7.0,
+            "all_transactions": 5000000.0
+        },
+        {
+            "id": "144",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "145",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2017,
+            "new_awards": 1.0,
+            "all_transactions": -6853.08
+        },
+        {
+            "id": "146",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "147",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "148",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "149",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "150",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "151",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "152",
+            "UEI": "TYQPX4JC9Q33",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "153",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2016,
+            "new_awards": 8.0,
+            "all_transactions": 308599.0
+        },
+        {
+            "id": "154",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2017,
+            "new_awards": 7.0,
+            "all_transactions": 88690.14
+        },
+        {
+            "id": "155",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2018,
+            "new_awards": 4.0,
+            "all_transactions": -57001.9
+        },
+        {
+            "id": "156",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2019,
+            "new_awards": 6.0,
+            "all_transactions": -42604.990000000005
+        },
+        {
+            "id": "157",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": -95827.0
+        },
+        {
+            "id": "158",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "159",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": 90517.68
+        },
+        {
+            "id": "160",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 29316.0
+        },
+        {
+            "id": "161",
+            "UEI": "HF1ZJJM2MWB5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "162",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2016,
+            "new_awards": 30.0,
+            "all_transactions": 422923176.78
+        },
+        {
+            "id": "163",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2017,
+            "new_awards": 28.0,
+            "all_transactions": 92606167.95
+        },
+        {
+            "id": "164",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2018,
+            "new_awards": 38.0,
+            "all_transactions": -1290180.5
+        },
+        {
+            "id": "165",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2019,
+            "new_awards": 23.0,
+            "all_transactions": 40505553.54
+        },
+        {
+            "id": "166",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2020,
+            "new_awards": 32.0,
+            "all_transactions": -26478508.52
+        },
+        {
+            "id": "167",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2021,
+            "new_awards": 29.0,
+            "all_transactions": 140086639.44000003
+        },
+        {
+            "id": "168",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2022,
+            "new_awards": 36.0,
+            "all_transactions": 1325592130.06
+        },
+        {
+            "id": "169",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2023,
+            "new_awards": 38.0,
+            "all_transactions": 1753904947.1399996
+        },
+        {
+            "id": "170",
+            "UEI": "UEGFHX6R6KJ1",
+            "year": 2024,
+            "new_awards": 9.0,
+            "all_transactions": 699438088.36
+        },
+        {
+            "id": "171",
+            "UEI": "NU3MATKPALM4",
+            "year": 2016,
+            "new_awards": 7.0,
+            "all_transactions": -234361734.84
+        },
+        {
+            "id": "172",
+            "UEI": "NU3MATKPALM4",
+            "year": 2017,
+            "new_awards": 6.0,
+            "all_transactions": -96123588.51
+        },
+        {
+            "id": "173",
+            "UEI": "NU3MATKPALM4",
+            "year": 2018,
+            "new_awards": 3.0,
+            "all_transactions": -3865221.27
+        },
+        {
+            "id": "174",
+            "UEI": "NU3MATKPALM4",
+            "year": 2019,
+            "new_awards": 2.0,
+            "all_transactions": -2672761.1500000004
+        },
+        {
+            "id": "175",
+            "UEI": "NU3MATKPALM4",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 804327.0
+        },
+        {
+            "id": "176",
+            "UEI": "NU3MATKPALM4",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": 141408.0
+        },
+        {
+            "id": "177",
+            "UEI": "NU3MATKPALM4",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "178",
+            "UEI": "NU3MATKPALM4",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "179",
+            "UEI": "NU3MATKPALM4",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "180",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "181",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "182",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2018,
+            "new_awards": 1.0,
+            "all_transactions": 128800.0
+        },
+        {
+            "id": "183",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2019,
+            "new_awards": 2.0,
+            "all_transactions": 9638400.0
+        },
+        {
+            "id": "184",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 8199999.0
+        },
+        {
+            "id": "185",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2021,
+            "new_awards": 2.0,
+            "all_transactions": 9699999.0
+        },
+        {
+            "id": "186",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": 9700000.0
+        },
+        {
+            "id": "187",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2023,
+            "new_awards": 2.0,
+            "all_transactions": 30677938.0
+        },
+        {
+            "id": "188",
+            "UEI": "NQ74LNFKCY84",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "189",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2016,
+            "new_awards": 1.0,
+            "all_transactions": 2963912.77
+        },
+        {
+            "id": "190",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2017,
+            "new_awards": 1.0,
+            "all_transactions": -163874.89
+        },
+        {
+            "id": "191",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2018,
+            "new_awards": 2.0,
+            "all_transactions": 22144747.97
+        },
+        {
+            "id": "192",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2019,
+            "new_awards": 2.0,
+            "all_transactions": 38737533.37
+        },
+        {
+            "id": "193",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 22590883.0
+        },
+        {
+            "id": "194",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": 5321954.0
+        },
+        {
+            "id": "195",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": -360000.0
+        },
+        {
+            "id": "196",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": -19195.0
+        },
+        {
+            "id": "197",
+            "UEI": "VGWWP5R9M3N6",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "198",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2016,
+            "new_awards": 2396.0,
+            "all_transactions": 3559529850.7200003
+        },
+        {
+            "id": "199",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2017,
+            "new_awards": 2479.0,
+            "all_transactions": 3886333422.6100006
+        },
+        {
+            "id": "200",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2018,
+            "new_awards": 2167.0,
+            "all_transactions": 4615402901.37
+        },
+        {
+            "id": "201",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2019,
+            "new_awards": 1994.0,
+            "all_transactions": 4827209304.18
+        },
+        {
+            "id": "202",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2020,
+            "new_awards": 1936.0,
+            "all_transactions": 5121224407.48
+        },
+        {
+            "id": "203",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2021,
+            "new_awards": 1872.0,
+            "all_transactions": 5056488735.8
+        },
+        {
+            "id": "204",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2022,
+            "new_awards": 1811.0,
+            "all_transactions": 5573000260.799998
+        },
+        {
+            "id": "205",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2023,
+            "new_awards": 1713.0,
+            "all_transactions": 6510676890.210003
+        },
+        {
+            "id": "206",
+            "UEI": "JCBMLGPE6Z71",
+            "year": 2024,
+            "new_awards": 458.0,
+            "all_transactions": 691134399.37
+        },
+        {
+            "id": "207",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2016,
+            "new_awards": 8.0,
+            "all_transactions": 26066284.81
+        },
+        {
+            "id": "208",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2017,
+            "new_awards": 10.0,
+            "all_transactions": 32596306.630000003
+        },
+        {
+            "id": "209",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2018,
+            "new_awards": 8.0,
+            "all_transactions": 44244446.24
+        },
+        {
+            "id": "210",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2019,
+            "new_awards": 8.0,
+            "all_transactions": 29758582.16
+        },
+        {
+            "id": "211",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2020,
+            "new_awards": 11.0,
+            "all_transactions": 36393847.01
+        },
+        {
+            "id": "212",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2021,
+            "new_awards": 11.0,
+            "all_transactions": 37783087.4
+        },
+        {
+            "id": "213",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2022,
+            "new_awards": 15.0,
+            "all_transactions": 30762260.94
+        },
+        {
+            "id": "214",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2023,
+            "new_awards": 7.0,
+            "all_transactions": 32988126.94
+        },
+        {
+            "id": "215",
+            "UEI": "JXHRK8FKNJN4",
+            "year": 2024,
+            "new_awards": 3.0,
+            "all_transactions": 1400000.0
+        },
+        {
+            "id": "216",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2016,
+            "new_awards": 6.0,
+            "all_transactions": 722706223.62
+        },
+        {
+            "id": "217",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2017,
+            "new_awards": 11.0,
+            "all_transactions": 587083018.23
+        },
+        {
+            "id": "218",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2018,
+            "new_awards": 15.0,
+            "all_transactions": 660371646.37
+        },
+        {
+            "id": "219",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2019,
+            "new_awards": 15.0,
+            "all_transactions": 250717783.0
+        },
+        {
+            "id": "220",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2020,
+            "new_awards": 10.0,
+            "all_transactions": 35932197.0
+        },
+        {
+            "id": "221",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2021,
+            "new_awards": 6.0,
+            "all_transactions": 15609165.0
+        },
+        {
+            "id": "222",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2022,
+            "new_awards": 8.0,
+            "all_transactions": 27031155.0
+        },
+        {
+            "id": "223",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2023,
+            "new_awards": 9.0,
+            "all_transactions": 16614625.0
+        },
+        {
+            "id": "224",
+            "UEI": "VH1ZJJ9CW9B4",
+            "year": 2024,
+            "new_awards": 3.0,
+            "all_transactions": 5500000.0
+        },
+        {
+            "id": "225",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2016,
+            "new_awards": 1.0,
+            "all_transactions": 451164743.56
+        },
+        {
+            "id": "226",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2017,
+            "new_awards": 1.0,
+            "all_transactions": 491568320.46
+        },
+        {
+            "id": "227",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2018,
+            "new_awards": 1.0,
+            "all_transactions": 620137964.1299999
+        },
+        {
+            "id": "228",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2019,
+            "new_awards": 1.0,
+            "all_transactions": 551398910.76
+        },
+        {
+            "id": "229",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 384202674.43
+        },
+        {
+            "id": "230",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": 431166966.49
+        },
+        {
+            "id": "231",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": 327795250.26
+        },
+        {
+            "id": "232",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 422660399.18
+        },
+        {
+            "id": "233",
+            "UEI": "HLWWEH2CCXW5",
+            "year": 2024,
+            "new_awards": 1.0,
+            "all_transactions": 126255262.0
+        },
+        {
+            "id": "234",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2016,
+            "new_awards": 2.0,
+            "all_transactions": 52584224.77
+        },
+        {
+            "id": "235",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2017,
+            "new_awards": 1.0,
+            "all_transactions": -4150493.0
+        },
+        {
+            "id": "236",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2018,
+            "new_awards": 4.0,
+            "all_transactions": -640000.0
+        },
+        {
+            "id": "237",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "238",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": -2291296.97
+        },
+        {
+            "id": "239",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2021,
+            "new_awards": 2.0,
+            "all_transactions": -2291296.97
+        },
+        {
+            "id": "240",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2022,
+            "new_awards": 2.0,
+            "all_transactions": -482963.68000000005
+        },
+        {
+            "id": "241",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "242",
+            "UEI": "CTFDL6CPUNY5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "243",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2016,
+            "new_awards": 16.0,
+            "all_transactions": 1174193.01
+        },
+        {
+            "id": "244",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2017,
+            "new_awards": 53.0,
+            "all_transactions": 4733353.26
+        },
+        {
+            "id": "245",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2018,
+            "new_awards": 261.0,
+            "all_transactions": 13297011.290000005
+        },
+        {
+            "id": "246",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2019,
+            "new_awards": 447.0,
+            "all_transactions": 25903886.95
+        },
+        {
+            "id": "247",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2020,
+            "new_awards": 280.0,
+            "all_transactions": 10706497.409999998
+        },
+        {
+            "id": "248",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2021,
+            "new_awards": 264.0,
+            "all_transactions": 9329530.33
+        },
+        {
+            "id": "249",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2022,
+            "new_awards": 217.0,
+            "all_transactions": 9299472.259999996
+        },
+        {
+            "id": "250",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2023,
+            "new_awards": 76.0,
+            "all_transactions": 1448848.6600000004
+        },
+        {
+            "id": "251",
+            "UEI": "FBRTAX7SGND3",
+            "year": 2024,
+            "new_awards": 13.0,
+            "all_transactions": 816963.6799999999
+        },
+        {
+            "id": "252",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2016,
+            "new_awards": 7.0,
+            "all_transactions": 114500.0
+        },
+        {
+            "id": "253",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2017,
+            "new_awards": 12.0,
+            "all_transactions": 257353.75
+        },
+        {
+            "id": "254",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2018,
+            "new_awards": 4.0,
+            "all_transactions": 114362.0
+        },
+        {
+            "id": "255",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2019,
+            "new_awards": 7.0,
+            "all_transactions": 192178.0
+        },
+        {
+            "id": "256",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2020,
+            "new_awards": 4.0,
+            "all_transactions": 82341.0
+        },
+        {
+            "id": "257",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2021,
+            "new_awards": 9.0,
+            "all_transactions": 104487.0
+        },
+        {
+            "id": "258",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2022,
+            "new_awards": 6.0,
+            "all_transactions": 136772.0
+        },
+        {
+            "id": "259",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2023,
+            "new_awards": 4.0,
+            "all_transactions": 81088.0
+        },
+        {
+            "id": "260",
+            "UEI": "DLEKTJFY1UX7",
+            "year": 2024,
+            "new_awards": 4.0,
+            "all_transactions": -768.0
+        },
+        {
+            "id": "261",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2016,
+            "new_awards": 3.0,
+            "all_transactions": 2294299.62
+        },
+        {
+            "id": "262",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2017,
+            "new_awards": 2.0,
+            "all_transactions": 163392.0
+        },
+        {
+            "id": "263",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2018,
+            "new_awards": 4.0,
+            "all_transactions": 2547371.0
+        },
+        {
+            "id": "264",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2019,
+            "new_awards": 3.0,
+            "all_transactions": 1930515.0
+        },
+        {
+            "id": "265",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "266",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": 714377.6
+        },
+        {
+            "id": "267",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2022,
+            "new_awards": 4.0,
+            "all_transactions": 789329.73
+        },
+        {
+            "id": "268",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 10000.0
+        },
+        {
+            "id": "269",
+            "UEI": "QK7VQKC76AA3",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "270",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2016,
+            "new_awards": 6.0,
+            "all_transactions": 80304.49
+        },
+        {
+            "id": "271",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2017,
+            "new_awards": 9.0,
+            "all_transactions": -477787.91
+        },
+        {
+            "id": "272",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2018,
+            "new_awards": 11.0,
+            "all_transactions": 63660.0
+        },
+        {
+            "id": "273",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2019,
+            "new_awards": 3.0,
+            "all_transactions": -115909.59
+        },
+        {
+            "id": "274",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "275",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "276",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "277",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": -2900.0
+        },
+        {
+            "id": "278",
+            "UEI": "NU2UC8MX6NK1",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "279",
+            "UEI": "J666RX4KKLK8",
+            "year": 2016,
+            "new_awards": 10.0,
+            "all_transactions": 47103682.510000005
+        },
+        {
+            "id": "280",
+            "UEI": "J666RX4KKLK8",
+            "year": 2017,
+            "new_awards": 7.0,
+            "all_transactions": 64440220.54
+        },
+        {
+            "id": "281",
+            "UEI": "J666RX4KKLK8",
+            "year": 2018,
+            "new_awards": 4.0,
+            "all_transactions": 59938032.95
+        },
+        {
+            "id": "282",
+            "UEI": "J666RX4KKLK8",
+            "year": 2019,
+            "new_awards": 3.0,
+            "all_transactions": 95279129.94
+        },
+        {
+            "id": "283",
+            "UEI": "J666RX4KKLK8",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 33747660.0
+        },
+        {
+            "id": "284",
+            "UEI": "J666RX4KKLK8",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": 12811370.0
+        },
+        {
+            "id": "285",
+            "UEI": "J666RX4KKLK8",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": -1245252.0
+        },
+        {
+            "id": "286",
+            "UEI": "J666RX4KKLK8",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "287",
+            "UEI": "J666RX4KKLK8",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "288",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "289",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "290",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "291",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "292",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "293",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2021,
+            "new_awards": 4.0,
+            "all_transactions": 559366.45
+        },
+        {
+            "id": "294",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2022,
+            "new_awards": 6.0,
+            "all_transactions": 967272.77
+        },
+        {
+            "id": "295",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2023,
+            "new_awards": 12.0,
+            "all_transactions": 41222496.84
+        },
+        {
+            "id": "296",
+            "UEI": "VZHBEXPGE6G3",
+            "year": 2024,
+            "new_awards": 3.0,
+            "all_transactions": 13839676.78
+        },
+        {
+            "id": "297",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2016,
+            "new_awards": 39.0,
+            "all_transactions": 107283506.46999998
+        },
+        {
+            "id": "298",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2017,
+            "new_awards": 32.0,
+            "all_transactions": 96442976.15
+        },
+        {
+            "id": "299",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2018,
+            "new_awards": 29.0,
+            "all_transactions": 110276074.85999998
+        },
+        {
+            "id": "300",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2019,
+            "new_awards": 32.0,
+            "all_transactions": 162937263.0
+        },
+        {
+            "id": "301",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2020,
+            "new_awards": 22.0,
+            "all_transactions": 70713855.41
+        },
+        {
+            "id": "302",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2021,
+            "new_awards": 29.0,
+            "all_transactions": 98945694.09
+        },
+        {
+            "id": "303",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2022,
+            "new_awards": 34.0,
+            "all_transactions": 118945126.82999998
+        },
+        {
+            "id": "304",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2023,
+            "new_awards": 28.0,
+            "all_transactions": 123998510.66
+        },
+        {
+            "id": "305",
+            "UEI": "PHJHM5MZKMN5",
+            "year": 2024,
+            "new_awards": 2.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "306",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2016,
+            "new_awards": 4.0,
+            "all_transactions": 32789907.12
+        },
+        {
+            "id": "307",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2017,
+            "new_awards": 8.0,
+            "all_transactions": 162273472.66
+        },
+        {
+            "id": "308",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2018,
+            "new_awards": 12.0,
+            "all_transactions": 140548956.54999998
+        },
+        {
+            "id": "309",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2019,
+            "new_awards": 13.0,
+            "all_transactions": 234460391.51
+        },
+        {
+            "id": "310",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2020,
+            "new_awards": 14.0,
+            "all_transactions": 427506257.8399999
+        },
+        {
+            "id": "311",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2021,
+            "new_awards": 14.0,
+            "all_transactions": 557223144.7099999
+        },
+        {
+            "id": "312",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2022,
+            "new_awards": 15.0,
+            "all_transactions": 548819816.1900002
+        },
+        {
+            "id": "313",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2023,
+            "new_awards": 12.0,
+            "all_transactions": 726698532.3500001
+        },
+        {
+            "id": "314",
+            "UEI": "KHK6E1JW9C15",
+            "year": 2024,
+            "new_awards": 4.0,
+            "all_transactions": 244557654.45
+        },
+        {
+            "id": "315",
+            "UEI": "GYKENE15SAT8",
+            "year": 2016,
+            "new_awards": 21.0,
+            "all_transactions": 76846673.11999997
+        },
+        {
+            "id": "316",
+            "UEI": "GYKENE15SAT8",
+            "year": 2017,
+            "new_awards": 26.0,
+            "all_transactions": 57921363.08
+        },
+        {
+            "id": "317",
+            "UEI": "GYKENE15SAT8",
+            "year": 2018,
+            "new_awards": 15.0,
+            "all_transactions": 59572229.94
+        },
+        {
+            "id": "318",
+            "UEI": "GYKENE15SAT8",
+            "year": 2019,
+            "new_awards": 11.0,
+            "all_transactions": 2837785.77
+        },
+        {
+            "id": "319",
+            "UEI": "GYKENE15SAT8",
+            "year": 2020,
+            "new_awards": 2.0,
+            "all_transactions": 639469.7
+        },
+        {
+            "id": "320",
+            "UEI": "GYKENE15SAT8",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "321",
+            "UEI": "GYKENE15SAT8",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "322",
+            "UEI": "GYKENE15SAT8",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "323",
+            "UEI": "GYKENE15SAT8",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "324",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2016,
+            "new_awards": 8.0,
+            "all_transactions": 6529653.54
+        },
+        {
+            "id": "325",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2017,
+            "new_awards": 8.0,
+            "all_transactions": 27277917.23
+        },
+        {
+            "id": "326",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2018,
+            "new_awards": 4.0,
+            "all_transactions": 24879322.630000003
+        },
+        {
+            "id": "327",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2019,
+            "new_awards": 4.0,
+            "all_transactions": 824451.63
+        },
+        {
+            "id": "328",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2020,
+            "new_awards": 4.0,
+            "all_transactions": -329120.07
+        },
+        {
+            "id": "329",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2021,
+            "new_awards": 2.0,
+            "all_transactions": -348491.44
+        },
+        {
+            "id": "330",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2022,
+            "new_awards": 2.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "331",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "332",
+            "UEI": "G5NSKYNG4VH6",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "333",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2016,
+            "new_awards": 343.0,
+            "all_transactions": 24018880.76
+        },
+        {
+            "id": "334",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2017,
+            "new_awards": 433.0,
+            "all_transactions": 43769737.39
+        },
+        {
+            "id": "335",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2018,
+            "new_awards": 864.0,
+            "all_transactions": 132991396.35
+        },
+        {
+            "id": "336",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2019,
+            "new_awards": 573.0,
+            "all_transactions": 64494682.19
+        },
+        {
+            "id": "337",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2020,
+            "new_awards": 291.0,
+            "all_transactions": 26717086.000000004
+        },
+        {
+            "id": "338",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2021,
+            "new_awards": 379.0,
+            "all_transactions": 24465025.28
+        },
+        {
+            "id": "339",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2022,
+            "new_awards": 172.0,
+            "all_transactions": 1156358.8600000003
+        },
+        {
+            "id": "340",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2023,
+            "new_awards": 198.0,
+            "all_transactions": 1823541.0300000005
+        },
+        {
+            "id": "341",
+            "UEI": "RMYAXLTM5S24",
+            "year": 2024,
+            "new_awards": 34.0,
+            "all_transactions": 407760.11
+        },
+        {
+            "id": "342",
+            "UEI": "SML4NN2CT556",
+            "year": 2016,
+            "new_awards": 18.0,
+            "all_transactions": 2336303805.8
+        },
+        {
+            "id": "343",
+            "UEI": "SML4NN2CT556",
+            "year": 2017,
+            "new_awards": 22.0,
+            "all_transactions": 1977785545.83
+        },
+        {
+            "id": "344",
+            "UEI": "SML4NN2CT556",
+            "year": 2018,
+            "new_awards": 25.0,
+            "all_transactions": 3023005856.14
+        },
+        {
+            "id": "345",
+            "UEI": "SML4NN2CT556",
+            "year": 2019,
+            "new_awards": 27.0,
+            "all_transactions": 2234867616.73
+        },
+        {
+            "id": "346",
+            "UEI": "SML4NN2CT556",
+            "year": 2020,
+            "new_awards": 35.0,
+            "all_transactions": 2092368979.09
+        },
+        {
+            "id": "347",
+            "UEI": "SML4NN2CT556",
+            "year": 2021,
+            "new_awards": 27.0,
+            "all_transactions": 2691035626.65
+        },
+        {
+            "id": "348",
+            "UEI": "SML4NN2CT556",
+            "year": 2022,
+            "new_awards": 25.0,
+            "all_transactions": 1988123702.55
+        },
+        {
+            "id": "349",
+            "UEI": "SML4NN2CT556",
+            "year": 2023,
+            "new_awards": 24.0,
+            "all_transactions": 1519643233.53
+        },
+        {
+            "id": "350",
+            "UEI": "SML4NN2CT556",
+            "year": 2024,
+            "new_awards": 11.0,
+            "all_transactions": 293586804.08000004
+        },
+        {
+            "id": "351",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "352",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2017,
+            "new_awards": 5.0,
+            "all_transactions": 7909.37
+        },
+        {
+            "id": "353",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2018,
+            "new_awards": 2.0,
+            "all_transactions": 16935.33
+        },
+        {
+            "id": "354",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "355",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "356",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "357",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "358",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "359",
+            "UEI": "ESWLE6UACDM5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "360",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2016,
+            "new_awards": 24.0,
+            "all_transactions": 4078072.09
+        },
+        {
+            "id": "361",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2017,
+            "new_awards": 41.0,
+            "all_transactions": 7054365.79
+        },
+        {
+            "id": "362",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2018,
+            "new_awards": 33.0,
+            "all_transactions": 4285763.95
+        },
+        {
+            "id": "363",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2019,
+            "new_awards": 23.0,
+            "all_transactions": 6632035.3100000005
+        },
+        {
+            "id": "364",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2020,
+            "new_awards": 11.0,
+            "all_transactions": 1836833.88
+        },
+        {
+            "id": "365",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2021,
+            "new_awards": 6.0,
+            "all_transactions": 4171343.0
+        },
+        {
+            "id": "366",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2022,
+            "new_awards": 9.0,
+            "all_transactions": 4225925.5
+        },
+        {
+            "id": "367",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2023,
+            "new_awards": 4.0,
+            "all_transactions": -88387.59999999999
+        },
+        {
+            "id": "368",
+            "UEI": "R6APMGPCKTN4",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "369",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2016,
+            "new_awards": 63.0,
+            "all_transactions": 12469178.880000005
+        },
+        {
+            "id": "370",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2017,
+            "new_awards": 57.0,
+            "all_transactions": 16139674.119999995
+        },
+        {
+            "id": "371",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2018,
+            "new_awards": 39.0,
+            "all_transactions": 10912292.14
+        },
+        {
+            "id": "372",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2019,
+            "new_awards": 37.0,
+            "all_transactions": 12117349.499999998
+        },
+        {
+            "id": "373",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2020,
+            "new_awards": 44.0,
+            "all_transactions": 31831271.73
+        },
+        {
+            "id": "374",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2021,
+            "new_awards": 53.0,
+            "all_transactions": 16981421.64
+        },
+        {
+            "id": "375",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2022,
+            "new_awards": 56.0,
+            "all_transactions": 34992541.74
+        },
+        {
+            "id": "376",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2023,
+            "new_awards": 65.0,
+            "all_transactions": 46231644.760000005
+        },
+        {
+            "id": "377",
+            "UEI": "F5VJXR8LLZP5",
+            "year": 2024,
+            "new_awards": 13.0,
+            "all_transactions": 5582625.95
+        },
+        {
+            "id": "378",
+            "UEI": "C19BCCXLDM21",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "379",
+            "UEI": "C19BCCXLDM21",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "380",
+            "UEI": "C19BCCXLDM21",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "381",
+            "UEI": "C19BCCXLDM21",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "382",
+            "UEI": "C19BCCXLDM21",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "383",
+            "UEI": "C19BCCXLDM21",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "384",
+            "UEI": "C19BCCXLDM21",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "385",
+            "UEI": "C19BCCXLDM21",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "386",
+            "UEI": "C19BCCXLDM21",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "387",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "388",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "389",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2018,
+            "new_awards": 1.0,
+            "all_transactions": 24758339.0
+        },
+        {
+            "id": "390",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2019,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "391",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "392",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": -75346.54
+        },
+        {
+            "id": "393",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "394",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "395",
+            "UEI": "YU49ARMJ1MD5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "396",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2016,
+            "new_awards": 2.0,
+            "all_transactions": 1078086.0
+        },
+        {
+            "id": "397",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2017,
+            "new_awards": 3.0,
+            "all_transactions": -654696.16
+        },
+        {
+            "id": "398",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2018,
+            "new_awards": 2.0,
+            "all_transactions": 1145000.0
+        },
+        {
+            "id": "399",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2019,
+            "new_awards": 2.0,
+            "all_transactions": 10000.0
+        },
+        {
+            "id": "400",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2020,
+            "new_awards": 2.0,
+            "all_transactions": 1150000.0
+        },
+        {
+            "id": "401",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2021,
+            "new_awards": 1.0,
+            "all_transactions": 1238449.0
+        },
+        {
+            "id": "402",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2022,
+            "new_awards": 2.0,
+            "all_transactions": 479387.63
+        },
+        {
+            "id": "403",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2023,
+            "new_awards": 2.0,
+            "all_transactions": 1240628.99
+        },
+        {
+            "id": "404",
+            "UEI": "WDW1NAE5MCL5",
+            "year": 2024,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "405",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2016,
+            "new_awards": 149.0,
+            "all_transactions": 52469667.49000002
+        },
+        {
+            "id": "406",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2017,
+            "new_awards": 163.0,
+            "all_transactions": 64640375.38000001
+        },
+        {
+            "id": "407",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2018,
+            "new_awards": 158.0,
+            "all_transactions": 22408186.36
+        },
+        {
+            "id": "408",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2019,
+            "new_awards": 149.0,
+            "all_transactions": 50794340.35
+        },
+        {
+            "id": "409",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2020,
+            "new_awards": 137.0,
+            "all_transactions": 48993026.66000001
+        },
+        {
+            "id": "410",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2021,
+            "new_awards": 101.0,
+            "all_transactions": 54870234.82000001
+        },
+        {
+            "id": "411",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2022,
+            "new_awards": 78.0,
+            "all_transactions": 33399967.750000004
+        },
+        {
+            "id": "412",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2023,
+            "new_awards": 53.0,
+            "all_transactions": 57833847.28999999
+        },
+        {
+            "id": "413",
+            "UEI": "LYL4E7AZMKN7",
+            "year": 2024,
+            "new_awards": 5.0,
+            "all_transactions": 2894720.0
+        },
+        {
+            "id": "414",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2016,
+            "new_awards": 3248.0,
+            "all_transactions": 2282525100.19
+        },
+        {
+            "id": "415",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2017,
+            "new_awards": 3997.0,
+            "all_transactions": 2509760887.939999
+        },
+        {
+            "id": "416",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2018,
+            "new_awards": 4951.0,
+            "all_transactions": 2435419876.9000006
+        },
+        {
+            "id": "417",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2019,
+            "new_awards": 4998.0,
+            "all_transactions": 1724184030.7800002
+        },
+        {
+            "id": "418",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2020,
+            "new_awards": 2796.0,
+            "all_transactions": 2064327562.17
+        },
+        {
+            "id": "419",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2021,
+            "new_awards": 2600.0,
+            "all_transactions": 2471926026.62
+        },
+        {
+            "id": "420",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2022,
+            "new_awards": 2107.0,
+            "all_transactions": 1893163222.21
+        },
+        {
+            "id": "421",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2023,
+            "new_awards": 2358.0,
+            "all_transactions": 947186175.5800002
+        },
+        {
+            "id": "422",
+            "UEI": "JHFZTG8ZC9V2",
+            "year": 2024,
+            "new_awards": 292.0,
+            "all_transactions": 16149156.3
+        },
+        {
+            "id": "423",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2016,
+            "new_awards": 43.0,
+            "all_transactions": 607065575.8299999
+        },
+        {
+            "id": "424",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2017,
+            "new_awards": 114.0,
+            "all_transactions": 824145845.6200001
+        },
+        {
+            "id": "425",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2018,
+            "new_awards": 150.0,
+            "all_transactions": 1160737224.49
+        },
+        {
+            "id": "426",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2019,
+            "new_awards": 170.0,
+            "all_transactions": 695023197.28
+        },
+        {
+            "id": "427",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2020,
+            "new_awards": 176.0,
+            "all_transactions": 863670037.16
+        },
+        {
+            "id": "428",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2021,
+            "new_awards": 208.0,
+            "all_transactions": 779017857.8100001
+        },
+        {
+            "id": "429",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2022,
+            "new_awards": 211.0,
+            "all_transactions": 1217605468.83
+        },
+        {
+            "id": "430",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2023,
+            "new_awards": 216.0,
+            "all_transactions": 1248325399.0700002
+        },
+        {
+            "id": "431",
+            "UEI": "M25AW7P5S7K7",
+            "year": 2024,
+            "new_awards": 41.0,
+            "all_transactions": 25677604.12
+        },
+        {
+            "id": "432",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2016,
+            "new_awards": 4909.0,
+            "all_transactions": 7134763.829999999
+        },
+        {
+            "id": "433",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2017,
+            "new_awards": 3777.0,
+            "all_transactions": 8446967.020000001
+        },
+        {
+            "id": "434",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2018,
+            "new_awards": 4121.0,
+            "all_transactions": 14281236.28
+        },
+        {
+            "id": "435",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2019,
+            "new_awards": 3630.0,
+            "all_transactions": 13044817.640000002
+        },
+        {
+            "id": "436",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2020,
+            "new_awards": 1395.0,
+            "all_transactions": 3949240.28
+        },
+        {
+            "id": "437",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2021,
+            "new_awards": 2425.0,
+            "all_transactions": 5327306.639999999
+        },
+        {
+            "id": "438",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2022,
+            "new_awards": 4341.0,
+            "all_transactions": 6057296.460000001
+        },
+        {
+            "id": "439",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2023,
+            "new_awards": 5183.0,
+            "all_transactions": 7915080.680000001
+        },
+        {
+            "id": "440",
+            "UEI": "X3K6MA9ZLTW6",
+            "year": 2024,
+            "new_awards": 546.0,
+            "all_transactions": 858170.8500000001
+        },
+        {
+            "id": "441",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2016,
+            "new_awards": 20.0,
+            "all_transactions": 126293520.86
+        },
+        {
+            "id": "442",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2017,
+            "new_awards": 32.0,
+            "all_transactions": 112310830.57999998
+        },
+        {
+            "id": "443",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2018,
+            "new_awards": 33.0,
+            "all_transactions": 144728569.71999997
+        },
+        {
+            "id": "444",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2019,
+            "new_awards": 30.0,
+            "all_transactions": 115977375.98999998
+        },
+        {
+            "id": "445",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2020,
+            "new_awards": 13.0,
+            "all_transactions": 104273311.6
+        },
+        {
+            "id": "446",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2021,
+            "new_awards": 11.0,
+            "all_transactions": 119296979.33
+        },
+        {
+            "id": "447",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2022,
+            "new_awards": 9.0,
+            "all_transactions": 128911032.47
+        },
+        {
+            "id": "448",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2023,
+            "new_awards": 13.0,
+            "all_transactions": 142069091.95000002
+        },
+        {
+            "id": "449",
+            "UEI": "H91LD1GY6JN5",
+            "year": 2024,
+            "new_awards": 2.0,
+            "all_transactions": -0.04
+        },
+        {
+            "id": "450",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2016,
+            "new_awards": 20.0,
+            "all_transactions": -37171732.23
+        },
+        {
+            "id": "451",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2017,
+            "new_awards": 13.0,
+            "all_transactions": 1235719.6900000002
+        },
+        {
+            "id": "452",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2018,
+            "new_awards": 13.0,
+            "all_transactions": -3296893.1100000003
+        },
+        {
+            "id": "453",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2019,
+            "new_awards": 6.0,
+            "all_transactions": -5612381.18
+        },
+        {
+            "id": "454",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2020,
+            "new_awards": 6.0,
+            "all_transactions": -360598.98
+        },
+        {
+            "id": "455",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2021,
+            "new_awards": 3.0,
+            "all_transactions": -18200.48
+        },
+        {
+            "id": "456",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "457",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2023,
+            "new_awards": 2.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "458",
+            "UEI": "WE38N9QJWHZ5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "459",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2016,
+            "new_awards": 534.0,
+            "all_transactions": 6516394878.260001
+        },
+        {
+            "id": "460",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2017,
+            "new_awards": 711.0,
+            "all_transactions": 4067744492.069999
+        },
+        {
+            "id": "461",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2018,
+            "new_awards": 618.0,
+            "all_transactions": 9754276632.15
+        },
+        {
+            "id": "462",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2019,
+            "new_awards": 712.0,
+            "all_transactions": 7774760591.06
+        },
+        {
+            "id": "463",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2020,
+            "new_awards": 703.0,
+            "all_transactions": 8757433535.080002
+        },
+        {
+            "id": "464",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2021,
+            "new_awards": 664.0,
+            "all_transactions": 5993540941.45
+        },
+        {
+            "id": "465",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2022,
+            "new_awards": 674.0,
+            "all_transactions": 3450963113.79
+        },
+        {
+            "id": "466",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2023,
+            "new_awards": 708.0,
+            "all_transactions": 7785440760.48
+        },
+        {
+            "id": "467",
+            "UEI": "JJM4FRDZJDX1",
+            "year": 2024,
+            "new_awards": 132.0,
+            "all_transactions": 170634041.19
+        },
+        {
+            "id": "468",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2016,
+            "new_awards": 3.0,
+            "all_transactions": -66321.93
+        },
+        {
+            "id": "469",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2017,
+            "new_awards": 7.0,
+            "all_transactions": 4951092.97
+        },
+        {
+            "id": "470",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2018,
+            "new_awards": 5.0,
+            "all_transactions": -1376.14
+        },
+        {
+            "id": "471",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2019,
+            "new_awards": 2.0,
+            "all_transactions": -202448.69
+        },
+        {
+            "id": "472",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "473",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2021,
+            "new_awards": 9.0,
+            "all_transactions": -12455338.37
+        },
+        {
+            "id": "474",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": -242506.16
+        },
+        {
+            "id": "475",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "476",
+            "UEI": "M3HLN4G4PQT9",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "477",
+            "UEI": "C3FSNS3MM859",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "478",
+            "UEI": "C3FSNS3MM859",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "479",
+            "UEI": "C3FSNS3MM859",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "480",
+            "UEI": "C3FSNS3MM859",
+            "year": 2019,
+            "new_awards": 1.0,
+            "all_transactions": 26400.0
+        },
+        {
+            "id": "481",
+            "UEI": "C3FSNS3MM859",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "482",
+            "UEI": "C3FSNS3MM859",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "483",
+            "UEI": "C3FSNS3MM859",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": -26400.0
+        },
+        {
+            "id": "484",
+            "UEI": "C3FSNS3MM859",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "485",
+            "UEI": "C3FSNS3MM859",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "486",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2016,
+            "new_awards": 5654.0,
+            "all_transactions": 1559690811.4900002
+        },
+        {
+            "id": "487",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2017,
+            "new_awards": 6464.0,
+            "all_transactions": 2818136450.7800007
+        },
+        {
+            "id": "488",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2018,
+            "new_awards": 8085.0,
+            "all_transactions": 1806526021.38
+        },
+        {
+            "id": "489",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2019,
+            "new_awards": 7851.0,
+            "all_transactions": 2137569932.99
+        },
+        {
+            "id": "490",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2020,
+            "new_awards": 6133.0,
+            "all_transactions": 1358762174.1699998
+        },
+        {
+            "id": "491",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2021,
+            "new_awards": 4737.0,
+            "all_transactions": 1396582680.86
+        },
+        {
+            "id": "492",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2022,
+            "new_awards": 4158.0,
+            "all_transactions": 1377990230.4199998
+        },
+        {
+            "id": "493",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2023,
+            "new_awards": 3957.0,
+            "all_transactions": 1376724974.9499998
+        },
+        {
+            "id": "494",
+            "UEI": "MF2LE5RK6L84",
+            "year": 2024,
+            "new_awards": 577.0,
+            "all_transactions": 25280177.44
+        },
+        {
+            "id": "495",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "496",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "497",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "498",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2019,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "499",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "500",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "501",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "502",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "503",
+            "UEI": "C2BYYLMBKGM8",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "504",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2016,
+            "new_awards": 12.0,
+            "all_transactions": 8725917.26
+        },
+        {
+            "id": "505",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2017,
+            "new_awards": 13.0,
+            "all_transactions": -10090738.19
+        },
+        {
+            "id": "506",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2018,
+            "new_awards": 43.0,
+            "all_transactions": -42668.890000000014
+        },
+        {
+            "id": "507",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2019,
+            "new_awards": 4.0,
+            "all_transactions": 291201.68
+        },
+        {
+            "id": "508",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2020,
+            "new_awards": 7.0,
+            "all_transactions": -733825.6299999999
+        },
+        {
+            "id": "509",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2021,
+            "new_awards": 5.0,
+            "all_transactions": -256426.18
+        },
+        {
+            "id": "510",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2022,
+            "new_awards": 2.0,
+            "all_transactions": -239954.26
+        },
+        {
+            "id": "511",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "512",
+            "UEI": "G8YTUPGGAJN5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "513",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2016,
+            "new_awards": 5.0,
+            "all_transactions": 4201963.64
+        },
+        {
+            "id": "514",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2017,
+            "new_awards": 4.0,
+            "all_transactions": 3413988.92
+        },
+        {
+            "id": "515",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2018,
+            "new_awards": 4.0,
+            "all_transactions": 471340.87000000005
+        },
+        {
+            "id": "516",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2019,
+            "new_awards": 8.0,
+            "all_transactions": 233844.95
+        },
+        {
+            "id": "517",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "518",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "519",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "520",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "521",
+            "UEI": "SWNGPNU86XM5",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "522",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2016,
+            "new_awards": 36.0,
+            "all_transactions": 18920713.65
+        },
+        {
+            "id": "523",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2017,
+            "new_awards": 62.0,
+            "all_transactions": 60364840.1
+        },
+        {
+            "id": "524",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2018,
+            "new_awards": 71.0,
+            "all_transactions": 61065425.06
+        },
+        {
+            "id": "525",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2019,
+            "new_awards": 72.0,
+            "all_transactions": 74991270.66
+        },
+        {
+            "id": "526",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2020,
+            "new_awards": 72.0,
+            "all_transactions": 55235308.76
+        },
+        {
+            "id": "527",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2021,
+            "new_awards": 54.0,
+            "all_transactions": 77726254.98
+        },
+        {
+            "id": "528",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2022,
+            "new_awards": 45.0,
+            "all_transactions": 38844723.48
+        },
+        {
+            "id": "529",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2023,
+            "new_awards": 49.0,
+            "all_transactions": 34928845.09
+        },
+        {
+            "id": "530",
+            "UEI": "D27FSZD2L2U9",
+            "year": 2024,
+            "new_awards": 4.0,
+            "all_transactions": 1094577.0
+        },
+        {
+            "id": "531",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2016,
+            "new_awards": 7.0,
+            "all_transactions": 5021929.0
+        },
+        {
+            "id": "532",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2017,
+            "new_awards": 8.0,
+            "all_transactions": 31495153.0
+        },
+        {
+            "id": "533",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2018,
+            "new_awards": 7.0,
+            "all_transactions": 35743468.0
+        },
+        {
+            "id": "534",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2019,
+            "new_awards": 4.0,
+            "all_transactions": 20745372.0
+        },
+        {
+            "id": "535",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2020,
+            "new_awards": 8.0,
+            "all_transactions": 27559966.74
+        },
+        {
+            "id": "536",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2021,
+            "new_awards": 4.0,
+            "all_transactions": 30958612.02
+        },
+        {
+            "id": "537",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2022,
+            "new_awards": 7.0,
+            "all_transactions": 29143463.75
+        },
+        {
+            "id": "538",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2023,
+            "new_awards": 8.0,
+            "all_transactions": 35321837.06
+        },
+        {
+            "id": "539",
+            "UEI": "YBMJKB9DJB21",
+            "year": 2024,
+            "new_awards": 1.0,
+            "all_transactions": 3415697.67
+        },
+        {
+            "id": "540",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2016,
+            "new_awards": 8.0,
+            "all_transactions": 37438375.16
+        },
+        {
+            "id": "541",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2017,
+            "new_awards": 9.0,
+            "all_transactions": 34728451.45999999
+        },
+        {
+            "id": "542",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2018,
+            "new_awards": 7.0,
+            "all_transactions": 17587947.160000004
+        },
+        {
+            "id": "543",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2019,
+            "new_awards": 5.0,
+            "all_transactions": 6372237.599999998
+        },
+        {
+            "id": "544",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2020,
+            "new_awards": 2.0,
+            "all_transactions": 8845983.72
+        },
+        {
+            "id": "545",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2021,
+            "new_awards": 3.0,
+            "all_transactions": 1583520.2
+        },
+        {
+            "id": "546",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": 2316362.24
+        },
+        {
+            "id": "547",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2023,
+            "new_awards": 1.0,
+            "all_transactions": 1324299.89
+        },
+        {
+            "id": "548",
+            "UEI": "CTKLDK3V4M97",
+            "year": 2024,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "549",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2016,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "550",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "551",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "552",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2019,
+            "new_awards": 1.0,
+            "all_transactions": -153244.98
+        },
+        {
+            "id": "553",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2020,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "554",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "555",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "556",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "557",
+            "UEI": "W9LACPBZDUV3",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "558",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2016,
+            "new_awards": 10.0,
+            "all_transactions": 3471598.44
+        },
+        {
+            "id": "559",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2017,
+            "new_awards": 10.0,
+            "all_transactions": 7726262.51
+        },
+        {
+            "id": "560",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2018,
+            "new_awards": 11.0,
+            "all_transactions": 3516367.93
+        },
+        {
+            "id": "561",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2019,
+            "new_awards": 7.0,
+            "all_transactions": 2984177.6100000003
+        },
+        {
+            "id": "562",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2020,
+            "new_awards": 6.0,
+            "all_transactions": 2131696.95
+        },
+        {
+            "id": "563",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2021,
+            "new_awards": 7.0,
+            "all_transactions": 3424153.05
+        },
+        {
+            "id": "564",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2022,
+            "new_awards": 8.0,
+            "all_transactions": 1268855.78
+        },
+        {
+            "id": "565",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2023,
+            "new_awards": 11.0,
+            "all_transactions": 1753308.26
+        },
+        {
+            "id": "566",
+            "UEI": "NRDMMS91Q8E8",
+            "year": 2024,
+            "new_awards": 4.0,
+            "all_transactions": 299697.56
+        },
+        {
+            "id": "567",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2016,
+            "new_awards": 87.0,
+            "all_transactions": 1849286549.9
+        },
+        {
+            "id": "568",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2017,
+            "new_awards": 83.0,
+            "all_transactions": 2283928036.47
+        },
+        {
+            "id": "569",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2018,
+            "new_awards": 82.0,
+            "all_transactions": 1557894334.1799998
+        },
+        {
+            "id": "570",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2019,
+            "new_awards": 73.0,
+            "all_transactions": 1575931984.7800002
+        },
+        {
+            "id": "571",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2020,
+            "new_awards": 54.0,
+            "all_transactions": 1763433518.4700005
+        },
+        {
+            "id": "572",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2021,
+            "new_awards": 54.0,
+            "all_transactions": 943347051.39
+        },
+        {
+            "id": "573",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2022,
+            "new_awards": 52.0,
+            "all_transactions": 340773364.2299999
+        },
+        {
+            "id": "574",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2023,
+            "new_awards": 47.0,
+            "all_transactions": 2482160379.2299995
+        },
+        {
+            "id": "575",
+            "UEI": "LAJJQWA1PF31",
+            "year": 2024,
+            "new_awards": 8.0,
+            "all_transactions": 4312706.6
+        },
+        {
+            "id": "576",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2016,
+            "new_awards": 21.0,
+            "all_transactions": 74486454.35999997
+        },
+        {
+            "id": "577",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2017,
+            "new_awards": 20.0,
+            "all_transactions": 86987522.16
+        },
+        {
+            "id": "578",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2018,
+            "new_awards": 21.0,
+            "all_transactions": 63623470.54
+        },
+        {
+            "id": "579",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2019,
+            "new_awards": 20.0,
+            "all_transactions": 66513297.04999999
+        },
+        {
+            "id": "580",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2020,
+            "new_awards": 16.0,
+            "all_transactions": 70352066.50999999
+        },
+        {
+            "id": "581",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2021,
+            "new_awards": 14.0,
+            "all_transactions": 28067771.38
+        },
+        {
+            "id": "582",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2022,
+            "new_awards": 10.0,
+            "all_transactions": 5848523.79
+        },
+        {
+            "id": "583",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2023,
+            "new_awards": 9.0,
+            "all_transactions": 1481070.43
+        },
+        {
+            "id": "584",
+            "UEI": "RUFSMTCJ9GX3",
+            "year": 2024,
+            "new_awards": 3.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "585",
+            "UEI": "E466BXU4KJH8",
+            "year": 2016,
+            "new_awards": 137.0,
+            "all_transactions": 1458870676.7300005
+        },
+        {
+            "id": "586",
+            "UEI": "E466BXU4KJH8",
+            "year": 2017,
+            "new_awards": 168.0,
+            "all_transactions": 1077064741.9100003
+        },
+        {
+            "id": "587",
+            "UEI": "E466BXU4KJH8",
+            "year": 2018,
+            "new_awards": 248.0,
+            "all_transactions": 791363902.68
+        },
+        {
+            "id": "588",
+            "UEI": "E466BXU4KJH8",
+            "year": 2019,
+            "new_awards": 233.0,
+            "all_transactions": 1324720535.3899996
+        },
+        {
+            "id": "589",
+            "UEI": "E466BXU4KJH8",
+            "year": 2020,
+            "new_awards": 174.0,
+            "all_transactions": 605998427.9600002
+        },
+        {
+            "id": "590",
+            "UEI": "E466BXU4KJH8",
+            "year": 2021,
+            "new_awards": 165.0,
+            "all_transactions": 924246692.68
+        },
+        {
+            "id": "591",
+            "UEI": "E466BXU4KJH8",
+            "year": 2022,
+            "new_awards": 113.0,
+            "all_transactions": 820506545.0500002
+        },
+        {
+            "id": "592",
+            "UEI": "E466BXU4KJH8",
+            "year": 2023,
+            "new_awards": 111.0,
+            "all_transactions": 1426223042.4699998
+        },
+        {
+            "id": "593",
+            "UEI": "E466BXU4KJH8",
+            "year": 2024,
+            "new_awards": 21.0,
+            "all_transactions": 127318956.01
+        },
+        {
+            "id": "594",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "595",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2017,
+            "new_awards": 1.0,
+            "all_transactions": 9164560.32
+        },
+        {
+            "id": "596",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2018,
+            "new_awards": 1.0,
+            "all_transactions": 13316026.84
+        },
+        {
+            "id": "597",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2019,
+            "new_awards": 1.0,
+            "all_transactions": 10414824.87
+        },
+        {
+            "id": "598",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2020,
+            "new_awards": 1.0,
+            "all_transactions": 371532.89
+        },
+        {
+            "id": "599",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2021,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "600",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2022,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "601",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2023,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "602",
+            "UEI": "FJNBVMNALZQ1",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "603",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2016,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "604",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2017,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "605",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2018,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "606",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2019,
+            "new_awards": 3457.0,
+            "all_transactions": 11956372.81
+        },
+        {
+            "id": "607",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2020,
+            "new_awards": 4746.0,
+            "all_transactions": 10219076.43
+        },
+        {
+            "id": "608",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2021,
+            "new_awards": 4114.0,
+            "all_transactions": 8109063.920000001
+        },
+        {
+            "id": "609",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2022,
+            "new_awards": 3736.0,
+            "all_transactions": 9398971.169999998
+        },
+        {
+            "id": "610",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2023,
+            "new_awards": 4201.0,
+            "all_transactions": 8887326.469999999
+        },
+        {
+            "id": "611",
+            "UEI": "L6Q3WZQJCKK1",
+            "year": 2024,
+            "new_awards": 301.0,
+            "all_transactions": 727204.7399999999
+        },
+        {
+            "id": "612",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2016,
+            "new_awards": 14.0,
+            "all_transactions": 8830570.09
+        },
+        {
+            "id": "613",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2017,
+            "new_awards": 19.0,
+            "all_transactions": 4076552.42
+        },
+        {
+            "id": "614",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2018,
+            "new_awards": 9.0,
+            "all_transactions": 363109.87
+        },
+        {
+            "id": "615",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2019,
+            "new_awards": 4.0,
+            "all_transactions": 158440.5
+        },
+        {
+            "id": "616",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2020,
+            "new_awards": 2.0,
+            "all_transactions": -36719.8
+        },
+        {
+            "id": "617",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2021,
+            "new_awards": 5.0,
+            "all_transactions": -137747.12
+        },
+        {
+            "id": "618",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2022,
+            "new_awards": 1.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "619",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2023,
+            "new_awards": 2.0,
+            "all_transactions": -41889.66
+        },
+        {
+            "id": "620",
+            "UEI": "H4DYTE2MHQ11",
+            "year": 2024,
+            "new_awards": 0.0,
+            "all_transactions": 0.0
+        },
+        {
+            "id": "621",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2016,
+            "new_awards": 53.0,
+            "all_transactions": 228759316.37
+        },
+        {
+            "id": "622",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2017,
+            "new_awards": 94.0,
+            "all_transactions": 111670557.95
+        },
+        {
+            "id": "623",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2018,
+            "new_awards": 86.0,
+            "all_transactions": 70582628.0
+        },
+        {
+            "id": "624",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2019,
+            "new_awards": 70.0,
+            "all_transactions": 83793248.24000001
+        },
+        {
+            "id": "625",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2020,
+            "new_awards": 64.0,
+            "all_transactions": 101056797.69
+        },
+        {
+            "id": "626",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2021,
+            "new_awards": 87.0,
+            "all_transactions": 97685581.22
+        },
+        {
+            "id": "627",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2022,
+            "new_awards": 89.0,
+            "all_transactions": 99052994.24000002
+        },
+        {
+            "id": "628",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2023,
+            "new_awards": 70.0,
+            "all_transactions": 95747121.93999998
+        },
+        {
+            "id": "629",
+            "UEI": "QL4CHNKHQQF4",
+            "year": 2024,
+            "new_awards": 9.0,
+            "all_transactions": -212959.9
+        }
+    ]
+}

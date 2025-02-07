@@ -1,0 +1,1144 @@
+{
+    "operations": [
+        {
+            "id": "89459855-der3344-34343-3334",
+            "operation_name": "Name of Operation which can be very long (NOWCBVL)",
+            "submission_id": "N203P4Q5R6",
+            "submission_date": "201801111332",
+            "pop": {
+                "start": "201801111332",
+                "end": "202201111332"
+            },
+            "operation_location": {
+                "city": "Las Vegas",
+                "state": "Nevada",
+                "zip": 89115,
+                "country": "U.S."
+            },
+            "phone": "813-515-2229",
+            "fax_number": "813-515-1234",
+            "url": "https://ironeaglex.com",
+            "email": "info@agency.com",
+            "additional_information": {
+                "content": "<p>McDonald's B is proposing to undertake a cutting-edge project aimed at enhancing the computer design systems used by the military in the Las Vegas, NV, area. Our initiative seeks to integrate the latest in computational technology, software development practices, and cybersecurity measures to support the operational efficiency and strategic capabilities of military installations and units stationed in this critical region.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: To develop and implement advanced computer design systems that improve the computational capabilities of military operations in Las Vegas, NV. This includes the creation of bespoke software solutions, the integration of robust cybersecurity protocols, and the deployment of innovative hardware technologies.</li>\n<li>Scope of Work:<ul>\n<li>Design and development of high-performance computing systems tailored to the specific needs of military operations.</li>\n<li>Implementation of state-of-the-art cybersecurity measures to protect sensitive data and communication lines against emerging threats.</li>\n<li>Deployment of custom software solutions to enhance operational command and control systems, data analysis, and logistical support mechanisms.</li>\n</ul></li>\n<li>Vendor Participation: McDonald's B plans to collaborate with local and national technology vendors to source the necessary components, software, and expertise required for the project. A preliminary vendor list has been compiled, subject to further evaluation and conflict checks to ensure compliance with all regulatory and operational standards set forth by the Department of Defense and other relevant authorities.</li>\n<li>Expected Outcomes: The successful completion of this project is anticipated to result in significant enhancements to the computational power, cybersecurity posture, and overall technological infrastructure available to the U.S. military in the Las Vegas, NV, area. These improvements are expected to yield better operational decision-making, enhanced security for classified information, and greater adaptability to future technological advancements.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>To uphold the integrity of the procurement process and ensure the fair participation of all potential vendors, McDonald's B requests a thorough conflict of interest check. This check is crucial for identifying any potential overlaps, competitive disadvantages, or other issues that could arise from the involvement of specific vendors in the project. The following considerations are highlighted for this process:</p>\n<p>Examination of vendor relationships to prevent monopolistic practices and ensure a diverse supplier base.</p>\n<p>Verification of vendor compliance with federal and military procurement regulations, including those pertaining to cybersecurity and technology exports.</p>\n<p>Assessment of potential competitive conflicts that may disadvantage other vendors unfairly or lead to conflicts of interest.</p>\n<p><strong>McDonald's B</strong></p>\n<p>McDonald's B is committed to fostering a collaborative environment with all participating vendors, ensuring that all project components are executed in full compliance with legal and ethical standards. To achieve this, the following measures will be instituted:</p>\n<ul>\n<li>Regular compliance audits and reviews of vendor operations related to the project.</li>\n<li>Establishment of clear communication channels for the reporting and resolution of any potential conflicts or compliance issues.</li>\n<li>Commitment to transparency in all procurement and project management practices to build trust among stakeholders and maintain the integrity of the operation.</li>\n</ul>\n<p><strong>Conclusion:</strong></p>\n<p>The Advanced Computer Design Systems Integration project represents a significant step forward in enhancing the technological capabilities of the U.S. military in Las Vegas, NV. McDonald's B looks forward to working closely with the Department of Defense, military personnel, and our vendor partners to achieve the project's objectives while adhering to the highest standards of operational excellence and ethical conduct. Through this submission, we seek to initiate the conflict of interest check process and invite feedback and guidance on proceeding with vendor selection and project implementation in a manner that best serves the interests of national security and operational efficiency.</p>"
+            },
+            "files": [
+                {
+                    "name": "file1.pdf",
+                    "size": 44291
+                },
+                {
+                    "name": "file1.doc",
+                    "size": 291
+                },
+                {
+                    "name": "file2.xls",
+                    "size": 4429111
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "CTKLDK3V4M97"
+                },
+                {
+                    "UEI": "VH1ZJJ9CW9B4"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "BRYAN",
+                    "middle_initial": null,
+                    "last_name": "JONES",
+                    "title": null,
+                    "address": {
+                        "line_1": "8283 GREENSBORO DRIVE",
+                        "line_2": null,
+                        "city": "MCLEAN",
+                        "zip_code": "22102",
+                        "country": "USA",
+                        "state": "VA"
+                    }
+                },
+                "secondary": {
+                    "first_name": null,
+                    "middle_initial": null,
+                    "last_name": null,
+                    "title": null,
+                    "address": {
+                        "line_1": null,
+                        "line_2": null,
+                        "city": null,
+                        "zip_code": null,
+                        "country": null,
+                        "state": null
+                    }
+                }
+            },
+            "other_known_entity": [
+                "BYTECUBED LLC",
+                "INTELLIWARE SYSTEMS INC.",
+                "TROWBRIDGE & TROWBRIDGE LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "ALPHA OMEGA INTEGRATION LLC",
+                    "url": "https://ironeaglex.com"
+                },
+                {
+                    "name": "CGI FEDERAL INC.",
+                    "url": "https://ironeaglex.com"
+                },
+                {
+                    "name": "EMPOWER AI, INC",
+                    "url": ""
+                }
+            ],
+            "status": "In Review"
+        },
+        {
+            "id": "67891011-abc1234-56789-1011",
+            "operation_name": "Operation Thunderbolt",
+            "submission_id": "T456H7J8K9",
+            "submission_date": "202102151045",
+            "pop": {
+                "start": "202102151045",
+                "end": "202302151045"
+            },
+            "operation_location": {
+                "city": "Seattle",
+                "state": "Washington",
+                "zip": 98101,
+                "country": "U.S."
+            },
+            "phone": "206-123-4567",
+            "fax_number": "206-123-7654",
+            "url": "https://operationthunderbolt.com",
+            "email": "contact@thunderbolt.com",
+            "additional_information": {
+                "content": "<p>Operation Thunderbolt aims to enhance the technological infrastructure supporting military operations in the Seattle, WA, area. This project focuses on integrating advanced software solutions, high-performance computing systems, and robust cybersecurity measures to strengthen the operational capabilities of military units stationed in this region.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: To develop and implement cutting-edge technologies that bolster the efficiency and security of military operations in Seattle, WA.</li>\n<li>Scope of Work:<ul>\n<li>Design and deployment of bespoke software solutions tailored to the unique needs of military operations.</li>\n<li>Implementation of state-of-the-art cybersecurity protocols to safeguard sensitive information and communication lines.</li>\n<li>Integration of high-performance computing systems to enhance data analysis, operational command, and control mechanisms.</li>\n</ul></li>\n<li>Vendor Participation: The project will collaborate with leading technology vendors to source essential components and expertise. A preliminary vendor list has been compiled, with further evaluation and conflict checks to ensure compliance with all regulatory standards.</li>\n<li>Expected Outcomes: Enhanced operational decision-making, improved security for classified information, and greater technological adaptability for the U.S. military in Seattle, WA.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>A thorough conflict of interest check is requested to identify any potential overlaps or issues arising from vendor involvement. Key considerations include:</p>\n<p>Examination of vendor relationships to ensure a diverse supplier base.</p>\n<p>Verification of vendor compliance with federal procurement regulations.</p>\n<p>Assessment of potential competitive conflicts that may disadvantage other vendors.</p>\n<p><strong>Conclusion:</strong></p>\n<p>The successful completion of Operation Thunderbolt is anticipated to significantly enhance the technological infrastructure supporting military operations in Seattle, WA. Feedback and guidance on vendor selection and project implementation are requested to ensure the project's success.</p>"
+            },
+            "files": [
+                {
+                    "name": "operation_plan.pdf",
+                    "size": 102345
+                },
+                {
+                    "name": "budget.xlsx",
+                    "size": 98765
+                },
+                {
+                    "name": "timeline.docx",
+                    "size": 54321
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "FRFTWN17QUF3"
+                },
+                {
+                    "UEI": "NQXJBJTPPK65"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "SARAH",
+                    "middle_initial": "A",
+                    "last_name": "SMITH",
+                    "title": "Project Manager",
+                    "address": {
+                        "line_1": "1234 MAIN STREET",
+                        "line_2": null,
+                        "city": "SEATTLE",
+                        "zip_code": "98101",
+                        "country": "USA",
+                        "state": "WA"
+                    }
+                },
+                "secondary": {
+                    "first_name": "JOHN",
+                    "middle_initial": "B",
+                    "last_name": "DOE",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "1234 MAIN STREET",
+                        "line_2": null,
+                        "city": "SEATTLE",
+                        "zip_code": "98101",
+                        "country": "USA",
+                        "state": "WA"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "TECHNOLOGIES LLC",
+                "INNOVATIVE SOLUTIONS INC.",
+                "SYSTEMS INTEGRATORS LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "ADVANCED TECHNOLOGIES INC.",
+                    "url": "https://advtech.com"
+                },
+                {
+                    "name": "GLOBAL SOLUTIONS LLC",
+                    "url": "https://globalsolutions.com"
+                },
+                {
+                    "name": "SECURE INNOVATIONS INC",
+                    "url": "https://secureinnovations.com"
+                }
+            ],
+            "status": "In Review"
+        },
+        {
+            "id": "01234567-abcde-89012",
+            "operation_name": "Operation Alpha",
+            "submission_id": "A1B2C3D4E5",
+            "submission_date": "202101011200",
+            "pop": {
+                "start": "202101011200",
+                "end": "202201011200"
+            },
+            "operation_location": {
+                "city": "Los Angeles",
+                "state": "California",
+                "zip": 90001,
+                "country": "U.S."
+            },
+            "phone": "310-123-4567",
+            "fax_number": "310-123-7654",
+            "url": "https://operationalpha.com",
+            "email": "info@operationalpha.com",
+            "additional_information": {
+                "content": "Details about Operation Alpha..."
+            },
+            "files": [
+                {
+                    "name": "plan_alpha.pdf",
+                    "size": 12345
+                },
+                {
+                    "name": "budget_alpha.xlsx",
+                    "size": 23456
+                },
+                {
+                    "name": "timeline_alpha.docx",
+                    "size": 34567
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "FJNBVMNALZQ1"
+                },
+                {
+                    "UEI": "YBMJKB9DJB21"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "John",
+                    "middle_initial": "A",
+                    "last_name": "Doe",
+                    "title": "Manager",
+                    "address": {
+                        "line_1": "1234 Alpha St",
+                        "line_2": null,
+                        "city": "Los Angeles",
+                        "zip_code": "90001",
+                        "country": "USA",
+                        "state": "CA"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Jane",
+                    "middle_initial": "B",
+                    "last_name": "Doe",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "1234 Alpha St",
+                        "line_2": null,
+                        "city": "Los Angeles",
+                        "zip_code": "90001",
+                        "country": "USA",
+                        "state": "CA"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Entity1 LLC",
+                "Entity2 Inc.",
+                "Entity3 LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Subcontractor1 LLC",
+                    "url": "https://sub1.com"
+                },
+                {
+                    "name": "Subcontractor2 LLC",
+                    "url": "https://sub2.com"
+                },
+                {
+                    "name": "Subcontractor3 LLC",
+                    "url": "https://sub3.com"
+                }
+            ],
+            "status": "In Review"
+        },
+        {
+            "id": "23456789-bcdef-01234",
+            "operation_name": "Operation Bravo",
+            "submission_id": "F6G7H8I9J0",
+            "submission_date": "202102021200",
+            "pop": {
+                "start": "202102021200",
+                "end": "202202021200"
+            },
+            "operation_location": {
+                "city": "New York",
+                "state": "New York",
+                "zip": 10001,
+                "country": "U.S."
+            },
+            "phone": "212-123-4567",
+            "fax_number": "212-123-7654",
+            "url": "https://operationbravo.com",
+            "email": "info@operationbravo.com",
+            "additional_information": {
+                "content": "Details about Operation Bravo..."
+            },
+            "files": [
+                {
+                    "name": "plan_bravo.pdf",
+                    "size": 12345
+                },
+                {
+                    "name": "budget_bravo.xlsx",
+                    "size": 23456
+                },
+                {
+                    "name": "timeline_bravo.docx",
+                    "size": 34567
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "NQXJBJTPPK65"
+                },
+                {
+                    "UEI": "FRFTWN17QUF3"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "Alice",
+                    "middle_initial": "C",
+                    "last_name": "Johnson",
+                    "title": "Manager",
+                    "address": {
+                        "line_1": "5678 Bravo St",
+                        "line_2": null,
+                        "city": "New York",
+                        "zip_code": "10001",
+                        "country": "USA",
+                        "state": "NY"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Bob",
+                    "middle_initial": "D",
+                    "last_name": "Johnson",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "5678 Bravo St",
+                        "line_2": null,
+                        "city": "New York",
+                        "zip_code": "10001",
+                        "country": "USA",
+                        "state": "NY"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Entity4 LLC",
+                "Entity5 Inc.",
+                "Entity6 LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Subcontractor4 LLC",
+                    "url": "https://sub4.com"
+                },
+                {
+                    "name": "Subcontractor5 LLC",
+                    "url": "https://sub5.com"
+                },
+                {
+                    "name": "Subcontractor6 LLC",
+                    "url": "https://sub6.com"
+                }
+            ],
+            "status": "In Review"
+        },
+        {
+            "id": "34567890-cdef0-12345",
+            "operation_name": "Operation Charlie",
+            "submission_id": "K1L2M3N4O5",
+            "submission_date": "202103031200",
+            "pop": {
+                "start": "202103031200",
+                "end": "202203031200"
+            },
+            "operation_location": {
+                "city": "Chicago",
+                "state": "Illinois",
+                "zip": 60601,
+                "country": "U.S."
+            },
+            "phone": "312-123-4567",
+            "fax_number": "312-123-7654",
+            "url": "https://operationcharlie.com",
+            "email": "info@operationcharlie.com",
+            "additional_information": {
+                "content": "Details about Operation Charlie..."
+            },
+            "files": [
+                {
+                    "name": "plan_charlie.pdf",
+                    "size": 12345
+                },
+                {
+                    "name": "budget_charlie.xlsx",
+                    "size": 23456
+                },
+                {
+                    "name": "timeline_charlie.docx",
+                    "size": 34567
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "FJNBVMNALZQ1"
+                },
+                {
+                    "UEI": "YBMJKB9DJB21"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "Mike",
+                    "middle_initial": "E",
+                    "last_name": "Smith",
+                    "title": "Manager",
+                    "address": {
+                        "line_1": "9101 Charlie St",
+                        "line_2": null,
+                        "city": "Chicago",
+                        "zip_code": "60601",
+                        "country": "USA",
+                        "state": "IL"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Mary",
+                    "middle_initial": "F",
+                    "last_name": "Smith",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "9101 Charlie St",
+                        "line_2": null,
+                        "city": "Chicago",
+                        "zip_code": "60601",
+                        "country": "USA",
+                        "state": "IL"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Entity7 LLC",
+                "Entity8 Inc.",
+                "Entity9 LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Subcontractor7 LLC",
+                    "url": "https://sub7.com"
+                },
+                {
+                    "name": "Subcontractor8 LLC",
+                    "url": "https://sub8.com"
+                },
+                {
+                    "name": "Subcontractor9 LLC",
+                    "url": "https://sub9.com"
+                }
+            ],
+            "status": "In Review"
+        },
+        {
+            "id": "01234567-abcde-89012",
+            "operation_name": "Operation Alpha",
+            "submission_id": "A1B2C3D4E5",
+            "submission_date": "202101011200",
+            "pop": {
+                "start": "202101011200",
+                "end": "202201011200"
+            },
+            "operation_location": {
+                "city": "Los Angeles",
+                "state": "California",
+                "zip": 90001,
+                "country": "U.S."
+            },
+            "phone": "310-123-4567",
+            "fax_number": "310-123-7654",
+            "url": "https://operationalpha.com",
+            "email": "info@operationalpha.com",
+            "additional_information": {
+                "content": "<p>Operation Alpha aims to revolutionize the way military operations are conducted in the Los Angeles, CA area by introducing cutting-edge technological solutions. Our project focuses on enhancing command and control systems, improving data analytics capabilities, and integrating advanced cybersecurity measures.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: To develop and deploy state-of-the-art software and hardware solutions that optimize operational efficiency and security for military units in Los Angeles, CA.</li>\n<li>Scope of Work:<ul>\n<li>Design and implementation of custom software solutions that enhance decision-making processes and operational command structures.</li>\n<li>Integration of high-performance computing systems to support real-time data analysis and operational planning.</li>\n<li>Deployment of robust cybersecurity protocols to protect sensitive information from emerging threats.</li>\n</ul></li>\n<li>Vendor Participation: We plan to collaborate with leading technology vendors to source the best components and expertise required for the project. A comprehensive vendor evaluation will be conducted to ensure compliance with all relevant regulations.</li>\n<li>Expected Outcomes: The successful completion of Operation Alpha is expected to result in significant improvements in operational efficiency, data security, and overall technological capabilities for the U.S. military in Los Angeles, CA.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>We request a thorough conflict of interest check to ensure fair vendor participation and compliance with all regulatory standards. Key considerations include:</p>\n<p>Examination of vendor relationships to prevent monopolistic practices and ensure a diverse supplier base.</p>\n<p>Verification of vendor compliance with federal and military procurement regulations.</p>\n<p>Assessment of potential competitive conflicts that may disadvantage other vendors.</p>\n<p><strong>Conclusion:</strong></p>\n<p>Operation Alpha represents a significant advancement in enhancing the technological infrastructure supporting military operations in Los Angeles, CA. We look forward to collaborating with the Department of Defense, military personnel, and our vendor partners to achieve the project's objectives while adhering to the highest standards of operational excellence and ethical conduct. Your feedback and guidance on vendor selection and project implementation are highly valued to ensure the success of this endeavor.</p>"
+            },
+            "files": [
+                {
+                    "name": "plan_alpha.pdf",
+                    "size": 12345
+                },
+                {
+                    "name": "budget_alpha.xlsx",
+                    "size": 23456
+                },
+                {
+                    "name": "timeline_alpha.docx",
+                    "size": 34567
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "FJNBVMNALZQ1"
+                },
+                {
+                    "UEI": "YBMJKB9DJB21"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "John",
+                    "middle_initial": "A",
+                    "last_name": "Doe",
+                    "title": "Manager",
+                    "address": {
+                        "line_1": "1234 Alpha St",
+                        "line_2": null,
+                        "city": "Los Angeles",
+                        "zip_code": "90001",
+                        "country": "USA",
+                        "state": "CA"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Jane",
+                    "middle_initial": "B",
+                    "last_name": "Doe",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "1234 Alpha St",
+                        "line_2": null,
+                        "city": "Los Angeles",
+                        "zip_code": "90001",
+                        "country": "USA",
+                        "state": "CA"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Entity1 LLC",
+                "Entity2 Inc.",
+                "Entity3 LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Subcontractor1 LLC",
+                    "url": "https://sub1.com"
+                },
+                {
+                    "name": "Subcontractor2 LLC",
+                    "url": "https://sub2.com"
+                },
+                {
+                    "name": "Subcontractor3 LLC",
+                    "url": "https://sub3.com"
+                }
+            ],
+            "status": "In Review"
+        },
+        {
+            "id": "23456789-bcdef-01234",
+            "operation_name": "Operation Bravo",
+            "submission_id": "F6G7H8I9J0",
+            "submission_date": "202102021200",
+            "pop": {
+                "start": "202102021200",
+                "end": "202202021200"
+            },
+            "operation_location": {
+                "city": "New York",
+                "state": "New York",
+                "zip": 10001,
+                "country": "U.S."
+            },
+            "phone": "212-123-4567",
+            "fax_number": "212-123-7654",
+            "url": "https://operationbravo.com",
+            "email": "info@operationbravo.com",
+            "additional_information": {
+                "content": "<p>Operation Bravo seeks to elevate the technological capabilities of military operations in the New York, NY area. By leveraging advanced software development, high-performance computing, and stringent cybersecurity measures, this project aims to enhance both operational efficiency and data security.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: To design and implement cutting-edge technological solutions that support military operations in New York, NY.</li>\n<li>Scope of Work:<ul>\n<li>Development of custom software applications tailored to the specific needs of military operations.</li>\n<li>Implementation of high-performance computing systems to facilitate real-time data processing and analysis.</li>\n<li>Integration of comprehensive cybersecurity protocols to safeguard critical information and communication networks.</li>\n</ul></li>\n<li>Vendor Participation: Operation Bravo will collaborate with top technology vendors to ensure the highest quality components and expertise. A detailed vendor evaluation process will be undertaken to ensure compliance with all relevant standards.</li>\n<li>Expected Outcomes: The project aims to significantly improve operational decision-making, enhance data security, and provide advanced technological infrastructure for the U.S. military in New York, NY.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>A comprehensive conflict of interest check is essential to identify any potential issues related to vendor involvement. Considerations include:</p>\n<p>Reviewing vendor relationships to prevent monopolistic practices and ensure diversity.</p>\n<p>Ensuring vendor compliance with federal procurement regulations and cybersecurity standards.</p>\n<p>Assessing potential competitive conflicts that could impact the fairness of the vendor selection process.</p>\n<p><strong>Conclusion:</strong></p>\n<p>Operation Bravo is poised to make significant advancements in enhancing the technological capabilities of military operations in New York, NY. We look forward to collaborating with the Department of Defense, military personnel, and our vendor partners to achieve the project's goals while maintaining the highest standards of operational excellence and ethical conduct. Your feedback and guidance on vendor selection and project implementation are crucial to the success of this initiative.</p>"
+            },
+            "files": [
+                {
+                    "name": "plan_bravo.pdf",
+                    "size": 12345
+                },
+                {
+                    "name": "budget_bravo.xlsx",
+                    "size": 23456
+                },
+                {
+                    "name": "timeline_bravo.docx",
+                    "size": 34567
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "NQXJBJTPPK65"
+                },
+                {
+                    "UEI": "FRFTWN17QUF3"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "Alice",
+                    "middle_initial": "C",
+                    "last_name": "Johnson",
+                    "title": "Manager",
+                    "address": {
+                        "line_1": "5678 Bravo St",
+                        "line_2": null,
+                        "city": "New York",
+                        "zip_code": "10001",
+                        "country": "USA",
+                        "state": "NY"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Bob",
+                    "middle_initial": "D",
+                    "last_name": "Johnson",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "5678 Bravo St",
+                        "line_2": null,
+                        "city": "New York",
+                        "zip_code": "10001",
+                        "country": "USA",
+                        "state": "NY"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Entity4 LLC",
+                "Entity5 Inc.",
+                "Entity6 LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Subcontractor4 LLC",
+                    "url": "https://sub4.com"
+                },
+                {
+                    "name": "Subcontractor5 LLC",
+                    "url": "https://sub5.com"
+                },
+                {
+                    "name": "Subcontractor6 LLC",
+                    "url": "https://sub6.com"
+                }
+            ],
+            "status": "In Review"
+        },
+        {
+            "id": "34567890-cdef0-12345",
+            "operation_name": "Operation Charlie",
+            "submission_id": "K1L2M3N4O5",
+            "submission_date": "202103031200",
+            "pop": {
+                "start": "202103031200",
+                "end": "202203031200"
+            },
+            "operation_location": {
+                "city": "Chicago",
+                "state": "Illinois",
+                "zip": 60601,
+                "country": "U.S."
+            },
+            "phone": "312-123-4567",
+            "fax_number": "312-123-7654",
+            "url": "https://operationcharlie.com",
+            "email": "info@operationcharlie.com",
+            "additional_information": {
+                "content": "<p>Operation Charlie is dedicated to enhancing the technological framework supporting military operations in the Chicago, IL area. This project will focus on the development and deployment of advanced software systems, high-performance computing capabilities, and robust cybersecurity measures.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: To implement state-of-the-art technological solutions that optimize the operational efficiency and security of military units in Chicago, IL.</li>\n<li>Scope of Work:<ul>\n<li>Custom software development to enhance operational command and control systems.</li>\n<li>Deployment of high-performance computing infrastructure to support real-time data analysis and decision-making.</li>\n<li>Integration of comprehensive cybersecurity protocols to protect sensitive information and communications.</li>\n</ul></li>\n<li>Vendor Participation: Collaboration with leading technology vendors is crucial for sourcing the best components and expertise. A thorough vendor evaluation process will be conducted to ensure adherence to all relevant standards and regulations.</li>\n<li>Expected Outcomes: Operation Charlie is expected to yield significant improvements in operational efficiency, data security, and technological capabilities for the U.S. military in Chicago, IL.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>A comprehensive conflict of interest check is necessary to ensure fair vendor participation and compliance with all regulatory standards. Key considerations include:</p>\n<p>Reviewing vendor relationships to prevent monopolistic practices and ensure a diverse supplier base.</p>\n<p>Ensuring vendor compliance with federal procurement regulations and cybersecurity standards.</p>\n<p>Assessing potential competitive conflicts that could impact the fairness of the vendor selection process.</p>\n<p><strong>Conclusion:</strong></p>\n<p>Operation Charlie aims to make significant advancements in enhancing the technological infrastructure supporting military operations in Chicago, IL. We look forward to collaborating with the Department of Defense, military personnel, and our vendor partners to achieve the project's objectives while maintaining the highest standards of operational excellence and ethical conduct. Your feedback and guidance on vendor selection and project implementation are highly valued to ensure the success of this endeavor.</p>"
+            },
+            "files": [
+                {
+                    "name": "plan_charlie.pdf",
+                    "size": 12345
+                },
+                {
+                    "name": "budget_charlie.xlsx",
+                    "size": 23456
+                },
+                {
+                    "name": "timeline_charlie.docx",
+                    "size": 34567
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "FJNBVMNALZQ1"
+                },
+                {
+                    "UEI": "YBMJKB9DJB21"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "Mike",
+                    "middle_initial": "E",
+                    "last_name": "Smith",
+                    "title": "Manager",
+                    "address": {
+                        "line_1": "9101 Charlie St",
+                        "line_2": null,
+                        "city": "Chicago",
+                        "zip_code": "60601",
+                        "country": "USA",
+                        "state": "IL"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Mary",
+                    "middle_initial": "F",
+                    "last_name": "Smith",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "9101 Charlie St",
+                        "line_2": null,
+                        "city": "Chicago",
+                        "zip_code": "60601",
+                        "country": "USA",
+                        "state": "IL"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Entity7 LLC",
+                "Entity8 Inc.",
+                "Entity9 LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Subcontractor7 LLC",
+                    "url": "https://sub7.com"
+                },
+                {
+                    "name": "Subcontractor8 LLC",
+                    "url": "https://sub8.com"
+                },
+                {
+                    "name": "Subcontractor9 LLC",
+                    "url": "https://sub9.com"
+                }
+            ],
+            "status": "Closed"
+        },
+        {
+            "id": "op-001",
+            "operation_name": "Operation Alpha",
+            "submission_id": "SUB-001",
+            "submission_date": "202301011200",
+            "pop": {
+                "start": "202301011200",
+                "end": "202401011200"
+            },
+            "operation_location": {
+                "city": "San Francisco",
+                "state": "California",
+                "zip": 94105,
+                "country": "USA"
+            },
+            "phone": "415-123-4567",
+            "fax_number": "415-123-7654",
+            "url": "https://operationalpha.com",
+            "email": "contact@operationalpha.com",
+            "additional_information": {
+                "content": "<p>Operation Alpha aims to implement innovative technologies to enhance military operations in the San Francisco, CA area. This initiative will focus on improving command and control systems, data analytics, and cybersecurity protocols.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: Develop and integrate advanced software solutions that streamline operational efficiency and security for military units in San Francisco, CA.</li>\n<li>Scope of Work:<ul>\n<li>Design and deploy customized software solutions for improved decision-making processes.</li>\n<li>Implement high-performance computing systems to support real-time data analysis and operational planning.</li>\n<li>Establish robust cybersecurity measures to protect sensitive information from potential threats.</li>\n</ul></li>\n<li>Vendor Participation: We will collaborate with top technology vendors to ensure the highest quality of components and expertise. A detailed vendor evaluation process will be conducted to ensure compliance with all relevant standards.</li>\n<li>Expected Outcomes: Enhanced operational decision-making, improved data security, and advanced technological infrastructure for the U.S. military in San Francisco, CA.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>We request a thorough conflict of interest check to ensure fair vendor participation and compliance with all regulatory standards. Key considerations include examining vendor relationships to prevent monopolistic practices and ensure diversity, ensuring vendor compliance with federal procurement regulations, and assessing potential competitive conflicts.</p>\n<p><strong>Conclusion:</strong></p>\n<p>Operation Alpha aims to make significant advancements in enhancing the technological capabilities of military operations in San Francisco, CA. We look forward to collaborating with the Department of Defense, military personnel, and our vendor partners to achieve the project's goals while maintaining the highest standards of operational excellence and ethical conduct. Your feedback and guidance on vendor selection and project implementation are crucial to the success of this initiative.</p>"
+            },
+            "files": [
+                {
+                    "name": "alpha_plan.pdf",
+                    "size": 1048576
+                },
+                {
+                    "name": "alpha_budget.xlsx",
+                    "size": 2048576
+                },
+                {
+                    "name": "alpha_timeline.docx",
+                    "size": 104857
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "FRFTWN17QUF3"
+                },
+                {
+                    "UEI": "FJNBVMNALZQ1"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "John",
+                    "middle_initial": "A",
+                    "last_name": "Doe",
+                    "title": "Project Manager",
+                    "address": {
+                        "line_1": "123 Alpha St",
+                        "line_2": null,
+                        "city": "San Francisco",
+                        "zip_code": "94105",
+                        "country": "USA",
+                        "state": "CA"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Jane",
+                    "middle_initial": "B",
+                    "last_name": "Doe",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "123 Alpha St",
+                        "line_2": null,
+                        "city": "San Francisco",
+                        "zip_code": "94105",
+                        "country": "USA",
+                        "state": "CA"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Tech Innovators LLC",
+                "Future Solutions Inc.",
+                "Advanced Systems LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Tech Solutions LLC",
+                    "url": "https://techsolutions.com"
+                },
+                {
+                    "name": "Innovative Systems Inc.",
+                    "url": "https://innovativesystems.com"
+                },
+                {
+                    "name": "Secure Technologies LLC",
+                    "url": "https://securetech.com"
+                }
+            ],
+            "status": "Draft"
+        },
+        {
+            "id": "op-002",
+            "operation_name": "Operation Beta",
+            "submission_id": "SUB-002",
+            "submission_date": "202301021200",
+            "pop": {
+                "start": "202301021200",
+                "end": "202401021200"
+            },
+            "operation_location": {
+                "city": "New York",
+                "state": "New York",
+                "zip": 10001,
+                "country": "USA"
+            },
+            "phone": "212-123-4567",
+            "fax_number": "212-123-7654",
+            "url": "https://operationbeta.com",
+            "email": "contact@operationbeta.com",
+            "additional_information": {
+                "content": "<p>Operation Beta focuses on modernizing military communication systems in the New York, NY area. The project aims to integrate advanced communication technologies, enhance cybersecurity protocols, and improve overall operational efficiency.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: Enhance military communication infrastructure with cutting-edge technology and robust security measures.</li>\n<li>Scope of Work:<ul>\n<li>Develop and implement advanced communication solutions tailored to military needs.</li>\n<li>Integrate high-performance computing systems for improved data processing and analysis.</li>\n<li>Establish comprehensive cybersecurity protocols to protect communication networks.</li>\n</ul></li>\n<li>Vendor Participation: We will partner with leading technology vendors to source the best components and expertise. A thorough vendor evaluation process will ensure compliance with all relevant standards.</li>\n<li>Expected Outcomes: Improved communication efficiency, enhanced data security, and advanced technological capabilities for the U.S. military in New York, NY.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>A comprehensive conflict of interest check is essential to ensure fair vendor participation and compliance with regulatory standards. Key considerations include examining vendor relationships to prevent monopolistic practices and ensure diversity, ensuring vendor compliance with federal procurement regulations, and assessing potential competitive conflicts.</p>\n<p><strong>Conclusion:</strong></p>\n<p>Operation Beta aims to significantly improve the communication capabilities of military operations in New York, NY. We look forward to collaborating with the Department of Defense, military personnel, and our vendor partners to achieve the project's objectives while maintaining the highest standards of operational excellence and ethical conduct. Your feedback and guidance on vendor selection and project implementation are crucial to the success of this initiative.</p>"
+            },
+            "files": [
+                {
+                    "name": "beta_plan.pdf",
+                    "size": 1048576
+                },
+                {
+                    "name": "beta_budget.xlsx",
+                    "size": 2048576
+                },
+                {
+                    "name": "beta_timeline.docx",
+                    "size": 104857
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "NQXJBJTPPK65"
+                },
+                {
+                    "UEI": "YBMJKB9DJB21"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "Alice",
+                    "middle_initial": "C",
+                    "last_name": "Johnson",
+                    "title": "Project Manager",
+                    "address": {
+                        "line_1": "456 Beta St",
+                        "line_2": null,
+                        "city": "New York",
+                        "zip_code": "10001",
+                        "country": "USA",
+                        "state": "NY"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Bob",
+                    "middle_initial": "D",
+                    "last_name": "Johnson",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "456 Beta St",
+                        "line_2": null,
+                        "city": "New York",
+                        "zip_code": "10001",
+                        "country": "USA",
+                        "state": "NY"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Comm Tech LLC",
+                "Network Solutions Inc.",
+                "Cyber Defense LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Comm Innovations LLC",
+                    "url": "https://comminnovations.com"
+                },
+                {
+                    "name": "Network Experts Inc.",
+                    "url": "https://networkexperts.com"
+                },
+                {
+                    "name": "Defense Solutions LLC",
+                    "url": "https://defensesolutions.com"
+                }
+            ],
+            "status": "Draft"
+        },
+        {
+            "id": "op-003",
+            "operation_name": "Operation Gamma",
+            "submission_id": "SUB-003",
+            "submission_date": "202301031200",
+            "pop": {
+                "start": "202301031200",
+                "end": "202401031200"
+            },
+            "operation_location": {
+                "city": "Chicago",
+                "state": "Illinois",
+                "zip": 60601,
+                "country": "USA"
+            },
+            "phone": "312-123-4567",
+            "fax_number": "312-123-7654",
+            "url": "https://operationgamma.com",
+            "email": "contact@operationgamma.com",
+            "additional_information": {
+                "content": "<p>Operation Gamma is focused on enhancing the data analysis capabilities of military operations in the Chicago, IL area. This project involves integrating advanced data analytics tools, improving data management systems, and strengthening cybersecurity protocols.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: Implement state-of-the-art data analytics solutions to improve operational efficiency and security.</li>\n<li>Scope of Work:<ul>\n<li>Design and deploy advanced data analytics software tailored to military needs.</li>\n<li>Enhance data management systems to support real-time data processing and analysis.</li>\n<li>Establish comprehensive cybersecurity measures to protect sensitive information.</li>\n</ul></li>\n<li>Vendor Participation: We will partner with leading technology vendors to source the best components and expertise. A thorough vendor evaluation process will ensure compliance with all relevant standards.</li>\n<li>Expected Outcomes: Improved data analysis capabilities, enhanced data security, and advanced technological infrastructure for the U.S. military in Chicago, IL.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>A comprehensive conflict of interest check is essential to ensure fair vendor participation and compliance with regulatory standards. Key considerations include examining vendor relationships to prevent monopolistic practices and ensure diversity, ensuring vendor compliance with federal procurement regulations, and assessing potential competitive conflicts.</p>\n<p><strong>Conclusion:</strong></p>\n<p>Operation Gamma aims to significantly enhance the data analysis capabilities of military operations in Chicago, IL. We look forward to collaborating with the Department of Defense, military personnel, and our vendor partners to achieve the project's objectives while maintaining the highest standards of operational excellence and ethical conduct. Your feedback and guidance on vendor selection and project implementation are crucial to the success of this initiative.</p>"
+            },
+            "files": [
+                {
+                    "name": "gamma_plan.pdf",
+                    "size": 1048576
+                },
+                {
+                    "name": "gamma_budget.xlsx",
+                    "size": 2048576
+                },
+                {
+                    "name": "gamma_timeline.docx",
+                    "size": 104857
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "FRFTWN17QUF3"
+                },
+                {
+                    "UEI": "FJNBVMNALZQ1"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "Mike",
+                    "middle_initial": "E",
+                    "last_name": "Smith",
+                    "title": "Project Manager",
+                    "address": {
+                        "line_1": "789 Gamma St",
+                        "line_2": null,
+                        "city": "Chicago",
+                        "zip_code": "60601",
+                        "country": "USA",
+                        "state": "IL"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Mary",
+                    "middle_initial": "F",
+                    "last_name": "Smith",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "789 Gamma St",
+                        "line_2": null,
+                        "city": "Chicago",
+                        "zip_code": "60601",
+                        "country": "USA",
+                        "state": "IL"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Data Insights LLC",
+                "Analytics Experts Inc.",
+                "Cyber Secure LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Data Solutions LLC",
+                    "url": "https://datasolutions.com"
+                },
+                {
+                    "name": "Analytics Innovations Inc.",
+                    "url": "https://analyticsinnovations.com"
+                },
+                {
+                    "name": "Secure Analytics LLC",
+                    "url": "https://secureanalytics.com"
+                }
+            ],
+            "status": "Closed"
+        },
+        {
+            "id": "op-004",
+            "operation_name": "Operation Delta",
+            "submission_id": "SUB-004",
+            "submission_date": "202301041200",
+            "pop": {
+                "start": "202301041200",
+                "end": "202401041200"
+            },
+            "operation_location": {
+                "city": "Houston",
+                "state": "Texas",
+                "zip": 77002,
+                "country": "USA"
+            },
+            "phone": "713-123-4567",
+            "fax_number": "713-123-7654",
+            "url": "https://operationdelta.com",
+            "email": "contact@operationdelta.com",
+            "additional_information": {
+                "content": "<p>Operation Delta focuses on improving the cybersecurity infrastructure of military operations in the Houston, TX area. The project aims to integrate advanced cybersecurity protocols, enhance data protection measures, and improve overall operational security.</p>\n<p><strong>Project Details:</strong></p>\n<ul>\n<li>Objective: Enhance military cybersecurity infrastructure with cutting-edge technology and robust security measures.</li>\n<li>Scope of Work:<ul>\n<li>Develop and implement advanced cybersecurity solutions tailored to military needs.</li>\n<li>Integrate high-performance computing systems for improved data protection and analysis.</li>\n<li>Establish comprehensive cybersecurity protocols to safeguard critical information and communication networks.</li>\n</ul></li>\n<li>Vendor Participation: We will partner with leading technology vendors to source the best components and expertise. A thorough vendor evaluation process will ensure compliance with all relevant standards.</li>\n<li>Expected Outcomes: Improved cybersecurity infrastructure, enhanced data protection, and advanced technological capabilities for the U.S. military in Houston, TX.</li>\n</ul>\n<p><strong>Conflict of Interest Check:</strong></p>\n<p>A comprehensive conflict of interest check is essential to ensure fair vendor participation and compliance with regulatory standards. Key considerations include examining vendor relationships to prevent monopolistic practices and ensure diversity, ensuring vendor compliance with federal procurement regulations, and assessing potential competitive conflicts.</p>\n<p><strong>Conclusion:</strong></p>\n<p>Operation Delta aims to significantly improve the cybersecurity capabilities of military operations in Houston, TX. We look forward to collaborating with the Department of Defense, military personnel, and our vendor partners to achieve the project's objectives while maintaining the highest standards of operational excellence and ethical conduct. Your feedback and guidance on vendor selection and project implementation are crucial to the success of this initiative.</p>"
+            },
+            "files": [
+                {
+                    "name": "delta_plan.pdf",
+                    "size": 1048576
+                },
+                {
+                    "name": "delta_budget.xlsx",
+                    "size": 2048576
+                },
+                {
+                    "name": "delta_timeline.docx",
+                    "size": 104857
+                }
+            ],
+            "vendors": [
+                {
+                    "UEI": "NQXJBJTPPK65"
+                },
+                {
+                    "UEI": "YBMJKB9DJB21"
+                }
+            ],
+            "POC": {
+                "primary": {
+                    "first_name": "James",
+                    "middle_initial": "G",
+                    "last_name": "Brown",
+                    "title": "Project Manager",
+                    "address": {
+                        "line_1": "123 Delta St",
+                        "line_2": null,
+                        "city": "Houston",
+                        "zip_code": "77002",
+                        "country": "USA",
+                        "state": "TX"
+                    }
+                },
+                "secondary": {
+                    "first_name": "Emma",
+                    "middle_initial": "H",
+                    "last_name": "Brown",
+                    "title": "Assistant Manager",
+                    "address": {
+                        "line_1": "122 Delta St",
+                        "line_2": null,
+                        "city": "Houston",
+                        "zip_code": "77002",
+                        "country": "USA",
+                        "state": "TX"
+                    }
+                }
+            },
+            "other_known_entity": [
+                "Cyber Defense LLC",
+                "Data Protection Inc.",
+                "Secure Networks LLC"
+            ],
+            "subcontractors": [
+                {
+                    "name": "Cyber Solutions LLC",
+                    "url": "https://cybersolutions.com"
+                },
+                {
+                    "name": "Protection Experts Inc.",
+                    "url": "https://protectionexperts.com"
+                },
+                {
+                    "name": "Secure Innovations LLC",
+                    "url": "https://secureinnovations.com"
+                }
+            ],
+            "status": "Closed"
+        }
+    ]
+}

@@ -1,0 +1,1304 @@
+{
+    "entities": [{
+        "id: 36283": {
+            "UEI": "CTKLDK3V4M97",
+            "registration_dates": {
+                "activation_date": "20230823",
+                "submission_date": "",
+                "initial_registration_date": "20070307"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2003": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2004": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2005": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2006": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2007": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2008": {
+                    "all_transactions": "882968.0",
+                    "new_awards": "1"
+                },
+                "FY2009": {
+                    "all_transactions": "85334.0",
+                    "new_awards": "1"
+                },
+                "FY2010": {
+                    "all_transactions": "23296589.0",
+                    "new_awards": "1"
+                },
+                "FY2011": {
+                    "all_transactions": "41304020.0",
+                    "new_awards": "1"
+                },
+                "FY2012": {
+                    "all_transactions": "11871168.49",
+                    "new_awards": "1"
+                },
+                "FY2013": {
+                    "all_transactions": "27731476.14",
+                    "new_awards": "1"
+                },
+                "FY2014": {
+                    "all_transactions": "64684422.3",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "48312837.82",
+                    "new_awards": "1"
+                },
+                "FY2016": {
+                    "all_transactions": "37438375.16",
+                    "new_awards": "1"
+                },
+                "FY2017": {
+                    "all_transactions": "34728451.45999999",
+                    "new_awards": "1"
+                },
+                "FY2018": {
+                    "all_transactions": "17587947.160000004",
+                    "new_awards": "1"
+                },
+                "FY2019": {
+                    "all_transactions": "6372237.599999998",
+                    "new_awards": "1"
+                },
+                "FY2020": {
+                    "all_transactions": "8845983.72",
+                    "new_awards": "1"
+                },
+                "FY2021": {
+                    "all_transactions": "1583520.2",
+                    "new_awards": "1"
+                },
+                "FY2022": {
+                    "all_transactions": "2316362.24",
+                    "new_awards": "1"
+                },
+                "FY2023": {
+                    "all_transactions": "1324299.89",
+                    "new_awards": "1"
+                },
+                "FY2024": {
+                    "all_transactions": "0.0",
+                    "new_awards": "1"
+                },
+                "FY2001": {
+                    "all_transactions": "0.0",
+                    "new_awards": "1"
+                }
+            }
+        },
+        "id: 43324": {
+            "UEI": "D17AN2KWNJK3",
+            "registration_dates": {
+                "activation_date": "20240115",
+                "submission_date": "",
+                "initial_registration_date": "20110131"
+            },
+            "entity_dates": {
+                "entity_start_date": "10340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2003": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2004": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2005": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2006": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2007": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2008": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2009": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2010": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2011": {
+                    "all_transactions": "6337866.21",
+                    "new_awards": "1"
+                },
+                "FY2012": {
+                    "all_transactions": "9540080.91",
+                    "new_awards": "1"
+                },
+                "FY2013": {
+                    "all_transactions": "8118002.83",
+                    "new_awards": "1"
+                },
+                "FY2014": {
+                    "all_transactions": "9206056.49",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "7890776.24",
+                    "new_awards": "1"
+                },
+                "FY2016": {
+                    "all_transactions": "124541.63",
+                    "new_awards": "1"
+                },
+                "FY2017": {
+                    "all_transactions": "0.0",
+                    "new_awards": "1"
+                },
+                "FY2018": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2019": {
+                    "all_transactions": "-409923.21",
+                    "new_awards": "1"
+                },
+                "FY2020": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2021": {
+                    "all_transactions": "200000.0",
+                    "new_awards": "1"
+                },
+                "FY2022": {
+                    "all_transactions": "0.0",
+                    "new_awards": "1"
+                },
+                "FY2023": {
+                    "all_transactions": "26316.0",
+                    "new_awards": "1"
+                },
+                "FY2024": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                }
+            }
+        },
+        "id: 44532": {
+            "UEI": "D27FSZD2L2U9",
+            "registration_dates": {
+                "activation_date": "20230823",
+                "submission_date": "",
+                "initial_registration_date": "20060919"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2003": {
+                    "all_transactions": "5388350.0",
+                    "new_awards": "2"
+                },
+                "FY2004": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2005": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2006": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2007": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2008": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2009": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2010": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2011": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2012": {
+                    "all_transactions": "19576831.48",
+                    "new_awards": "2"
+                },
+                "FY2013": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2014": {
+                    "all_transactions": "6765499.7299999995",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "12360741.959999999",
+                    "new_awards": "2"
+                },
+                "FY2016": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2017": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2018": {
+                    "all_transactions": "61065425.06",
+                    "new_awards": "1"
+                },
+                "FY2019": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2020": {
+                    "all_transactions": "110470617.52",
+                    "new_awards": "2"
+                },
+                "FY2021": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2022": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2023": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2024": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                }
+            }
+        },
+        "id: 67651": {
+            "UEI": "DLEKTJFY1UX7",
+            "registration_dates": {
+                "activation_date": "20231127",
+                "submission_date": "",
+                "initial_registration_date": "20020122"
+            },
+            "entity_dates": {
+                "entity_start_date": "19970324",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "4261440.0",
+                    "new_awards": "2"
+                },
+                "FY2003": {
+                    "all_transactions": "4017374.0",
+                    "new_awards": "2"
+                },
+                "FY2004": {
+                    "all_transactions": "414788.0",
+                    "new_awards": "2"
+                },
+                "FY2005": {
+                    "all_transactions": "2633292.0",
+                    "new_awards": "2"
+                },
+                "FY2006": {
+                    "all_transactions": "1945288.0",
+                    "new_awards": "2"
+                },
+                "FY2007": {
+                    "all_transactions": "1372580.0",
+                    "new_awards": "2"
+                },
+                "FY2008": {
+                    "all_transactions": "1799124.0",
+                    "new_awards": "2"
+                },
+                "FY2009": {
+                    "all_transactions": "1241904.0",
+                    "new_awards": "2"
+                },
+                "FY2010": {
+                    "all_transactions": "1116064.0",
+                    "new_awards": "2"
+                },
+                "FY2011": {
+                    "all_transactions": "377468.0",
+                    "new_awards": "2"
+                },
+                "FY2012": {
+                    "all_transactions": "-72292.28",
+                    "new_awards": "2"
+                },
+                "FY2013": {
+                    "all_transactions": "86616.0",
+                    "new_awards": "2"
+                },
+                "FY2014": {
+                    "all_transactions": "436904.0",
+                    "new_awards": "2"
+                },
+                "FY2015": {
+                    "all_transactions": "396384.0",
+                    "new_awards": "2"
+                },
+                "FY2016": {
+                    "all_transactions": "229000.0",
+                    "new_awards": "2"
+                },
+                "FY2017": {
+                    "all_transactions": "514707.5",
+                    "new_awards": "2"
+                },
+                "FY2018": {
+                    "all_transactions": "228724.0",
+                    "new_awards": "2"
+                },
+                "FY2019": {
+                    "all_transactions": "384356.0",
+                    "new_awards": "2"
+                },
+                "FY2020": {
+                    "all_transactions": "164682.0",
+                    "new_awards": "2"
+                },
+                "FY2021": {
+                    "all_transactions": "208974.0",
+                    "new_awards": "2"
+                },
+                "FY2022": {
+                    "all_transactions": "273544.0",
+                    "new_awards": "2"
+                },
+                "FY2023": {
+                    "all_transactions": "162176.0",
+                    "new_awards": "2"
+                },
+                "FY2024": {
+                    "all_transactions": "-1536.0",
+                    "new_awards": "2"
+                },
+                "FY2001": {
+                    "all_transactions": "2625772.0",
+                    "new_awards": "2"
+                }
+            }
+        },
+        "id: 129906": {
+            "UEI": "F5VJXR8LLZP5",
+            "registration_dates": {
+                "activation_date": "20230602",
+                "submission_date": "",
+                "initial_registration_date": "20010731"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340101",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "1298416.0",
+                    "new_awards": "1"
+                },
+                "FY2003": {
+                    "all_transactions": "1501468.0",
+                    "new_awards": "1"
+                },
+                "FY2004": {
+                    "all_transactions": "2330769.0",
+                    "new_awards": "1"
+                },
+                "FY2005": {
+                    "all_transactions": "3491816.1500000004",
+                    "new_awards": "1"
+                },
+                "FY2006": {
+                    "all_transactions": "3137259.13",
+                    "new_awards": "1"
+                },
+                "FY2007": {
+                    "all_transactions": "5223873.18",
+                    "new_awards": "1"
+                },
+                "FY2008": {
+                    "all_transactions": "6294736.43",
+                    "new_awards": "1"
+                },
+                "FY2009": {
+                    "all_transactions": "6732750.9399999995",
+                    "new_awards": "1"
+                },
+                "FY2010": {
+                    "all_transactions": "6516079.29",
+                    "new_awards": "1"
+                },
+                "FY2011": {
+                    "all_transactions": "4078124.97",
+                    "new_awards": "1"
+                },
+                "FY2012": {
+                    "all_transactions": "8207788.379999999",
+                    "new_awards": "1"
+                },
+                "FY2013": {
+                    "all_transactions": "6212239.46",
+                    "new_awards": "1"
+                },
+                "FY2014": {
+                    "all_transactions": "8912763.389999999",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "6331626.47",
+                    "new_awards": "1"
+                },
+                "FY2016": {
+                    "all_transactions": "12469178.880000005",
+                    "new_awards": "1"
+                },
+                "FY2017": {
+                    "all_transactions": "16139674.119999995",
+                    "new_awards": "1"
+                },
+                "FY2018": {
+                    "all_transactions": "10912292.14",
+                    "new_awards": "1"
+                },
+                "FY2019": {
+                    "all_transactions": "12117349.499999998",
+                    "new_awards": "1"
+                },
+                "FY2020": {
+                    "all_transactions": "31831271.73",
+                    "new_awards": "1"
+                },
+                "FY2021": {
+                    "all_transactions": "16981421.64",
+                    "new_awards": "1"
+                },
+                "FY2022": {
+                    "all_transactions": "34992541.74",
+                    "new_awards": "1"
+                },
+                "FY2023": {
+                    "all_transactions": "46231644.760000005",
+                    "new_awards": "1"
+                },
+                "FY2024": {
+                    "all_transactions": "5582625.95",
+                    "new_awards": "1"
+                },
+                "FY2001": {
+                    "all_transactions": "467735.0",
+                    "new_awards": "1"
+                }
+            }
+        },
+        "id: 169743": {
+            "UEI": "G5NSKYNG4VH6",
+            "registration_dates": {
+                "activation_date": "20230628",
+                "submission_date": "",
+                "initial_registration_date": "20051215"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2003": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2004": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2005": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2006": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2007": {
+                    "all_transactions": "44438.0",
+                    "new_awards": "1"
+                },
+                "FY2008": {
+                    "all_transactions": "2041495.41",
+                    "new_awards": "1"
+                },
+                "FY2009": {
+                    "all_transactions": "63025448.02",
+                    "new_awards": "1"
+                },
+                "FY2010": {
+                    "all_transactions": "15546179.48",
+                    "new_awards": "1"
+                },
+                "FY2011": {
+                    "all_transactions": "22593237.85",
+                    "new_awards": "1"
+                },
+                "FY2012": {
+                    "all_transactions": "4399196.369999999",
+                    "new_awards": "1"
+                },
+                "FY2013": {
+                    "all_transactions": "41888748.0",
+                    "new_awards": "1"
+                },
+                "FY2014": {
+                    "all_transactions": "108394790.0",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "5232640.9",
+                    "new_awards": "1"
+                },
+                "FY2016": {
+                    "all_transactions": "6529653.54",
+                    "new_awards": "1"
+                },
+                "FY2017": {
+                    "all_transactions": "27277917.229999997",
+                    "new_awards": "1"
+                },
+                "FY2018": {
+                    "all_transactions": "24879322.630000003",
+                    "new_awards": "1"
+                },
+                "FY2019": {
+                    "all_transactions": "824451.63",
+                    "new_awards": "1"
+                },
+                "FY2020": {
+                    "all_transactions": "-329120.07",
+                    "new_awards": "1"
+                },
+                "FY2021": {
+                    "all_transactions": "-348491.44",
+                    "new_awards": "1"
+                },
+                "FY2022": {
+                    "all_transactions": "0.0",
+                    "new_awards": "1"
+                },
+                "FY2023": {
+                    "all_transactions": "0.0",
+                    "new_awards": "1"
+                },
+                "FY2024": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                }
+            }
+        },
+        "id: 185262": {
+            "UEI": "GHXZMXLAQC79",
+            "registration_dates": {
+                "activation_date": "20230922",
+                "submission_date": "",
+                "initial_registration_date": "20010508"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "95748728.8",
+                    "new_awards": "1"
+                },
+                "FY2003": {
+                    "all_transactions": "273793038.0",
+                    "new_awards": "1"
+                },
+                "FY2004": {
+                    "all_transactions": "317379938.0",
+                    "new_awards": "1"
+                },
+                "FY2005": {
+                    "all_transactions": "213301344.8",
+                    "new_awards": "1"
+                },
+                "FY2006": {
+                    "all_transactions": "106636819.1",
+                    "new_awards": "1"
+                },
+                "FY2007": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2008": {
+                    "all_transactions": "80324847.59",
+                    "new_awards": "1"
+                },
+                "FY2009": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2010": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2011": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2012": {
+                    "all_transactions": "37356250.349999994",
+                    "new_awards": "1"
+                },
+                "FY2013": {
+                    "all_transactions": "36122445.34",
+                    "new_awards": "1"
+                },
+                "FY2014": {
+                    "all_transactions": "26189795.09999999",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2016": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2017": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2018": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2019": {
+                    "all_transactions": "14358253.989999998",
+                    "new_awards": "1"
+                },
+                "FY2020": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2021": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2022": {
+                    "all_transactions": "-281111.93",
+                    "new_awards": "1"
+                },
+                "FY2023": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2024": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2001": {
+                    "all_transactions": "43119043.0",
+                    "new_awards": "1"
+                }
+            }
+        },
+        "id: 17179935751": {
+            "UEI": "NRDMMS91Q8E8",
+            "registration_dates": {
+                "activation_date": "20231012",
+                "submission_date": "",
+                "initial_registration_date": "20110117"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2003": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2004": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2005": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2006": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2007": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2008": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2009": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2010": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2011": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2012": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2013": {
+                    "all_transactions": "1590627.3599999999",
+                    "new_awards": "2"
+                },
+                "FY2014": {
+                    "all_transactions": "1641989.14",
+                    "new_awards": "2"
+                },
+                "FY2015": {
+                    "all_transactions": "5680934.34",
+                    "new_awards": "2"
+                },
+                "FY2016": {
+                    "all_transactions": "6943196.88",
+                    "new_awards": "2"
+                },
+                "FY2017": {
+                    "all_transactions": "15452525.02",
+                    "new_awards": "2"
+                },
+                "FY2018": {
+                    "all_transactions": "7032735.86",
+                    "new_awards": "2"
+                },
+                "FY2019": {
+                    "all_transactions": "5968355.220000001",
+                    "new_awards": "2"
+                },
+                "FY2020": {
+                    "all_transactions": "4263393.9",
+                    "new_awards": "2"
+                },
+                "FY2021": {
+                    "all_transactions": "6848306.1",
+                    "new_awards": "2"
+                },
+                "FY2022": {
+                    "all_transactions": "2537711.56",
+                    "new_awards": "2"
+                },
+                "FY2023": {
+                    "all_transactions": "3506616.52",
+                    "new_awards": "2"
+                },
+                "FY2024": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                }
+            }
+        },
+        "id: 17179960264": {
+            "UEI": "PHJHM5MZKMN5",
+            "registration_dates": {
+                "activation_date": "20240115",
+                "submission_date": "",
+                "initial_registration_date": "20020423"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "95326173.0",
+                    "new_awards": "1"
+                },
+                "FY2003": {
+                    "all_transactions": "96218350.0",
+                    "new_awards": "1"
+                },
+                "FY2004": {
+                    "all_transactions": "83921121.0",
+                    "new_awards": "1"
+                },
+                "FY2005": {
+                    "all_transactions": "122425284.0",
+                    "new_awards": "1"
+                },
+                "FY2006": {
+                    "all_transactions": "105682907.0",
+                    "new_awards": "1"
+                },
+                "FY2007": {
+                    "all_transactions": "313539960.9",
+                    "new_awards": "1"
+                },
+                "FY2008": {
+                    "all_transactions": "161335398.56000003",
+                    "new_awards": "1"
+                },
+                "FY2009": {
+                    "all_transactions": "84714530.18",
+                    "new_awards": "1"
+                },
+                "FY2010": {
+                    "all_transactions": "78975785.05999999",
+                    "new_awards": "1"
+                },
+                "FY2011": {
+                    "all_transactions": "129498092.75999998",
+                    "new_awards": "1"
+                },
+                "FY2012": {
+                    "all_transactions": "96710241.42",
+                    "new_awards": "1"
+                },
+                "FY2013": {
+                    "all_transactions": "94173268.77",
+                    "new_awards": "1"
+                },
+                "FY2014": {
+                    "all_transactions": "118011092.2",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "65045176.120000005",
+                    "new_awards": "1"
+                },
+                "FY2016": {
+                    "all_transactions": "107283506.46999998",
+                    "new_awards": "1"
+                },
+                "FY2017": {
+                    "all_transactions": "96442976.15",
+                    "new_awards": "1"
+                },
+                "FY2018": {
+                    "all_transactions": "110276074.85999998",
+                    "new_awards": "1"
+                },
+                "FY2019": {
+                    "all_transactions": "162937263.0",
+                    "new_awards": "1"
+                },
+                "FY2020": {
+                    "all_transactions": "70713855.41",
+                    "new_awards": "1"
+                },
+                "FY2021": {
+                    "all_transactions": "98945694.09",
+                    "new_awards": "1"
+                },
+                "FY2022": {
+                    "all_transactions": "118945126.82999998",
+                    "new_awards": "1"
+                },
+                "FY2023": {
+                    "all_transactions": "123998510.7",
+                    "new_awards": "1"
+                },
+                "FY2024": {
+                    "all_transactions": "0.0",
+                    "new_awards": "1"
+                },
+                "FY2001": {
+                    "all_transactions": "77488471.0",
+                    "new_awards": "1"
+                }
+            }
+        },
+        "id: 17180050949": {
+            "UEI": "SML4NN2CT556",
+            "registration_dates": {
+                "activation_date": "20231102",
+                "submission_date": "",
+                "initial_registration_date": "20020411"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "40807158.0",
+                    "new_awards": "2"
+                },
+                "FY2003": {
+                    "all_transactions": "32304888.0",
+                    "new_awards": "2"
+                },
+                "FY2004": {
+                    "all_transactions": "71495576.0",
+                    "new_awards": "2"
+                },
+                "FY2005": {
+                    "all_transactions": "24146000.0",
+                    "new_awards": "2"
+                },
+                "FY2006": {
+                    "all_transactions": "1098274636.0",
+                    "new_awards": "2"
+                },
+                "FY2007": {
+                    "all_transactions": "4326132740.0",
+                    "new_awards": "2"
+                },
+                "FY2008": {
+                    "all_transactions": "3690153370.0",
+                    "new_awards": "2"
+                },
+                "FY2009": {
+                    "all_transactions": "3063422033.6800003",
+                    "new_awards": "2"
+                },
+                "FY2010": {
+                    "all_transactions": "2288095537.4399996",
+                    "new_awards": "2"
+                },
+                "FY2011": {
+                    "all_transactions": "2441024228.0",
+                    "new_awards": "2"
+                },
+                "FY2012": {
+                    "all_transactions": "2237365392.3999996",
+                    "new_awards": "2"
+                },
+                "FY2013": {
+                    "all_transactions": "2698865540.0",
+                    "new_awards": "2"
+                },
+                "FY2014": {
+                    "all_transactions": "3499920712.760001",
+                    "new_awards": "2"
+                },
+                "FY2015": {
+                    "all_transactions": "3289232015.8199997",
+                    "new_awards": "2"
+                },
+                "FY2016": {
+                    "all_transactions": "4672607612.0",
+                    "new_awards": "2"
+                },
+                "FY2017": {
+                    "all_transactions": "3955571092.0",
+                    "new_awards": "2"
+                },
+                "FY2018": {
+                    "all_transactions": "6046011712.0",
+                    "new_awards": "2"
+                },
+                "FY2019": {
+                    "all_transactions": "4469735234.0",
+                    "new_awards": "2"
+                },
+                "FY2020": {
+                    "all_transactions": "4184737958.1799994",
+                    "new_awards": "2"
+                },
+                "FY2021": {
+                    "all_transactions": "5382071253.299999",
+                    "new_awards": "2"
+                },
+                "FY2022": {
+                    "all_transactions": "3976247406.0",
+                    "new_awards": "2"
+                },
+                "FY2023": {
+                    "all_transactions": "3039286468.0",
+                    "new_awards": "2"
+                },
+                "FY2024": {
+                    "all_transactions": "587173608.1600001",
+                    "new_awards": "2"
+                },
+                "FY2001": {
+                    "all_transactions": "79082998.0",
+                    "new_awards": "2"
+                }
+            }
+        },
+        "id: 17180058249": {
+            "UEI": "SWNGPNU86XM5",
+            "registration_dates": {
+                "activation_date": "20230922",
+                "submission_date": "",
+                "initial_registration_date": "20071101"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2003": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2004": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2005": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2006": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2007": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2008": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2009": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2010": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2011": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2012": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2013": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2014": {
+                    "all_transactions": "4059449.0",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "8033510.0",
+                    "new_awards": "1"
+                },
+                "FY2016": {
+                    "all_transactions": "4201963.64",
+                    "new_awards": "1"
+                },
+                "FY2017": {
+                    "all_transactions": "3413988.92",
+                    "new_awards": "1"
+                },
+                "FY2018": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2019": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2020": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2021": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2022": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2023": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2024": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                }
+            }
+        },
+        "id: 25769836675": {
+            "UEI": "UEGFHX6R6KJ1",
+            "registration_dates": {
+                "activation_date": "20231117",
+                "submission_date": "",
+                "initial_registration_date": "20020124"
+            },
+            "entity_dates": {
+                "entity_start_date": "19340719",
+                "fiscal_year_end_close_date": "1231"
+            },
+            "transactions_over_time": {
+                "FY2002": {
+                    "all_transactions": "3583374969.0",
+                    "new_awards": "1"
+                },
+                "FY2003": {
+                    "all_transactions": "3744798473.0",
+                    "new_awards": "1"
+                },
+                "FY2004": {
+                    "all_transactions": "3516624710.0",
+                    "new_awards": "1"
+                },
+                "FY2005": {
+                    "all_transactions": "4381059215.0",
+                    "new_awards": "1"
+                },
+                "FY2006": {
+                    "all_transactions": "5028793598.0",
+                    "new_awards": "1"
+                },
+                "FY2007": {
+                    "all_transactions": "5417554602.9800005",
+                    "new_awards": "1"
+                },
+                "FY2008": {
+                    "all_transactions": "2895563948.6099997",
+                    "new_awards": "1"
+                },
+                "FY2009": {
+                    "all_transactions": "3420319045.0",
+                    "new_awards": "1"
+                },
+                "FY2010": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2011": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2012": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2013": {
+                    "all_transactions": "135613093.9",
+                    "new_awards": "1"
+                },
+                "FY2014": {
+                    "all_transactions": "191747233.1",
+                    "new_awards": "1"
+                },
+                "FY2015": {
+                    "all_transactions": "356453576.8",
+                    "new_awards": "1"
+                },
+                "FY2016": {
+                    "all_transactions": "422923176.8",
+                    "new_awards": "1"
+                },
+                "FY2017": {
+                    "all_transactions": "92606167.95",
+                    "new_awards": "1"
+                },
+                "FY2018": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2019": {
+                    "all_transactions": "40505553.54",
+                    "new_awards": "1"
+                },
+                "FY2020": {
+                    "all_transactions": "-26478508.52",
+                    "new_awards": "1"
+                },
+                "FY2021": {
+                    "all_transactions": "140086639.44000003",
+                    "new_awards": "1"
+                },
+                "FY2022": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2023": {
+                    "all_transactions": "1753904947.1399996",
+                    "new_awards": "1"
+                },
+                "FY2024": {
+                    "all_transactions": "0",
+                    "new_awards": "0"
+                },
+                "FY2001": {
+                    "all_transactions": "2736307812.0",
+                    "new_awards": "1"
+                }
+            }
+        }
+    }]
+}

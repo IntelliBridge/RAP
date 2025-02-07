@@ -1,0 +1,11 @@
+a.nav-link {
+    text-decoration: none;
+    border-bottom: 4px solid transparent;
+    box-sizing: border-box;
+}
+
+a.active-nav-link {
+    border-bottom: 4px solid #113958;
+    box-sizing: border-box;
+    color: #113958 !important
+}

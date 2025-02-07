@@ -1,0 +1,50 @@
+.overview-content {
+  .label {
+    font-size: 1.25rem;
+  }
+  .value {
+    font-size: 1.5rem;
+  }
+  .sub-label {
+    font-size: 1rem;
+  }
+  .files {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    .file {
+      display: flex;
+      align-items: center;
+      margin-right: 2rem;
+      img {
+        margin-right: 1rem;
+      }
+    }
+  }
+}
+.ul {
+  width: 100%;
+  border-bottom: 2px solid ;
+}
+.associated-vendors {
+  width: 100%;
+  .title-gray {
+    background-color: #F0F0F0;
+    padding: 1rem 2rem;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin-bottom: .75rem;
+  }
+  li{
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: .75rem;
+    .usa-card__container {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    &:last-child {
+      margin-bottom: .75rem;
+    }
+  }
+}

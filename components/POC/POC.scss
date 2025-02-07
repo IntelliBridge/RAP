@@ -1,0 +1,20 @@
+.points-of-contact-content {
+  background-color: #F0F0F0;
+  padding:1rem 2rem;
+  margin-bottom: 1rem;
+  
+  .side-bar-label, .side-bar-label-alternate {
+    font-weight: 700;
+    color: #3D4551;
+  }
+  .poc-name, .title {
+    margin: 1rem 0 1.25rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+  .poc-address {
+    line-height: 2rem;
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+}

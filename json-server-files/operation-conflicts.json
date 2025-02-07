@@ -1,0 +1,632 @@
+{
+  "conflicts": [
+    {
+      "active": true,
+      "id": "9398439-34343-3",
+      "submission_id": "N203P4Q5R6",
+      "conflict_info": [
+        {
+          "type": "Location",
+          "details": ""
+        },
+        {
+          "type": "POP",
+          "details": ""
+        },
+        {
+          "type": "Engaged",
+          "details": ""
+        }
+      ],
+      "concerns": [
+        {
+          "type": "Fraud - Multiple Billing",
+          "details": ""
+        },
+        {
+          "type": "Security Risk",
+          "details": ""
+        }
+      ],
+      "connected_organization": [
+        "airforce", "navy", "marines"
+      ]
+
+    },
+    {
+      "active": true,
+      "id": "9398439-34343-3",
+      "submission_id": "N203P4Q5R6",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "POP",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "navy",
+          "marines"
+      ]
+  },
+  {
+      "active": true,
+      "id": "38705011-3786-6368",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "marines"
+      ]
+  },
+  {
+      "active": false,
+      "id": "69735104-8949-1199",
+      "submission_id": "N203P4Q5R6",
+      "conflict_info": [
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "navy"
+      ]
+  },
+  {
+      "active": false,
+      "id": "97400455-3123-2544",
+      "submission_id": "F6G7H8I9J0",
+      "conflict_info": [
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "marines"
+      ]
+  },
+  {
+      "active": false,
+      "id": "16821800-6433-8607",
+      "submission_id": "A1B2C3D4E5",
+      "conflict_info": [
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "marines",
+          "navy"
+      ]
+  },
+  {
+      "active": false,
+      "id": "18166916-1632-3547",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "marines",
+          "airforce"
+      ]
+  },
+  {
+      "active": false,
+      "id": "17175735-9815-1211",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "navy"
+      ]
+  },
+  {
+      "active": true,
+      "id": "52896658-7565-3167",
+      "submission_id": "N203P4Q5R6",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "navy",
+          "airforce"
+      ]
+  },
+  {
+      "active": true,
+      "id": "24865781-8935-4062",
+      "submission_id": "A1B2C3D4E5",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "navy"
+      ]
+  },
+  {
+      "active": true,
+      "id": "96194558-5223-9672",
+      "submission_id": "N203P4Q5R6",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "marines",
+          "marines"
+      ]
+  },
+  {
+      "active": true,
+      "id": "87378099-7726-9017",
+      "submission_id": "N203P4Q5R6",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "marines",
+          "airforce"
+      ]
+  },
+  {
+      "active": true,
+      "id": "71083122-7902-6204",
+      "submission_id": "N203P4Q5R6",
+      "conflict_info": [
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "marines",
+          "marines"
+      ]
+  },
+  {
+      "active": false,
+      "id": "21213144-4044-1100",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Security Risk",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "navy"
+      ]
+  },
+  {
+      "active": true,
+      "id": "46986579-1708-4247",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "airforce",
+          "navy"
+      ]
+  },
+  {
+      "active": false,
+      "id": "22545784-1376-3273",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "marines",
+          "marines"
+      ]
+  },
+  {
+      "active": false,
+      "id": "11889021-5333-9678",
+      "submission_id": "T456H7J8K9",
+      "conflict_info": [
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "navy",
+          "navy"
+      ]
+  },
+  {
+      "active": false,
+      "id": "53627311-8758-9057",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          },
+          {
+              "type": "Location",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "marines",
+          "airforce"
+      ]
+  },
+  {
+      "active": true,
+      "id": "23763542-9034-2259",
+      "submission_id": "K1L2M3N4O5",
+      "conflict_info": [
+          {
+              "type": "Location",
+              "details": ""
+          },
+          {
+              "type": "Engaged",
+              "details": ""
+          },
+          {
+              "type": "Pop",
+              "details": ""
+          }
+      ],
+      "concerns": [
+          {
+              "type": "Security Risk",
+              "details": ""
+          },
+          {
+              "type": "Fraud - Multiple Billing",
+              "details": ""
+          }
+      ],
+      "connected_organization": [
+          "navy",
+          "airforce"
+      ]
+    }
+  ]
+}

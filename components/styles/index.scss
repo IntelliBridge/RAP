@@ -1,0 +1,244 @@
+$bannerFlexMinWidth: 700px;
+$maxWidthForSlideMenu: 1230px;
+$showFullLogoAt: 1000px;
+@font-face {
+  font-family: PublicSans;
+  src: url(../assets/fonts/Public_Sans/PublicSans-VariableFont_wght.ttf);
+}
+html,
+body {
+  font-family: PublicSans, sans-serif;
+  color: var(--bodyTextColor);
+  background:#f9f9f9;
+  margin: 0px;
+  font-size: 16px; // basis for site... should use rem for all other measures
+}
+
+//* force override all fonts to PublicSans
+// This should be configurable, but you have to read through some info on themes
+// here: https://github.com/uswds/uswds#sass-and-theme-settings
+// In the meantime, we are just overriding the themes here.
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.usa-label,
+.usa-textarea,
+.usa-range,
+.usa-radio__label,
+.usa-input-group,
+.usa-hint,
+.usa-combo-box__input,
+.usa-combo-box__list,
+.usa-select,
+.usa-checkbox__label,
+.usa-fieldset,
+.usa-input,
+.usa-prose,
+.usa-prose > table,
+.usa-prose > table caption,
+.usa-prose > .usa-table--stacked-header tr th,
+.usa-button,
+.usa-footer,
+.usa-breadcrumb {
+  font-family: PublicSans, sans-serif !important;
+}
+
+p {
+  line-height: 1.5rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+h3 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.floatRight {
+  float: right;
+}
+.floatLeft {
+  float: left;
+}
+.banner {
+  display: flex;
+  background-color: var(--bannerColor);
+  width: 100%;
+  @media (max-width: $bannerFlexMinWidth) {
+    display: block;
+  }
+}
+.inline-block {
+  display: inline-block;
+}
+
+.desktop-only {
+  display: none;
+  @media (min-width: $bannerFlexMinWidth) {
+    display: block;
+  }
+}
+.desktop-only.inline-block {
+  display: none;
+  @media (min-width: $bannerFlexMinWidth) {
+    display: inline-block;
+  }
+}
+
+.card {
+  padding: 1rem;
+  background: white;
+  margin: 10rem auto;
+  border-radius: 5px;
+  width: 900px;
+  max-width: 85%;
+}
+
+.tabset {
+  border-bottom: 1px solid lightgray;
+  width: calc(100% + 30px);
+  position: relative;
+  left: -15px;
+  .tab {
+    cursor: pointer;
+    display: inline-block;
+    padding: 1rem;
+    padding-top: 0px;
+    &.active {
+      border-bottom: blue 1px solid;
+    }
+  }
+}
+.note {
+  font-size: 0.8rem;
+}
+
+.error {
+  color: var(--errorColor);
+  padding: 0.3rem;
+}
+a,
+.link {
+  color: var(--primary);
+  cursor: pointer;
+  text-decoration-skip-ink: none;
+}
+.pointer {
+  cursor: pointer;
+}
+.underline {
+  text-decoration: underline;
+}
+
+.shadow {
+  box-shadow: var(--shadow);
+}
+
+#app {
+  background: var(--appBackground);
+}
+
+#search-container {
+  background: yellow;
+  text-align: center;
+}
+
+.padded {
+  padding: 1rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.error-message {
+  border: 2px solid var(--errorMessageBorderColor);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  background: var(--errorMessageBackgroundColor);
+}
+
+.content {
+  width: calc(100vw);
+  max-width: 1400px;
+  margin: auto;
+}
+
+.narrow-content {
+  width: calc(100vw);
+  max-width: 24rem;
+  padding: 0.5rem;
+  margin: auto;
+}
+
+.normal-content {
+  max-width: 90rem;
+  margin: auto;
+  padding: 5rem 9rem;
+  //padding: 5rem 5vw;
+}
+
+@media only screen and (max-width: 1024px) {
+  .normal-content {
+    padding: 5rem 10vw;
+  }
+}
+
+.tag {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0.2rem;
+  margin: 0.2rem;
+  height: 0.9rem;
+  font-size: 0.8rem;
+  display: inline-block;
+  background-color: purple;
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+.toggle-container {
+  position: fixed;
+  top: 0;
+  left: 20px;
+  background-color: lightgray;
+  br {
+    margin-bottom: 20px;
+  }
+}
+.usa-banner__inner {
+  max-width: unset;
+}
+.grid-container-widescreen {
+  max-width: unset;
+}
+.usa-section {
+  margin-top: 0rem;
+  padding-top: 1rem;
+}
+.usa-section-label {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.label {
+  font-weight: 700;
+  color: #3D4551;
+}
+.value {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+.usa-top-level {
+  margin-bottom: 1rem;
+}

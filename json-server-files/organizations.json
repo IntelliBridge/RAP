@@ -1,0 +1,50 @@
+{
+  "organization": {
+    "airforce": {
+      "organization_name": "Air Force",
+      "primary_contact": {
+        "first_name": "Jonas",
+        "last_name": "Black",
+        "phone": "(555) 123-4567",
+        "email": "first.lastname@airforce.mil"
+      },
+      "secondary_contact": {
+        "first_name": "Noah",
+        "last_name": "Browning",
+        "phone": "(555) 123-4567",
+        "email": "first.lastname@airforce.mil"
+      }
+    },
+    "navy": {
+      "organization_name": "Navy",
+      "primary_contact": {
+        "first_name": "Jonas",
+        "last_name": "Black",
+        "phone": "(555) 123-4567",
+        "email": "first.lastname@airforce.mil"
+      },
+      "secondary_contact": {
+        "first_name": "Noah",
+        "last_name": "Browning",
+        "phone": "(555) 123-4567",
+        "email": "first.lastname@airforce.mil"
+      }
+    },
+    "marines": {
+      "organization_name": "Marines",
+      "primary_contact": {
+        "first_name": "Jonas",
+        "last_name": "Black",
+        "phone": "(555) 123-4567",
+        "email": "first.lastname@airforce.mil"
+      },
+      "secondary_contact": {
+        "first_name": "Noah",
+        "last_name": "Browning",
+        "phone": "(555) 123-4567",
+        "email": "first.lastname@airforce.mil"
+      }
+    }
+
+  }
+}

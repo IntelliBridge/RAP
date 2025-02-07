@@ -1,0 +1,115 @@
+.header-component {
+  .usa-header--extended .usa-logo {
+    max-width: 100%;
+  }
+  #header {
+    #usa-notice {
+      font-size: 0.75rem;
+      height: 1rem;
+      line-height: 1rem;
+      background-color: var(--base-lightest);
+      padding: 0;
+      display: flex;
+      & > div {
+        padding-right: 1rem;
+        position: relative;
+        .down-carrot {
+          position: absolute;
+        }
+      }
+      & > div:first-child {
+        margin-left: var(--topElementsHorizontalPadding);
+      }
+    }
+    #header-title {
+      box-sizing: border-box;
+      display: flex;
+      padding: 0.5rem 2rem;
+      .logo-icon {
+        width: 5rem;
+        margin-right: 1rem;
+      }
+      & > div:first-child {
+        //margin-left: var(--topElementsHorizontalPadding);
+      }
+    }
+  }
+  header {
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .usa-header {
+    font-family: PublicSans;
+    &--extended {
+      border-bottom: 0;
+    }
+  }
+  .usa-logo {
+    white-space: nowrap;
+    &-container {
+      display: flex;
+      width: fit-content;
+      align-items: center;
+    }
+    &__text {
+      a {
+        display: flex;
+        align-items: center;
+      }
+    }
+    &-img {
+      @media screen and (min-width:1024px) {
+        width: 300px;
+        
+      }
+      width: 48px;
+      height: 100%;
+      object-fit: contain;
+      margin-right: 5px;
+    }
+  }
+  .usa-header--extended {
+    .usa-nav__submenu {
+      &.usa-megamenu {
+        padding-left: 0;
+      }
+    }
+  }
+  .usa-nav {
+    &__secondary {
+      right: 0;
+      a {
+        color: #005ea2;
+      }
+      .usa-button--unstyled {
+        font-family: PublicSans;
+        color: #005ea2;
+        font-size: 0.93rem;
+        text-decoration: none;
+        &:hover {
+          color: #005ea2;
+          text-decoration: underline;
+        }
+      }
+    }
+    span,
+    a,
+    button {
+      font-family: PublicSans;
+    }
+  }
+  .usa-search {
+    justify-content: flex-end;
+    width: 100%;
+  }
+  .usa-label,
+  .usa-button {
+    font-family: PublicSans;
+  }
+}
+.usa-nav-container {
+  max-width: unset;
+}
+.usa-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+}

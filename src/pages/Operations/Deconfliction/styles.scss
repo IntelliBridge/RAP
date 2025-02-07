@@ -1,0 +1,81 @@
+.deconfliction-container {
+  padding:1.5rem 2.5rem;
+  background-color: #fff;
+  margin-bottom: 1rem;
+  box-shadow: inset 1rem 0  #ff4616;
+  
+  .title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  
+  }
+  .conflicts-list {
+    display: flex;
+    margin-bottom: 1rem;
+    .conflict-bubble {
+      font-size: 1.5rem;
+      margin-right: 1rem;
+    }
+  }
+  .conflict-bubble {
+    background-color: #FFe0dd;
+    width: fit-content;
+    padding: .5rem 1rem;
+    font-weight: 700;
+    border-radius: 4px;
+  }
+  .concerns-list {
+    display: flex;
+    margin-bottom: 1rem;
+    .conflict-bubble {
+      margin-right: 1rem;
+    }
+  }
+  .subtitle {
+    font-size: 1.25rem;
+    margin-bottom: .5rem;
+  }
+  
+  .value {
+    font-size: 1.25rem;
+  }
+  .full-width {
+    max-width: 100%;
+  }
+  .organization-card-container {
+    display: flex;
+    overflow-x: scroll;
+    li {
+      list-style-type: none;
+      .usa-card__img {
+        height:6rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        padding:1rem;
+        img {
+          height: 5rem;
+          width: 100%;
+          object-fit: contain;
+        }
+      }
+      .navy {
+        .usa-card__img {
+          img {
+            height: 3rem;
+          }
+        }   
+      }
+      .marines {
+        .usa-card__img {
+          img {
+            height: 3rem;
+          }
+        }   
+      }
+    }
+    
+  }
+}

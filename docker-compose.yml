@@ -1,0 +1,31 @@
+services:
+  json-server:
+    image: "intellibridgellc/json-server-rap:${JSON_SERVER_RAP_TAG}"
+    container_name: rap-db
+    build:
+      context: .
+      dockerfile: ./Dockerfile.db
+    ports:
+      - "3006:3001"
+    environment:
+      NODE_ENV: development
+    networks:
+      - app-network
+
+  app:
+    image: "intellibridgellc/app-rap:${APP_RAP_TAG}"
+    container_name: rap-app
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: development
+    ports:
+      - "3005:3000"
+    command: npm run dev
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

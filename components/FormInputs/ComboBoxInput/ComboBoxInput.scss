@@ -1,0 +1,9 @@
+.combo-box-input-component {
+  .usa-combo-box__input-button-separator {
+    height: calc(100% - 0.5rem);
+  }
+  .usa-combo-box__toggle-list,
+  .usa-combo-box__clear-input {
+    top: 6px;
+  }
+}

@@ -1,0 +1,45 @@
+:root {
+  // media-query widths
+  --min-large-screen: 1028px;
+  --maxWidthForSlideMenu: 1230px;
+  --shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.75);
+  --headerHeight: 4rem;
+  --belowHeaderHeight: 5rem;
+  --mobileWidth: 400px;
+  --logoContainerWidth: 60px;
+  --maxContentWidth: 1400px;
+  --topElementsHorizontalPadding: 2rem;
+  @media only screen and (max-width: 1024px) {
+    --topElementsHorizontalPadding: 1rem;
+  }
+
+  // color palette
+  --black: #000000;
+  --primary: #005ea2;
+  --primary-darker: #162e51;
+  --gray-10: #e6e6e6;
+  --gray-unnamed-5c: #5c5c5c;
+  --base-lightest: #f0f0f0;
+  --base-dark: #565c65;
+
+  --uswds-success-success-light: #70e17b;
+  --uswds-success-success-lighter: #ecf3ec;
+  --uswds-error-error-dark: #b50909;
+
+  // color usage
+  --bodyTextColor: var(--black);
+  --headerBg: #2888bf;
+  --headerHover: #0a171e; // #223844;
+  --secondaryHeaderBg: #e6eeff;
+  --fontColor: #333333;
+  --bodyBackground: #e9eff5;
+  --bannerColor: #cbddff;
+  --logoColor: white;
+  --appBackground: white;
+  --errorColor: red;
+  --floatingBoarderColor: #a6aecf;
+  --errorMessageBorderColor: var(--errorColor);
+  --errorMessageBackgroundColor: pink;
+
+  // uswds colors
+}

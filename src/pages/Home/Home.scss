@@ -1,0 +1,30 @@
+.homepage-content {
+
+    .btn-full {
+        button {
+            width: 100%;
+            margin: 10px 0;
+        }
+        .usa-button--unstyled {
+            text-align: center;
+        }
+    }
+    .bg-accent-cool-lighter {
+        background-color: #E1F3F8;
+    }
+    .mtb {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    .ptb-20 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .mb-2 {
+        margin-bottom: 2rem;
+    }
+}
+.usa-button--outline:hover {
+    background-color: #1A4480;
+    color: white;
+}

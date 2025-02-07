@@ -1,0 +1,16 @@
+.breadcrumb-bar-component {
+  background-color: #f0f0f0;
+  padding: 0.5rem;
+  border-top: 2px solid #dfe1e2;
+  .usa-breadcrumb {
+    background-color: #f0f0f0;
+    font-size: 13px;
+    a {
+      color: #005ea2;
+    }
+  }
+  .usa-breadcrumb__list-item:not(:last-child):after {
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+}

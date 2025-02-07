@@ -1,0 +1,36 @@
+# # Use an official Node.js runtime as a parent image
+# FROM node:21.6.0-alpine
+
+# # Set the working directory
+# WORKDIR /app
+
+# # Copy package.json and package-lock.json
+# COPY package*.json .
+
+# # Remove node_modules and package-lock.json to ensure a clean state
+# # RUN rm -rf node_modules package-lock.json
+
+# # Install dependencies
+# RUN npm install
+
+# RUN npm install -g json-server
+
+# # Copy the rest of the application code
+# COPY . .
+
+# RUN npm run db-copy
+
+# # Expose the ports for JSON server and npm dev server
+
+# CMD ["json-server", "--watch", "json_server_db.json", "--host", "0.0.0.0"]
+
+# EXPOSE 3006
+
+FROM node:alpine
+RUN npm install -g json-server
+WORKDIR /app
+COPY . .
+COPY json_server_db.json .
+RUN npm run db-copy
+CMD ["json-server", "--watch", "json_server_db.json", "--host", "localhost", "--port", "3001"]
+EXPOSE 3001

@@ -1,0 +1,11 @@
+.input-component {
+  padding-right: 1rem;
+  &.has-error {
+    border-left: 4px solid var(--uswds-error-error-dark);
+    padding-left: 1rem;
+    padding-left: 20px;
+  }
+  .input-and-after-input-wrapper {
+    display: flex;
+  }
+}

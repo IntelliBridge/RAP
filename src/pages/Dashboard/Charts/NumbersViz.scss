@@ -1,0 +1,155 @@
+.number-viz-container {
+  background-color: #fff;
+  border-radius: 1px;
+  border: 2px solid #DFE1E2;
+  padding: 1.5rem 1rem;
+  .heading {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .label {
+    margin-bottom: 2rem;
+  }
+  .data-info {
+    display: flex;
+    justify-content: space-evenly;
+    .number-viz {
+      padding: 1rem;
+      border: 7px solid #C9C9C9;
+      width: 100%;
+      max-width: 9rem;
+      border-radius: 1rem;
+      background-color: #E6E6E6;
+      margin-right: 10px;
+      &:last-child{
+        margin-right: 0;
+    }
+      .number {
+        font-size: 3rem;
+        text-align: center;
+      }
+      .type {
+        font-size: 1rem;
+        font-weight: 500;
+        text-align: center;
+
+      }
+    }
+    .alert{
+      background-color: #FFE0DD;
+      border-color: #FF4616;
+    }
+
+    .primary{
+      background-color: #E1E7F1;
+      border-color: #7292C7;
+
+    }
+    .in-review {
+      background-color: #FAF3D1;
+      border-color: #FEE685;
+    }
+    .draft {
+      background-color: #EBE3F9;
+      border-color: #B8A2E3;
+    }
+  }
+}
+
+.number-singlebar-even-viz-container {
+  background-color: #fff;
+  border-radius: 1px;
+  border: 2px solid #DFE1E2;
+  padding: 1.5rem 1rem;
+  .heading {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .label {
+    margin-bottom: 2rem;
+  }
+  .data-info {
+    display: flex;
+    justify-content: center;
+    .number-viz {
+      .dot {
+        position: relative;
+        display: inline-block;
+        margin-left: 14px; /* Adjust as needed */
+      }
+    
+      .dot::before {
+        content: "";
+        position: absolute;
+        left: -14px; /* Adjust the position of the dot */
+        top: 50%;
+        transform: translateY(-50%);
+        width: 10px; /* Size of the dot */
+        height: 10px; /* Size of the dot */
+        background-color: black; /* Color of the dot */
+        border-radius: 50%; /* Makes it a circle */
+      }
+    
+      a {
+        color: #005EA2;
+      }
+      .number {
+        height:8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+        background-color: #E6E6E6;
+        font-size: 1.5rem;
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+      .primary-light{
+        background-color: #73B3E7;
+      }
+      .primary{
+        background-color: #005EA2;
+        color:#fff;
+  
+      }
+      .green-light{
+        background-color: #70E17B;
+  
+      }
+      .green{
+        background-color: #00A91C;
+  
+      }
+      .tan-light{
+        background-color: #FFBC78;
+  
+      }
+      .primary-light{
+        background-color: #73B3E7;
+      }
+      .dot-primary:before{
+        background-color: #005EA2;
+        color:#fff;
+  
+      }
+      .dot-green-light:before{
+        background-color: #70E17B;
+  
+      }
+      .dot-green:before{
+        background-color: #00A91C;
+  
+      }
+      .dot-tan-light:before{
+        background-color: #FFBC78;
+  
+      }
+    }
+    
+  }
+  .unequal-size {
+    width:100%;
+  }
+}

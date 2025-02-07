@@ -1,0 +1,147 @@
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 5; /* number of lines to show */
+          line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.usa-card-favorite {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  z-index: 9999999;
+}
+.vendors-content {
+  .usa-card__container {
+    .usa-card__img {
+      position: relative;
+      height: 200px;
+      background-color: #F0F0F0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+      }
+      .usa-img_text {
+        font-size: 4rem;
+        font-weight: bold;
+        text-transform: capitalize;
+        color: #71767A;
+      }
+    }
+  }
+}
+.vendors-content {
+  .usa-card__container {
+    .usa-card__img {
+      position: relative;
+      height: 200px;
+      background-color: #F0F0F0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+      }
+      .usa-img_text {
+        font-size: 4rem;
+        font-weight: bold;
+        text-transform: capitalize;
+        color: #71767A;
+      }
+    }
+  }
+}
+.vendors-content {
+  .usa-card__container {
+    .usa-card__img {
+      position: relative;
+      height: 200px;
+      background-color: #F0F0F0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+      }
+      .usa-img_text {
+        font-size: 4rem;
+        font-weight: bold;
+        text-transform: capitalize;
+        color: #71767A;
+      }
+    }
+  }
+}
+.top-level-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.vendor-search {
+  width: 100%;
+  max-width: unset;
+  margin-bottom: 20px;
+  .grid-row {
+    align-items: flex-end;
+  }
+}
+.usa-section-title {
+  margin-bottom: 1rem;
+}
+.search-filters{
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+  label {
+    margin-top: unset;
+  }
+  select {
+    width: 80px;
+    margin-top: 0;
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
+  img {
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
+}
+.list-view {
+  background-color: #f0f0f0;
+  margin-bottom: 1rem;
+  .vendor-info {
+    padding:1rem;
+  }
+  .list-icons {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: unset;
+    .usa-list-favorite {
+      margin-right: 1rem;
+      align-self: center;
+    }
+    button {
+      margin-right: unset;
+      box-shadow:  unset;
+    }
+  }
+  .truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    margin: 0;
+  }
+}
