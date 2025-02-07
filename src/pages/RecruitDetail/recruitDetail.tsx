@@ -7,6 +7,7 @@ import Config from '../../config';
 import maleSoldier from './img/male.png';
 import femaleSoldier from './img/female.jpg';
 import ByCategoryLineChart from "./components/LineChart";
+import WellnessChart from "./components/DonutChart";
 
 const config = Config();
 const { endpoints } = config;
@@ -56,6 +57,16 @@ const RecruitDetail = () => {
   } else {
     profileImg = femaleSoldier;
   }
+
+  const outerData = [
+    { label: 'You', value: 79, color: '#25AA61' }
+  ];
+
+  const innerData = [
+    { label: 'USMC', value: 81, color: '#B9E1CD' }
+  ];
+
+  
   const topLevel = (
     <div className="top-level-container">
       <h1>Assessment Overview</h1>
@@ -95,12 +106,18 @@ const RecruitDetail = () => {
               />
             </Grid>
           </Grid>
-          <Grid col={6} tablet={{
-            col: true
-          }}><ByCategoryLineChart /></Grid>
-            <Grid col={2} tablet={{
-            col: true
-          }}>testContent</Grid>
+          <Grid col={6}><ByCategoryLineChart /></Grid>
+            <Grid col={2}>
+            <WellnessChart 
+              outerData={outerData} 
+              innerData={innerData}
+              size={300}
+              outerThickness={35}
+              innerThickness={60}
+              gap={-20}
+              title={"Overall Wellness"}
+            />
+            </Grid>
       </Grid>
     </div>
   );
