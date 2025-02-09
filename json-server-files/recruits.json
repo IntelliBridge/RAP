@@ -14,9 +14,10 @@
             "zip": 92055,
             "email": "marcus.caldwell@usmc.net",
             "phone": 17605550194,
-            "dob": "2006-02-02",
+            "dob": "2006-02-12",
+            "uic": 22142,
             "overall_wellness": {
-                "millitary": 91,
+                "military": 91,
                 "family": 76,
                 "physical": 89,
                 "medical": 92,
@@ -56,6 +57,19 @@
                     "What has been your favorite part of training?": "The team-building exercises.",
                     "What has been the hardest adjustment?": "Getting used to the daily schedule.",
                     "Do you feel supported by your peers?": "Yes, they’ve been very helpful."
+                },
+                "Tobacco": {
+                    "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+                    "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, but I could not quit permanently",
+                    "Have you ever tried to quit smoking cigarettes?": "Yes, but I could not quit permanently",
+                    "In the year before entering the military, did you smoke cigarettes?": "Every day",
+                    "When did you last smoke a cigarette?": "Within the last few days",
+                    "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "Age: 14",
+                    "How many years did you smoke more than 3 cigarettes on most days?": "3 years",
+                    "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+                    "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar, Smokeless",
+                    "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year or less",
+                    "When you were using smokeless tobacco regularly, how many cans did you use each day?": "About 1/2 can or less per day"
                 },
                 "Alcohol": {
                     "Do you consume alcohol regularly?": "No, not during training.",

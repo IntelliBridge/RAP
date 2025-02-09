@@ -8,6 +8,7 @@ import maleSoldier from './img/male.png';
 import femaleSoldier from './img/female.jpg';
 import ByCategoryLineChart from "./components/LineChart";
 import WellnessChart from "./components/DonutChart";
+import SurveyResponse from "./components/SurveyResponse";
 
 const config = Config();
 const { endpoints } = config;
@@ -58,8 +59,14 @@ const RecruitDetail = () => {
     profileImg = femaleSoldier;
   }
 
+  const sum = Object.values(recruitData.overall_wellness).reduce((acc, curr) => acc + curr, 0);
+
+  // Calculate the average
+  const avg = Math.round(sum / Object.keys(recruitData.overall_wellness).length);
+  
+  console.log(avg); // Output the average
   const outerData = [
-    { label: 'You', value: 79, color: '#25AA61' }
+    { label: 'You', value: avg, color: '#25AA61' }
   ];
 
   const innerData = [
@@ -125,7 +132,7 @@ const RecruitDetail = () => {
   return (
     <PageTemplate 
       topLevelContent={topLevel} 
-      mainContent={<div>main</div>} // Pass overviewData to VendorOverview      
+      mainContent={<SurveyResponse recruit={recruitData}/>} // Pass overviewData to VendorOverview      
     />
   );
 };
