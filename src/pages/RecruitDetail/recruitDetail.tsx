@@ -81,7 +81,7 @@ const RecruitDetail = () => {
           <Grid row gap col={4} tablet={{ col: true }}>
             <Grid col={6}>
               <img src={profileImg} alt="" />
-            </Grid>
+             </Grid>
             <Grid col={6}>
               <FieldWithLabel 
                 label="Name" 
