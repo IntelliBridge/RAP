@@ -24,54 +24,6 @@ ChartJS.register(
   ChartDataLabels
 );
 
-const data = {
-  labels: [
-    "Military",
-    "Family",
-    "Physical",
-    "Medical",
-    "Mental",
-    "Experience",
-    "Tobacco",
-    "Alcohol",
-    "Work Exp",
-  ],
-  datasets: [
-    {
-      label: "You",
-      data: [91, 76, 89, 92, 91, 72, 36, 82, 78],
-      borderColor: "#1F78B4",
-      backgroundColor: "#1F78B4",
-      fill: true,
-      tension: 0.4,
-    },
-    {
-      label: "USMC",
-      data: [81, 70, 69, 42, 81, 72, 86, 42, 48],
-      borderColor: "#A6CEE3",
-      backgroundColor: "#A6CEE3",
-      fill: true,
-      tension: 0.4,
-    },
-    {
-      label: "Company",
-      data: [91, 76, 89, 92, 91, 72, 36, 82, 78],
-      borderColor: "#B2DF8A",
-      backgroundColor: "#B2DF8A",
-      fill: true,
-      tension: 0.4,
-    },
-    {
-      label: "All Recruits",
-      data: [91, 76, 89, 92, 91, 72, 36, 82, 78],
-      borderColor: "#33A02C",
-      backgroundColor: "#33A02C",
-      fill: true,
-      tension: 0.4,
-    },
-  ],
-};
-
 const options = {
   responsive: true,
   maintainAspectRatio: true,
@@ -150,12 +102,74 @@ const options = {
   },
 };
 
-const ByCategoryLineChart = () => {
-  return (
-    <div className="by-category-line-chart">
-      <Line data={data} options={options} />
-    </div>
-  );
-};
+const ByCategoryLineChart = ({ recruit }: { recruit: any }) => {
+    // console.log(recruit);
+    let data = recruit
+    console.log(data)
+    const chartData = {
+      labels: [
+        "Military",
+        "Family",
+        "Physical",
+        "Medical",
+        "Mental",
+        "Experience",
+        "Tobacco",
+        "Alcohol",
+        "Work Exp",
+      ],
+      datasets: [
+        {
+          label: "You",
+          data: [
+            data['overall_wellness']['military'],
+            data.overall_wellness.family,
+            data.overall_wellness.physical,
+            data.overall_wellness.medical,
+            data.overall_wellness.mental,
+            data.overall_wellness.experience,
+            data.overall_wellness.tobacco,
+            data.overall_wellness.alcohol,
+            data.overall_wellness.work_experience,
+          ],
+          borderColor: "#1F78B4",
+          backgroundColor: "#1F78B4",
+          fill: true,
+          tension: 0.4,
+        },
+        {
+          label: "USMC",
+          data: [81, 70, 69, 42, 81, 72, 86, 42, 48],
+          borderColor: "#A6CEE3",
+          backgroundColor: "#A6CEE3",
+          fill: true,
+          tension: 0.4,
+        },
+        {
+          label: "Company",
+          data: [91, 76, 89, 92, 91, 72, 36, 82, 78],
+          borderColor: "#B2DF8A",
+          backgroundColor: "#B2DF8A",
+          fill: true,
+          tension: 0.4,
+        },
+        {
+          label: "All Recruits",
+          data: [91, 76, 89, 92, 91, 72, 36, 82, 78],
+          borderColor: "#33A02C",
+          backgroundColor: "#33A02C",
+          fill: true,
+          tension: 0.4,
+        },
+      ],
+    };
+  
+    return (
+      <div className="by-category-line-chart">
+        <Line data={chartData} options={options} />
+      </div>
+    );
+  };
+  
 
 export default ByCategoryLineChart;

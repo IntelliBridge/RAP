@@ -5,11 +5,12 @@ import { Link } from 'react-router-dom';
 
 interface DataRow {
   id: string;
-  submission_id: string;
-  submission_date: string;
-  status: string;
+  first_name: string;
+  middle_initial: string;
+  last_name: string;
+  rank: string;
   operation_name: string;
-  vendors: string[];
+  vendors: string[]; // Vendors should be an array
   city: string;
   state: string;
 }
@@ -19,15 +20,16 @@ interface FilterableTableProps {
 }
 
 interface Filters {
-  submission_id?: string;
-  submission_date?: string;
-  status?: string;
+  first_name?: string;
+  last_name?: string;
+  rank?: string;
   operation_name?: string;
   vendors?: string;
   location?: string;
 }
 
 const FilterableTable: React.FC<FilterableTableProps> = ({ data }) => {
+  console.log(data)
   const [filters, setFilters] = useState<Filters>({});
   const [filteredData, setFilteredData] = useState<DataRow[]>(data);
 
@@ -65,12 +67,11 @@ const FilterableTable: React.FC<FilterableTableProps> = ({ data }) => {
         <Table bordered>
           <thead>
             <tr>
-              <th>Submission ID</th>
-              <th>Submission Date</th>
-              <th>Status</th>
-              <th>Operation Name</th>
-              <th>Vendors</th>
-              <th>State/City</th> {/* Combined City and State */}
+              <th>First Name</th>
+              <th>Middle Initial</th>
+              <th>Last Name</th>
+              <th>Rank</th>
+              <th>State/City</th>
             </tr>
           </thead>
           <tbody>
@@ -78,55 +79,43 @@ const FilterableTable: React.FC<FilterableTableProps> = ({ data }) => {
               <td>
                 <input
                   type="text"
-                  name="submission_id"
+                  name="first_name"
                   placeholder="Enter search term"
-                  value={filters.submission_id || ''}
+                  value={filters.first_name || ''}
                   onChange={handleFilterChange}
                 />
               </td>
               <td>
                 <input
                   type="text"
-                  name="submission_date"
+                  name="middle_initial"
                   placeholder="Enter search term"
-                  value={filters.submission_date || ''}
-                  onChange={handleFilterChange}
-                />
-              </td>
-              <td>
-                <select
-                  name="status"
-                  value={filters.status || ''}
-                  onChange={handleFilterChange}
-                >
-                  <option value="">- Select -</option>
-                  <option value="In Review">In Review</option>
-                  <option value="Closed">Closed</option>
-                  <option value="Draft">Draft</option>
-                </select>
-              </td>
-              <td>
-                <input
-                  type="text"
-                  name="operation_name"
-                  placeholder="Enter search term"
-                  value={filters.operation_name || ''}
+                  value={filters.middle_initial || ''}
                   onChange={handleFilterChange}
                 />
               </td>
               <td>
                 <input
                   type="text"
-                  name="vendors"
+                  name="last_name"
                   placeholder="Enter search term"
-                  value={filters.vendors || ''}
+                  value={filters.last_name || ''}
                   onChange={handleFilterChange}
                 />
               </td>
               <td>
                 <input
                   type="text"
-                  name="location" // New filter for combined city and state
+                  name="rank"
+                  placeholder="Enter search term"
+                  value={filters.rank || ''}
+                  onChange={handleFilterChange}
+                />
+              </td>
+              <td>
+                <input
+                  type="text"
+                  name="location" // Filter for combined city and state
                   placeholder="Enter search term"
                   value={filters.location || ''}
                   onChange={handleFilterChange}
@@ -135,12 +124,11 @@ const FilterableTable: React.FC<FilterableTableProps> = ({ data }) => {
             </tr>
             {filteredData.map((row, index) => (
               <tr key={index}>
-                <td><Link to={"/operations/" + row.id}>{row.submission_id}</Link></td>
-                <td><Link to={"/operations/" + row.id}>{row.submission_date}</Link></td>
-                <td><div className={"pill " + (row.status ? row.status.toLowerCase().replace(/\s+/g, '-') : '')}>{row.status}</div></td>
-                <td><Link to={"/operations/" + row.id}>{row.operation_name}</Link></td>
-                <td><Link to={"/operations/" + row.id}>{row.vendors.join(', ')}</Link></td>
-                <td>{`${row.city}, ${row.state}`}</td> {/* Combined City and State */}
+                <td><Link to={"/recruits/" + row.id}>{row.first_name}</Link></td>
+                <td><Link to={"/recruits/" + row.id}>{row.middle_initial}</Link></td>
+                <td><Link to={"/recruits/" + row.id}>{row.last_name}</Link></td>
+                <td><div className={"" + (row.rank ? row.rank.toLowerCase().replace(/\s+/g, '-') : '')}>{row.rank}</div></td>
+                <td>{`${row.city}, ${row.state}`}</td>
               </tr>
             ))}
           </tbody>

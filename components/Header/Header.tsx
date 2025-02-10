@@ -39,7 +39,7 @@ export default function Header({
               <div className="usa-navbar">
                 <Title>
                   <Link to="/">
-                    <img className="usa-logo-img" src={logoImg} alt="Company Logo"/>
+                    <img className="usa-logo-img" src={logoImg} alt="Company Logo"/> Recruit Assessment Program (RAP)
                   </Link>
                 </Title>
                 <NavMenuButton onClick={onClick} label="Menu" />
@@ -47,7 +47,6 @@ export default function Header({
               <NavBar
                 megaNav={megaNavBar}
                 extendNav={extendHeader}
-                searchBar={search}
                 onClickNav={expanded} // Pass the onClick function as a prop
               />
             </>
@@ -57,7 +56,7 @@ export default function Header({
               <div className="usa-navbar">
                 <Title>
                   <Link to="/">
-                    <img className="usa-logo-img" src={logoImg} alt="Mito Logo"/>
+                    <img className="usa-logo-img" src={logoImg} alt="Mito Logo"/> Recruit Assessment Program (RAP)
                   </Link>
                 </Title>
                 <NavMenuButton onClick={onClick} label="Menu" />
@@ -65,7 +64,6 @@ export default function Header({
               <NavBar
                 megaNav={megaNavBar}
                 extendNav={extendHeader}
-                searchBar={search}
                 onClickNav={expanded} // Pass the onClick function as a prop
               />
             </div>

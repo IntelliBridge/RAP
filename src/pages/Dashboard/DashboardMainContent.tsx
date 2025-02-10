@@ -10,14 +10,13 @@ type OperationLocation = {
   state: string;
 };
 
-type Operation = {
-  id: string;
-  submission_id: string;
-  submission_date: string;
-  status: string;
-  operation_name: string;
-  vendors: Vendor[];
-  operation_location: OperationLocation;
+type Recruit = {
+  id: number;
+  firstname: string;
+  middleinitial: string;
+  lastname: string;
+  rank: string;
+  unit: number;
 };
 
 interface DashboardMainProps {
@@ -26,31 +25,30 @@ interface DashboardMainProps {
 }
 
 const DashboardMain: React.FC<DashboardMainProps> = ({ data }) => {
-  const extractData = (data: Operation[]) => {
-    return data.map(operation => ({
-      id: operation.id,
-      submission_id: operation.submission_id,
-      submission_date: operation.submission_date,
-      status: operation.status,
-      operation_name: operation.operation_name,
-      vendors: operation.vendors ? operation.vendors.map(vendor => vendor.UEI) : [],
-      city: operation.operation_location ? operation.operation_location.city : '',
-      state: operation.operation_location ? operation.operation_location.state : ''
+  const extractData = (data: Recruit[]) => {
+    return data.map(recruit => ({
+      id: recruit.id,
+      firstname: recruit.first_name,
+      middleinitial: recruit.middle_initial,
+      lastname: recruit.last_name,
+      rank: recruit.rank,
+      unit: recruit.uic
     }));
   };
 
   const [extractedData, setExtractedData] = useState<any[]>([]);
-
   useEffect(() => {
     if (data) {
       setExtractedData(extractData(data));
     }
   }, [data]);
 
+console.log(extractData(data))
+
   return (
     <>
-      <h2>Operation</h2>
-      <FilterableTable data={extractedData} />
+      <h2>Recruits</h2>
+      <FilterableTable data={data} />
     </>
   );
 };

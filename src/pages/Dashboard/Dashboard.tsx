@@ -6,7 +6,6 @@ import DashboardMain from "./DashboardMainContent";
 const Dashboard = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [deconflictionData, setDeconflictionData] = useState([]);
   console.log(localStorage.getItem('user'));
   useEffect(() => {
     const fetchData = async () => {
@@ -14,15 +13,10 @@ const Dashboard = () => {
 
       try {
         // Fetch operation data
-        const operationResponse = await fetch(`${import.meta.env.VITE_JSON_SERVER}/operations`);
-        const operationData = await operationResponse.json();
+        const recruitsResponse = await fetch(`${import.meta.env.VITE_JSON_SERVER}/recruits`);
+        const recruitsData = await recruitsResponse.json();
 
-        // Fetch conflict data
-        const conflictResponse = await fetch(`${import.meta.env.VITE_JSON_SERVER}/operations-conflicts/`);
-        const conflictData = await conflictResponse.json();
-
-        setData(operationData);
-        setDeconflictionData(conflictData);
+        setData(recruitsData);
       } catch (error) {
         console.error('Error fetching data:', error);
       } finally {
@@ -35,11 +29,11 @@ const Dashboard = () => {
 
   return (
     <PageTemplate
-      topLevelContent={
-        loading ? <p>Loading...</p> : <DashboardTopLevel data={data} deconflictionData={deconflictionData} />
-      }
+      // topLevelContent={
+      //   loading ? <p>Loading...</p> : <DashboardTopLevel data={data} deconflictionData={deconflictionData} />
+      // }
       mainContent={
-        loading ? <p>Loading...</p> : <DashboardMain data={data} deconflictionData={deconflictionData} />
+        loading ? <p>Loading...</p> : <DashboardMain data={data}/>
       }
       isDashboard={true}
     />

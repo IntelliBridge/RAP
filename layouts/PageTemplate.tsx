@@ -47,7 +47,7 @@ const PageTemplate: React.FC<PageTemplateProps> = ({
 
   return (
     <>
-    {pathnames.length > 1 && (<CustomBreadcrumBar data={data} />)}
+    {/* {pathnames.length > 1 && (<CustomBreadcrumBar data={data} />)} */}
       <main className="usa-section">
         {topLevelContent && (
           <GridContainer containerSize="widescreen" className="usa-top-level">

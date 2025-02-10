@@ -10,7 +10,7 @@ const SignOut = (): React.ReactElement => {
   return (
     <>
       <ModalToggleButton modalRef={modalRef} opener type="button" unstyled>
-        Log out
+        Sign Out
       </ModalToggleButton>
       {/* Ensure all required props are passed to Modal */}
       <Modal

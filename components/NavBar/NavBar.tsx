@@ -37,8 +37,7 @@ const onToggle = (
 };
 
 export default function NavBar({
-  megaNav = false,
-  searchBar = true,
+  megaNav = false, 
   extendNav = true,
   onClickNav = false,
 }: NavProps) {
@@ -151,7 +150,6 @@ export default function NavBar({
           mobileExpanded={expanded}
           onToggleMobileNav={onClick}
         >
-          {searchBar && <Search size="small" onSubmit={globalSearch} />}
         </ExtendedNav>
       ) : (
         <>
@@ -160,7 +158,6 @@ export default function NavBar({
             mobileExpanded={expanded}
             onToggleMobileNav={onClick}
           >
-            {searchBar && <Search size="small" onSubmit={globalSearch} />}
           </PrimaryNav>
         </>
       )}

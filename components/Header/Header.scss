@@ -45,6 +45,7 @@
   }
   .usa-logo {
     white-space: nowrap;
+    padding: 10px 0;
     &-container {
       display: flex;
       width: fit-content;
@@ -58,7 +59,7 @@
     }
     &-img {
       @media screen and (min-width:1024px) {
-        width: 300px;
+        width: 50px;
         
       }
       width: 48px;

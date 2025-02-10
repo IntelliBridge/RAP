@@ -1,85 +1,1496 @@
 {
   "recruits": [
     {
-      "id": "12252",
+      "id": "10001",
       "first_name": "Marcus",
-      "middle_initial": "J",
-      "last_name": "Caldwell",
+      "middle_initial": "A",
+      "last_name": "Smith",
       "rank": "Private (E-1)",
       "gender": "male",
-      "address": "4820 Marine Avenue",
+      "address": "123 Address #1",
       "address_2": "",
       "city": "Camp Pendleton",
       "state": "CA",
-      "zip": 92055,
-      "email": "marcus.caldwell@usmc.net",
-      "phone": 17605550194,
-      "dob": "2006-02-12",
+      "zip": 90001,
+      "email": "marcus.smith1@usmc.net",
+      "phone": 17605550001,
+      "dob": "2000-01-01",
       "uic": 22142,
       "overall_wellness": {
-        "military": 91,
-        "family": 76,
-        "physical": 89,
-        "medical": 92,
-        "mental": 91,
+        "military": 61,
+        "family": 63,
+        "physical": 66,
+        "medical": 62,
+        "mental": 68,
+        "experience": 65,
+        "tobacco": 64,
+        "alcohol": 60,
+        "work_experience": 69
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "Yes",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "Yes, they visited base info sessions",
+          "Do you feel supported by your family?": "Yes"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "No",
+          "Do you feel the meals meet your nutritional needs?": "Yes",
+          "Are you satisfied with your fitness progress?": "Yes, very"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "No",
+          "Were your concerns addressed promptly?": "Yes",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Yes, a lot",
+          "Have you sought help for stress management?": "Yes, counseling",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Marksmanship",
+          "What has been the hardest adjustment?": "Discipline",
+          "Do you feel supported by your peers?": "Yes"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "None",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "None",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "About 1/2 can or less per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "No",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "Yes"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, retail",
+          "Do you feel your previous experience prepared you for military life?": "Yes",
+          "Are you interested in leadership opportunities?": "Yes"
+        }
+      }
+    },
+    {
+      "id": "10002",
+      "first_name": "Ava",
+      "middle_initial": "B",
+      "last_name": "Johnson",
+      "rank": "Private First Class (E-2)",
+      "gender": "female",
+      "address": "123 Address #2",
+      "address_2": "Apt. 2",
+      "city": "Fort Sam Houston",
+      "state": "TX",
+      "zip": 90002,
+      "email": "ava.johnson2@usmc.net",
+      "phone": 17605550002,
+      "dob": "2000-01-02",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 62,
+        "family": 64,
+        "physical": 67,
+        "medical": 63,
+        "mental": 69,
+        "experience": 66,
+        "tobacco": 65,
+        "alcohol": 61,
+        "work_experience": 70
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Somewhat, it was tough",
+          "Did you find teamwork exercises helpful?": "No",
+          "Did you feel supported by your superiors?": "No"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "No, rarely",
+          "Has your family used any military-provided resources?": "No, not needed",
+          "Do you feel supported by your family?": "No"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, minor sprain",
+          "Do you feel the meals meet your nutritional needs?": "No, too small",
+          "Are you satisfied with your fitness progress?": "No, too slow"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for check-up",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "No"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "No, not much",
+          "Have you sought help for stress management?": "No, not needed",
+          "Do you feel supported by mental health resources?": "No"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Physical challenges",
+          "What has been the hardest adjustment?": "Schedule",
+          "Do you feel supported by your peers?": "No"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "2 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "1 can per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, occasionally",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "Somewhat"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, food service",
+          "Do you feel your previous experience prepared you for military life?": "No",
+          "Are you interested in leadership opportunities?": "No"
+        }
+      }
+    },
+    {
+      "id": "10003",
+      "first_name": "Noah",
+      "middle_initial": "C",
+      "last_name": "Brown",
+      "rank": "Lance Corporal (E-3)",
+      "gender": "male",
+      "address": "123 Address #3",
+      "address_2": "",
+      "city": "Camp Lejeune",
+      "state": "NC",
+      "zip": 90003,
+      "email": "noah.brown3@usmc.net",
+      "phone": 17605550003,
+      "dob": "2000-01-03",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 63,
+        "family": 65,
+        "physical": 68,
+        "medical": 64,
+        "mental": 70,
+        "experience": 67,
+        "tobacco": 66,
+        "alcohol": 62,
+        "work_experience": 71
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "No, too early",
+          "Did you find teamwork exercises helpful?": "Somewhat",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Sometimes",
+          "Has your family used any military-provided resources?": "Not sure",
+          "Do you feel supported by your family?": "Somewhat"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, moderate injury",
+          "Do you feel the meals meet your nutritional needs?": "Somewhat, needs improvement",
+          "Are you satisfied with your fitness progress?": "Somewhat pleased"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for illness",
+          "Were your concerns addressed promptly?": "Somewhat",
+          "Are you satisfied with the quality of medical care?": "Somewhat"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Somewhat stressed",
+          "Have you sought help for stress management?": "Yes, peer support",
+          "Do you feel supported by mental health resources?": "Somewhat"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Team bonding",
+          "What has been the hardest adjustment?": "Physical demands",
+          "Do you feel supported by your peers?": "Somewhat"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "Smokeless",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "2 years",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, frequently",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "No"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "No, enlisted right after school",
+          "Do you feel your previous experience prepared you for military life?": "Somewhat",
+          "Are you interested in leadership opportunities?": "Maybe later"
+        }
+      }
+    },
+    {
+      "id": "10004",
+      "first_name": "Emma",
+      "middle_initial": "D",
+      "last_name": "Taylor",
+      "rank": "Corporal (E-4)",
+      "gender": "female",
+      "address": "123 Address #4",
+      "address_2": "Apt. 4",
+      "city": "Quantico",
+      "state": "VA",
+      "zip": 90004,
+      "email": "emma.taylor4@usmc.net",
+      "phone": 17605550004,
+      "dob": "2000-01-04",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 64,
+        "family": 66,
+        "physical": 69,
+        "medical": 65,
+        "mental": 71,
+        "experience": 68,
+        "tobacco": 67,
+        "alcohol": 63,
+        "work_experience": 72
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "Yes",
+          "Did you feel supported by your superiors?": "No"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "No, not needed",
+          "Do you feel supported by your family?": "Somewhat"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "No",
+          "Do you feel the meals meet your nutritional needs?": "Yes",
+          "Are you satisfied with your fitness progress?": "Somewhat pleased"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "No",
+          "Were your concerns addressed promptly?": "Yes",
+          "Are you satisfied with the quality of medical care?": "Somewhat"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Yes, a lot",
+          "Have you sought help for stress management?": "Yes, peer support",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Marksmanship",
+          "What has been the hardest adjustment?": "Schedule",
+          "Do you feel supported by your peers?": "Yes"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "2 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar, Smokeless",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "3 years",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "1 can per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "No",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "Yes"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, retail",
+          "Do you feel your previous experience prepared you for military life?": "No",
+          "Are you interested in leadership opportunities?": "Yes"
+        }
+      }
+    },
+    {
+      "id": "10005",
+      "first_name": "Ethan",
+      "middle_initial": "E",
+      "last_name": "Anderson",
+      "rank": "Private (E-1)",
+      "gender": "male",
+      "address": "123 Address #5",
+      "address_2": "",
+      "city": "Fort Benning",
+      "state": "GA",
+      "zip": 90005,
+      "email": "ethan.anderson5@usmc.net",
+      "phone": 17605550005,
+      "dob": "2000-01-05",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 65,
+        "family": 67,
+        "physical": 70,
+        "medical": 66,
+        "mental": 72,
+        "experience": 69,
+        "tobacco": 68,
+        "alcohol": 64,
+        "work_experience": 73
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Somewhat, it was tough",
+          "Did you find teamwork exercises helpful?": "No",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "No, rarely",
+          "Has your family used any military-provided resources?": "Yes, they visited base info sessions",
+          "Do you feel supported by your family?": "Yes"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, minor sprain",
+          "Do you feel the meals meet your nutritional needs?": "No, too small",
+          "Are you satisfied with your fitness progress?": "No, too slow"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for check-up",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "No, not much",
+          "Have you sought help for stress management?": "No, not needed",
+          "Do you feel supported by mental health resources?": "Somewhat"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Physical challenges",
+          "What has been the hardest adjustment?": "Physical demands",
+          "Do you feel supported by your peers?": "No"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "None",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "None",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "About 1/2 can or less per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, occasionally",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "Somewhat"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, food service",
+          "Do you feel your previous experience prepared you for military life?": "Yes",
+          "Are you interested in leadership opportunities?": "Maybe later"
+        }
+      }
+    },
+    {
+      "id": "10006",
+      "first_name": "Olivia",
+      "middle_initial": "F",
+      "last_name": "Thomas",
+      "rank": "Private First Class (E-2)",
+      "gender": "female",
+      "address": "123 Address #6",
+      "address_2": "Apt. 6",
+      "city": "Camp Pendleton",
+      "state": "CA",
+      "zip": 90006,
+      "email": "olivia.thomas6@usmc.net",
+      "phone": 17605550006,
+      "dob": "2000-01-06",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 66,
+        "family": 68,
+        "physical": 71,
+        "medical": 67,
+        "mental": 73,
+        "experience": 70,
+        "tobacco": 69,
+        "alcohol": 65,
+        "work_experience": 74
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "No, too early",
+          "Did you find teamwork exercises helpful?": "Yes",
+          "Did you feel supported by your superiors?": "No"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "Not sure",
+          "Do you feel supported by your family?": "No"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, moderate injury",
+          "Do you feel the meals meet your nutritional needs?": "Somewhat, needs improvement",
+          "Are you satisfied with your fitness progress?": "Yes, very"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for illness",
+          "Were your concerns addressed promptly?": "Somewhat",
+          "Are you satisfied with the quality of medical care?": "No"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Somewhat stressed",
+          "Have you sought help for stress management?": "Yes, counseling",
+          "Do you feel supported by mental health resources?": "Somewhat"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Team bonding",
+          "What has been the hardest adjustment?": "Discipline",
+          "Do you feel supported by your peers?": "Somewhat"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "2 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, frequently",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "Somewhat"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "No, enlisted right after school",
+          "Do you feel your previous experience prepared you for military life?": "Somewhat",
+          "Are you interested in leadership opportunities?": "No"
+        }
+      }
+    },
+    {
+      "id": "10007",
+      "first_name": "Liam",
+      "middle_initial": "G",
+      "last_name": "Jackson",
+      "rank": "Lance Corporal (E-3)",
+      "gender": "male",
+      "address": "123 Address #7",
+      "address_2": "",
+      "city": "Fort Sam Houston",
+      "state": "TX",
+      "zip": 90007,
+      "email": "liam.jackson7@usmc.net",
+      "phone": 17605550007,
+      "dob": "2000-01-07",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 67,
+        "family": 69,
+        "physical": 72,
+        "medical": 68,
+        "mental": 74,
+        "experience": 71,
+        "tobacco": 70,
+        "alcohol": 66,
+        "work_experience": 75
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "No",
+          "Did you feel supported by your superiors?": "Somewhat"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "No, rarely",
+          "Has your family used any military-provided resources?": "No, not needed",
+          "Do you feel supported by your family?": "Somewhat"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, minor sprain",
+          "Do you feel the meals meet your nutritional needs?": "Yes",
+          "Are you satisfied with your fitness progress?": "Somewhat pleased"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "No",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Yes, a lot",
+          "Have you sought help for stress management?": "Yes, peer support",
+          "Do you feel supported by mental health resources?": "Somewhat"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Marksmanship",
+          "What has been the hardest adjustment?": "Physical demands",
+          "Do you feel supported by your peers?": "Yes"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "Smokeless",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "2 years",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "No",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "No"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, retail",
+          "Do you feel your previous experience prepared you for military life?": "Yes",
+          "Are you interested in leadership opportunities?": "Maybe later"
+        }
+      }
+    },
+    {
+      "id": "10008",
+      "first_name": "Sophia",
+      "middle_initial": "H",
+      "last_name": "White",
+      "rank": "Corporal (E-4)",
+      "gender": "female",
+      "address": "123 Address #8",
+      "address_2": "Apt. 8",
+      "city": "Camp Lejeune",
+      "state": "NC",
+      "zip": 90008,
+      "email": "sophia.white8@usmc.net",
+      "phone": 17605550008,
+      "dob": "2000-01-08",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 68,
+        "family": 70,
+        "physical": 73,
+        "medical": 69,
+        "mental": 75,
         "experience": 72,
-        "tobacco": 36,
-        "alcohol": 82,
+        "tobacco": 71,
+        "alcohol": 67,
+        "work_experience": 76
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Somewhat, it was tough",
+          "Did you find teamwork exercises helpful?": "Yes",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Sometimes",
+          "Has your family used any military-provided resources?": "Yes, they visited base info sessions",
+          "Do you feel supported by your family?": "No"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, moderate injury",
+          "Do you feel the meals meet your nutritional needs?": "Somewhat, needs improvement",
+          "Are you satisfied with your fitness progress?": "Yes, very"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for illness",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "Somewhat"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Somewhat stressed",
+          "Have you sought help for stress management?": "No, not needed",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Team bonding",
+          "What has been the hardest adjustment?": "Discipline",
+          "Do you feel supported by your peers?": "Somewhat"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "3 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar, Smokeless",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, frequently",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "No"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, food service",
+          "Do you feel your previous experience prepared you for military life?": "No",
+          "Are you interested in leadership opportunities?": "Yes"
+        }
+      }
+    },
+    {
+      "id": "10009",
+      "first_name": "William",
+      "middle_initial": "I",
+      "last_name": "Harris",
+      "rank": "Private (E-1)",
+      "gender": "male",
+      "address": "123 Address #9",
+      "address_2": "",
+      "city": "Quantico",
+      "state": "VA",
+      "zip": 90009,
+      "email": "william.harris9@usmc.net",
+      "phone": 17605550009,
+      "dob": "2000-01-09",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 69,
+        "family": 71,
+        "physical": 74,
+        "medical": 70,
+        "mental": 76,
+        "experience": 73,
+        "tobacco": 72,
+        "alcohol": 68,
+        "work_experience": 77
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "No",
+          "Did you feel supported by your superiors?": "No"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "No, not needed",
+          "Do you feel supported by your family?": "Yes"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "No",
+          "Do you feel the meals meet your nutritional needs?": "Yes",
+          "Are you satisfied with your fitness progress?": "Yes, very"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "No",
+          "Were your concerns addressed promptly?": "Yes",
+          "Are you satisfied with the quality of medical care?": "No"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "No, not much",
+          "Have you sought help for stress management?": "Yes, peer support",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Physical challenges",
+          "What has been the hardest adjustment?": "Schedule",
+          "Do you feel supported by your peers?": "No"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "None",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "None",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "About 1/2 can or less per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, occasionally",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "Somewhat"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, retail",
+          "Do you feel your previous experience prepared you for military life?": "No",
+          "Are you interested in leadership opportunities?": "Maybe later"
+        }
+      }
+    },
+    {
+      "id": "10010",
+      "first_name": "Mia",
+      "middle_initial": "J",
+      "last_name": "Martin",
+      "rank": "Private First Class (E-2)",
+      "gender": "female",
+      "address": "123 Address #10",
+      "address_2": "Apt. 10",
+      "city": "Fort Benning",
+      "state": "GA",
+      "zip": 90010,
+      "email": "mia.martin10@usmc.net",
+      "phone": 17605550010,
+      "dob": "2000-01-10",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 70,
+        "family": 72,
+        "physical": 75,
+        "medical": 71,
+        "mental": 77,
+        "experience": 74,
+        "tobacco": 73,
+        "alcohol": 69,
         "work_experience": 78
       },
       "survey": {
         "Military Specific": {
-          "Were you prepared for the daily schedule?": "Somewhat, but the early mornings were difficult.",
-          "Did you find teamwork exercises helpful?": "Yes, they built strong bonds with my peers.",
-          "Did you feel supported by your superiors?": "Yes, they were very encouraging."
+          "Were you prepared for the daily schedule?": "No, too early",
+          "Did you find teamwork exercises helpful?": "Somewhat",
+          "Did you feel supported by your superiors?": "Yes"
         },
         "Family": {
-          "Do you maintain regular contact with family?": "Yes, I call home every Sunday.",
-          "Has your family used any military-provided resources?": "Yes, they attended a pre-deployment seminar.",
-          "Do you feel supported by your family?": "Yes, but they miss me a lot."
+          "Do you maintain regular contact with family?": "Sometimes",
+          "Has your family used any military-provided resources?": "Yes, they visited base info sessions",
+          "Do you feel supported by your family?": "Somewhat"
         },
         "Physical Health": {
-          "Have you sustained any injuries during training?": "Yes, mild shoulder strain during pull-ups.",
-          "Do you feel the meals meet your nutritional needs?": "Yes, but portions could be larger.",
-          "Are you satisfied with your fitness progress?": "Yes, I’ve improved my endurance significantly."
+          "Have you sustained any injuries during training?": "Yes, minor sprain",
+          "Do you feel the meals meet your nutritional needs?": "Somewhat, needs improvement",
+          "Are you satisfied with your fitness progress?": "Somewhat pleased"
         },
         "Medical Care": {
-          "Have you visited a medical facility during training?": "Yes, for a minor cold.",
-          "Were your concerns addressed promptly?": "Yes, within a day.",
-          "Are you satisfied with the quality of medical care?": "Yes, very professional."
+          "Have you visited a medical facility during training?": "Yes, for check-up",
+          "Were your concerns addressed promptly?": "Yes",
+          "Are you satisfied with the quality of medical care?": "Yes"
         },
         "Mental Health": {
-          "Have you felt stressed during training?": "Yes, especially in the beginning.",
-          "Have you sought help for stress management?": "Yes, attended mindfulness workshops.",
-          "Do you feel supported by mental health resources?": "Yes, they’re very accessible."
+          "Have you felt stressed during training?": "Yes, a lot",
+          "Have you sought help for stress management?": "No, not needed",
+          "Do you feel supported by mental health resources?": "No"
         },
         "Experiences": {
-          "What has been your favorite part of training?": "The team-building exercises.",
-          "What has been the hardest adjustment?": "Getting used to the daily schedule.",
-          "Do you feel supported by your peers?": "Yes, they’ve been very helpful."
+          "What has been your favorite part of training?": "Team bonding",
+          "What has been the hardest adjustment?": "Discipline",
+          "Do you feel supported by your peers?": "Yes"
         },
         "Tobacco": {
           "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
-          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, but I could not quit permanently",
-          "Have you ever tried to quit smoking cigarettes?": "Yes, but I could not quit permanently",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
           "In the year before entering the military, did you smoke cigarettes?": "Every day",
-          "When did you last smoke a cigarette?": "Within the last few days",
-          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "Age: 14",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "2 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, frequently",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "Yes"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "No, enlisted right after school",
+          "Do you feel your previous experience prepared you for military life?": "Yes",
+          "Are you interested in leadership opportunities?": "No"
+        }
+      }
+    },
+    {
+      "id": "10011",
+      "first_name": "James",
+      "middle_initial": "K",
+      "last_name": "Garcia",
+      "rank": "Lance Corporal (E-3)",
+      "gender": "male",
+      "address": "123 Address #11",
+      "address_2": "",
+      "city": "Camp Pendleton",
+      "state": "CA",
+      "zip": 90011,
+      "email": "james.garcia11@usmc.net",
+      "phone": 17605550011,
+      "dob": "2000-01-11",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 71,
+        "family": 73,
+        "physical": 76,
+        "medical": 72,
+        "mental": 78,
+        "experience": 75,
+        "tobacco": 74,
+        "alcohol": 70,
+        "work_experience": 79
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "Yes",
+          "Did you feel supported by your superiors?": "No"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "No, rarely",
+          "Has your family used any military-provided resources?": "Not sure",
+          "Do you feel supported by your family?": "Yes"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, moderate injury",
+          "Do you feel the meals meet your nutritional needs?": "No, too small",
+          "Are you satisfied with your fitness progress?": "No, too slow"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for illness",
+          "Were your concerns addressed promptly?": "Somewhat",
+          "Are you satisfied with the quality of medical care?": "No"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Somewhat stressed",
+          "Have you sought help for stress management?": "Yes, peer support",
+          "Do you feel supported by mental health resources?": "Somewhat"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Physical challenges",
+          "What has been the hardest adjustment?": "Physical demands",
+          "Do you feel supported by your peers?": "No"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar, Smokeless",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "2 years",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "1 can per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "No",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "No"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, retail",
+          "Do you feel your previous experience prepared you for military life?": "Somewhat",
+          "Are you interested in leadership opportunities?": "Maybe later"
+        }
+      }
+    },
+    {
+      "id": "10012",
+      "first_name": "Isabella",
+      "middle_initial": "L",
+      "last_name": "Thompson",
+      "rank": "Corporal (E-4)",
+      "gender": "female",
+      "address": "123 Address #12",
+      "address_2": "Apt. 12",
+      "city": "Fort Sam Houston",
+      "state": "TX",
+      "zip": 90012,
+      "email": "isabella.thompson12@usmc.net",
+      "phone": 17605550012,
+      "dob": "2000-01-12",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 72,
+        "family": 74,
+        "physical": 77,
+        "medical": 73,
+        "mental": 79,
+        "experience": 76,
+        "tobacco": 75,
+        "alcohol": 71,
+        "work_experience": 80
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Somewhat, it was tough",
+          "Did you find teamwork exercises helpful?": "No",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "No, not needed",
+          "Do you feel supported by your family?": "No"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, minor sprain",
+          "Do you feel the meals meet your nutritional needs?": "Somewhat, needs improvement",
+          "Are you satisfied with your fitness progress?": "Yes, very"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "No",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Yes, a lot",
+          "Have you sought help for stress management?": "Yes, counseling",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Team bonding",
+          "What has been the hardest adjustment?": "Schedule",
+          "Do you feel supported by your peers?": "Somewhat"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
           "How many years did you smoke more than 3 cigarettes on most days?": "3 years",
           "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, occasionally",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "No"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, food service",
+          "Do you feel your previous experience prepared you for military life?": "Somewhat",
+          "Are you interested in leadership opportunities?": "Yes"
+        }
+      }
+    },
+    {
+      "id": "10013",
+      "first_name": "Benjamin",
+      "middle_initial": "M",
+      "last_name": "Robinson",
+      "rank": "Private (E-1)",
+      "gender": "male",
+      "address": "123 Address #13",
+      "address_2": "",
+      "city": "Camp Lejeune",
+      "state": "NC",
+      "zip": 90013,
+      "email": "benjamin.robinson13@usmc.net",
+      "phone": 17605550013,
+      "dob": "2000-01-13",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 73,
+        "family": 75,
+        "physical": 78,
+        "medical": 74,
+        "mental": 80,
+        "experience": 77,
+        "tobacco": 76,
+        "alcohol": 72,
+        "work_experience": 81
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "Yes",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "No, rarely",
+          "Has your family used any military-provided resources?": "Not sure",
+          "Do you feel supported by your family?": "Somewhat"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, moderate injury",
+          "Do you feel the meals meet your nutritional needs?": "Yes",
+          "Are you satisfied with your fitness progress?": "Somewhat pleased"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for illness",
+          "Were your concerns addressed promptly?": "Yes",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "No, not much",
+          "Have you sought help for stress management?": "No, not needed",
+          "Do you feel supported by mental health resources?": "Somewhat"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Physical challenges",
+          "What has been the hardest adjustment?": "Physical demands",
+          "Do you feel supported by your peers?": "Yes"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
+          "Did you use any of the following 3 or more times during the past year?": "Smokeless",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, frequently",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "Somewhat"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, retail",
+          "Do you feel your previous experience prepared you for military life?": "No",
+          "Are you interested in leadership opportunities?": "Maybe later"
+        }
+      }
+    },
+    {
+      "id": "10014",
+      "first_name": "Charlotte",
+      "middle_initial": "N",
+      "last_name": "Clark",
+      "rank": "Private First Class (E-2)",
+      "gender": "female",
+      "address": "123 Address #14",
+      "address_2": "Apt. 14",
+      "city": "Quantico",
+      "state": "VA",
+      "zip": 90014,
+      "email": "charlotte.clark14@usmc.net",
+      "phone": 17605550014,
+      "dob": "2000-01-14",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 74,
+        "family": 76,
+        "physical": 79,
+        "medical": 75,
+        "mental": 81,
+        "experience": 78,
+        "tobacco": 77,
+        "alcohol": 73,
+        "work_experience": 82
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "No, too early",
+          "Did you find teamwork exercises helpful?": "No",
+          "Did you feel supported by your superiors?": "Somewhat"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "Yes, they visited base info sessions",
+          "Do you feel supported by your family?": "Yes"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, minor sprain",
+          "Do you feel the meals meet your nutritional needs?": "No, too small",
+          "Are you satisfied with your fitness progress?": "No, too slow"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for check-up",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "Somewhat"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Yes, a lot",
+          "Have you sought help for stress management?": "Yes, peer support",
+          "Do you feel supported by mental health resources?": "No"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Team bonding",
+          "What has been the hardest adjustment?": "Schedule",
+          "Do you feel supported by your peers?": "Somewhat"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "2 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "No",
           "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar, Smokeless",
-          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year or less",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "3 years",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "1 can per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "No",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "No"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, food service",
+          "Do you feel your previous experience prepared you for military life?": "Somewhat",
+          "Are you interested in leadership opportunities?": "Yes"
+        }
+      }
+    },
+    {
+      "id": "10015",
+      "first_name": "Michael",
+      "middle_initial": "O",
+      "last_name": "Rodriguez",
+      "rank": "Lance Corporal (E-3)",
+      "gender": "male",
+      "address": "123 Address #15",
+      "address_2": "",
+      "city": "Fort Benning",
+      "state": "GA",
+      "zip": 90015,
+      "email": "michael.rodriguez15@usmc.net",
+      "phone": 17605550015,
+      "dob": "2000-01-15",
+      "uic": 22142,
+      "overall_wellness": {
+        "military": 75,
+        "family": 77,
+        "physical": 80,
+        "medical": 76,
+        "mental": 82,
+        "experience": 79,
+        "tobacco": 78,
+        "alcohol": 74,
+        "work_experience": 83
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "Somewhat",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Sometimes",
+          "Has your family used any military-provided resources?": "No, not needed",
+          "Do you feel supported by your family?": "No"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, moderate injury",
+          "Do you feel the meals meet your nutritional needs?": "Yes",
+          "Are you satisfied with your fitness progress?": "Somewhat pleased"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for illness",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Somewhat stressed",
+          "Have you sought help for stress management?": "Yes, counseling",
+          "Do you feel supported by mental health resources?": "Somewhat"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Marksmanship",
+          "What has been the hardest adjustment?": "Discipline",
+          "Do you feel supported by your peers?": "No"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "None",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "None",
           "When you were using smokeless tobacco regularly, how many cans did you use each day?": "About 1/2 can or less per day"
         },
         "Alcohol": {
-          "Do you consume alcohol regularly?": "No, not during training.",
-          "Have you attended alcohol awareness sessions?": "Yes, mandatory program during orientation.",
-          "Do you feel informed about responsible drinking?": "Yes, the sessions were very clear."
+          "Do you consume alcohol regularly?": "Yes, occasionally",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "Somewhat"
         },
         "Work Experience": {
-          "Did you have a job before enlisting?": "Yes, I worked as a cashier.",
-          "Do you feel your previous experience prepared you for military life?": "Somewhat, especially customer service skills.",
-          "Are you interested in leadership opportunities?": "Yes, I’d like to lead a team."
+          "Did you have a job before enlisting?": "Yes, food service",
+          "Do you feel your previous experience prepared you for military life?": "Yes",
+          "Are you interested in leadership opportunities?": "No"
+        }
+      }
+    },
+    {
+      "id": "10016",
+      "first_name": "Amelia",
+      "middle_initial": "P",
+      "last_name": "Lewis",
+      "rank": "Corporal (E-4)",
+      "gender": "female",
+      "address": "123 Address #16",
+      "address_2": "Apt. 16",
+      "city": "Camp Pendleton",
+      "state": "CA",
+      "zip": 90016,
+      "email": "amelia.lewis16@usmc.net",
+      "phone": 17605550016,
+      "dob": "2000-01-16",
+      "uic": 22016,
+      "overall_wellness": {
+        "military": 76,
+        "family": 78,
+        "physical": 81,
+        "medical": 77,
+        "mental": 83,
+        "experience": 80,
+        "tobacco": 79,
+        "alcohol": 75,
+        "work_experience": 84
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Yes, it was manageable",
+          "Did you find teamwork exercises helpful?": "Yes",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "Yes, they visited base info sessions",
+          "Do you feel supported by your family?": "Yes"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "No",
+          "Do you feel the meals meet your nutritional needs?": "Yes",
+          "Are you satisfied with your fitness progress?": "Yes, very"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "No",
+          "Were your concerns addressed promptly?": "Yes",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Yes, a lot",
+          "Have you sought help for stress management?": "Yes, counseling",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Marksmanship",
+          "What has been the hardest adjustment?": "Discipline",
+          "Do you feel supported by your peers?": "Yes"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "2 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "1 year",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "Multiple cans per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, frequently",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "Yes"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "No, enlisted right after school",
+          "Do you feel your previous experience prepared you for military life?": "Yes",
+          "Are you interested in leadership opportunities?": "No"
+        }
+      }
+    },
+    {
+      "id": "10017",
+      "first_name": "Alexander",
+      "middle_initial": "Q",
+      "last_name": "Lee",
+      "rank": "Private (E-1)",
+      "gender": "male",
+      "address": "123 Address #17",
+      "address_2": "",
+      "city": "Fort Sam Houston",
+      "state": "TX",
+      "zip": 90017,
+      "email": "alexander.lee17@usmc.net",
+      "phone": 17605550017,
+      "dob": "2000-01-17",
+      "uic": 22017,
+      "overall_wellness": {
+        "military": 77,
+        "family": 79,
+        "physical": 82,
+        "medical": 78,
+        "mental": 84,
+        "experience": 81,
+        "tobacco": 80,
+        "alcohol": 76,
+        "work_experience": 85
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "Somewhat, it was tough",
+          "Did you find teamwork exercises helpful?": "No",
+          "Did you feel supported by your superiors?": "Yes"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "No, rarely",
+          "Has your family used any military-provided resources?": "No, not needed",
+          "Do you feel supported by your family?": "Somewhat"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, minor sprain",
+          "Do you feel the meals meet your nutritional needs?": "No, too small",
+          "Are you satisfied with your fitness progress?": "No, too slow"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for check-up",
+          "Were your concerns addressed promptly?": "No",
+          "Are you satisfied with the quality of medical care?": "Yes"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "No, not much",
+          "Have you sought help for stress management?": "No, not needed",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Physical challenges",
+          "What has been the hardest adjustment?": "Physical demands",
+          "Do you feel supported by your peers?": "No"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "No",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "N/A",
+          "Have you ever tried to quit smoking cigarettes?": "N/A",
+          "In the year before entering the military, did you smoke cigarettes?": "I don't smoke",
+          "When did you last smoke a cigarette?": "Never",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "N/A",
+          "How many years did you smoke more than 3 cigarettes on most days?": "0",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "None",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "None",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "About 1/2 can or less per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "Yes, occasionally",
+          "Have you attended alcohol awareness sessions?": "No, not yet",
+          "Do you feel informed about responsible drinking?": "Somewhat"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, food service",
+          "Do you feel your previous experience prepared you for military life?": "No",
+          "Are you interested in leadership opportunities?": "Maybe later"
+        }
+      }
+    },
+    {
+      "id": "10018",
+      "first_name": "Harper",
+      "middle_initial": "R",
+      "last_name": "Walker",
+      "rank": "Private First Class (E-2)",
+      "gender": "female",
+      "address": "123 Address #18",
+      "address_2": "Apt. 18",
+      "city": "Camp Lejeune",
+      "state": "NC",
+      "zip": 90018,
+      "email": "harper.walker18@usmc.net",
+      "phone": 17605550018,
+      "dob": "2000-01-18",
+      "uic": 22018,
+      "overall_wellness": {
+        "military": 78,
+        "family": 80,
+        "physical": 83,
+        "medical": 79,
+        "mental": 85,
+        "experience": 82,
+        "tobacco": 81,
+        "alcohol": 77,
+        "work_experience": 86
+      },
+      "survey": {
+        "Military Specific": {
+          "Were you prepared for the daily schedule?": "No, too early",
+          "Did you find teamwork exercises helpful?": "Somewhat",
+          "Did you feel supported by your superiors?": "No"
+        },
+        "Family": {
+          "Do you maintain regular contact with family?": "Yes, weekly calls",
+          "Has your family used any military-provided resources?": "Not sure",
+          "Do you feel supported by your family?": "No"
+        },
+        "Physical Health": {
+          "Have you sustained any injuries during training?": "Yes, moderate injury",
+          "Do you feel the meals meet your nutritional needs?": "Somewhat, needs improvement",
+          "Are you satisfied with your fitness progress?": "Yes, very"
+        },
+        "Medical Care": {
+          "Have you visited a medical facility during training?": "Yes, for illness",
+          "Were your concerns addressed promptly?": "Somewhat",
+          "Are you satisfied with the quality of medical care?": "No"
+        },
+        "Mental Health": {
+          "Have you felt stressed during training?": "Somewhat stressed",
+          "Have you sought help for stress management?": "No, not needed",
+          "Do you feel supported by mental health resources?": "Yes"
+        },
+        "Experiences": {
+          "What has been your favorite part of training?": "Team bonding",
+          "What has been the hardest adjustment?": "Discipline",
+          "Do you feel supported by your peers?": "Somewhat"
+        },
+        "Tobacco": {
+          "Have you smoked more than 100 cigarettes (5 packs) in your entire life?": "Yes",
+          "(If yes) Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "Have you ever tried to quit smoking cigarettes?": "Yes, a few times",
+          "In the year before entering the military, did you smoke cigarettes?": "Every day",
+          "When did you last smoke a cigarette?": "Within the last month",
+          "At what age did you first start smoking regularly (meaning, you smoked on most days)?": "16",
+          "How many years did you smoke more than 3 cigarettes on most days?": "3 years",
+          "Did your father or mother (or anyone else living in your home) regularly smoke tobacco when you were a child?": "Yes",
+          "Did you use any of the following 3 or more times during the past year?": "Pipe, Cigar, Smokeless",
+          "How many years did you use smokeless tobacco (dip/chew/snuff) on most days?": "2 years",
+          "When you were using smokeless tobacco regularly, how many cans did you use each day?": "1 can per day"
+        },
+        "Alcohol": {
+          "Do you consume alcohol regularly?": "No",
+          "Have you attended alcohol awareness sessions?": "Yes, mandatory",
+          "Do you feel informed about responsible drinking?": "Yes"
+        },
+        "Work Experience": {
+          "Did you have a job before enlisting?": "Yes, retail",
+          "Do you feel your previous experience prepared you for military life?": "Yes",
+          "Are you interested in leadership opportunities?": "Maybe later"
         }
       }
     }

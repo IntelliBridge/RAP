@@ -113,7 +113,7 @@ const RecruitDetail = () => {
               />
             </Grid>
           </Grid>
-          <Grid col={6}><ByCategoryLineChart /></Grid>
+          <Grid col={6}><ByCategoryLineChart recruit={recruitData}/></Grid>
             <Grid col={2}>
             <WellnessChart 
               outerData={outerData} 
