@@ -6,7 +6,7 @@ import DashboardMain from "./DashboardMainContent";
 const Dashboard = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
-  console.log(localStorage.getItem('user'));
+  console.log(localStorage);
   useEffect(() => {
     const fetchData = async () => {
       setLoading(true);

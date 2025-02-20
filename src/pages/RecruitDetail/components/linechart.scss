@@ -1,3 +1,6 @@
-.by-catergory-line-chart {
-    height: 500px;
+.by-category-line-chart {
+    height: 100%;
+    canvas {
+        height: max-content;
+    }
 }

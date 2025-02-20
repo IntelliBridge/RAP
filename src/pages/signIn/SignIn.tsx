@@ -34,9 +34,11 @@ const SignIn: React.FC = () => {
         localStorage.setItem('user', JSON.stringify(user));
         const userString = JSON.stringify(user);
         const userObject = JSON.parse(userString);
+        console.log(userObject);
         const userRole = userObject.role;
+        const usermil = userObject.milid;
         localStorage.setItem('user-role', userRole);
-
+        localStorage.setItem('user-milid', usermil);
         // Redirect to dashboard
         navigate('/dashboard');
         window.location.reload();

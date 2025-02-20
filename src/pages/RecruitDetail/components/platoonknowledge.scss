@@ -1,0 +1,101 @@
+.knowledge-graph-container {
+
+}
+.force-graph-container {
+
+    canvas {
+        margin: 0 auto;
+        width: 100% !important;
+        height: auto;
+        max-width: 1600px;
+    }
+}
+
+.sliding-panel {
+    position: absolute;
+    top: 250px;
+    transition: all ease-in .5s;
+    background-color: white;
+    z-index: 99999;
+    width: 25%;
+    height: 500px;
+    -webkit-box-shadow: -1px 3px 23px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: -1px 3px 23px 0px rgba(0,0,0,0.16);
+    box-shadow: -1px 3px 23px 0px rgba(0,0,0,0.16);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    &-title {
+        font-size: 22.5px;
+        font-weight: bold;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    &-content {
+        height: max-content;
+        overflow: hidden;
+        height: 500px;
+        position: relative;
+        z-index: 9;
+        background-color: white;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        padding: 2rem;
+    }
+}
+.translate-x-0 {
+    right: 0px;
+}
+
+.translate-x-full {
+    right:-500px
+}
+
+.close-left-chevron {
+    position: absolute;
+    top: 20px;
+    left: -43px;
+    z-index: 0;
+    background-color: white;
+    border:0;
+    -webkit-box-shadow: 0px -4px 7px #e6e6e6;
+    -moz-box-shadow: 0px -4px 7px #e6e6e6;
+    box-shadow: 0px -4px 7px #e6e6e6;   
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.progress-content {
+    .title {
+       font-weight: 600;
+       margin-bottom: .25rem; 
+    }
+    .progress-value {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+}
+.line-break {
+    width: 100%;
+    border: 1px solid #D1D1D1;
+    margin-bottom: 1rem;
+}
+
+.all-recruits-container {
+    height: 150px;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+    .recruits:first-child {
+        background-color: #CBE3EF;
+    }
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.usa-modal__content {
+    position: relative;
+    overflow: hidden;
+}

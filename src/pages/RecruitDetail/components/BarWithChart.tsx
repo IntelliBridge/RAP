@@ -13,13 +13,13 @@ interface ProgressBarProps {
     const percentage = (normalizedValue / max) * 100;
   
     const getAlertState = () => {
-      if (percentage < 50) {
+      if (percentage < 70) {
         return {
           show: true,
           type: 'error',
           message: 'High concern.',
         };
-      } else if (percentage >= 50 && percentage < 80) {
+      } else if (percentage >= 70 && percentage < 80) {
         return {
           show: true,
           type: 'warning',
@@ -32,7 +32,7 @@ interface ProgressBarProps {
     const alertState = getAlertState();
   
     const getProgressBarClass = () => {
-      if (percentage < 50) return 'progress-bar-danger';
+      if (percentage < 70) return 'progress-bar-danger';
       if (percentage < 80) return 'progress-bar-warning';
       return 'progress-bar-success';
     };

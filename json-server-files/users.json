@@ -12,7 +12,8 @@
       "role": 0,
       "affliation": "Intellibridge",
       "pay_grade": "----",
-      "org": "xStudio"
+      "org": "xStudio",
+      "milid": "10001"
     },
     {
       "_id": "66902c1d27c0b950aae3c3se",
@@ -99,6 +100,7 @@
     },
     {
       "_id": "66902c1d2tu0b9g0a2e3c3se",
+      "milid": "10001",
       "index": 65,
       "isActive": true,
       "username": "jason.lopez",

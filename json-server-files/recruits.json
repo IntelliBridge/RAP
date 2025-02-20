@@ -17,15 +17,15 @@
         "dob": "2000-01-01",
         "uic": 22142,
         "overall_wellness": {
-          "military": 61,
-          "family": 63,
-          "physical": 66,
-          "medical": 62,
+          "military": 78,
+          "family": 85,
+          "physical": 90,
+          "medical": 95,
           "mental": 68,
           "experience": 65,
           "tobacco": 64,
-          "alcohol": 60,
-          "work_experience": 69
+          "alcohol": 93,
+          "work_experience": 90
         },
         "survey": {
           "Military Specific": {
