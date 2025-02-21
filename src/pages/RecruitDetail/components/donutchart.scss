@@ -1,6 +1,8 @@
 .wellness-chart {
     position: relative;
-    
+    .flex {
+        gap: 0
+    }
     .chart-title {
         margin-top: 20px;
         text-align: left;
