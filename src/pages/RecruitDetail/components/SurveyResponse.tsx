@@ -668,7 +668,7 @@ const SurveyResponse = (recruit: JSON) => {
   return (
     <div className="survey-response-details">
       <div className="survey-header-container">
-        <h2>Survey Response Details</h2>
+        <h3>Survey Response Details</h3>
         <div className="wellness-rating-legend">
           <span >Wellness Rating Legend: </span> 
           <span className="positive-chip chip">No Concern</span>

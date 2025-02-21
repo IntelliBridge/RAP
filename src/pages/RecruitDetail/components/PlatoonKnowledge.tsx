@@ -550,8 +550,8 @@ const PlatoonKnowledgeGraph = ({ data, uic, profileImg, recruitID }: PlatoonKnow
       });
 
       // Center/zoom the graph
-      graphRef.current.centerAt(centerX, centerY);
-      graphRef.current.zoom(0.7);
+      graphRef.current.centerAt(0, 500);
+      graphRef.current.zoom(1);
     }
   }, [nodes]);
 
@@ -563,8 +563,6 @@ const PlatoonKnowledgeGraph = ({ data, uic, profileImg, recruitID }: PlatoonKnow
       >
         <ForceGraph2D
           ref={graphRef}
-          width={1600}
-          height={500}
           graphData={{ nodes, links }}
           nodeCanvasObject={nodeCanvasObject}
           // Our custom drawing replaces the default

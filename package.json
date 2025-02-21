@@ -66,6 +66,7 @@
     "react-google-charts": "^4.0.1",
     "react-router-dom": "^6.20.0",
     "react-router-hash-link": "^2.4.3",
+    "react-sizeme": "^3.0.2",
     "rollup": "^4.9.6",
     "sass": "^1.62.1",
     "sort-by": "^0.0.2",

@@ -67,7 +67,7 @@ export const WellnessChart: React.FC<DonutChartProps> = ({
         <div className='chart-title'>
             {title}
         </div>
-      <div className='donut-chart-container'> 
+      <div className='donut-chart-container flex'> 
       <div className='donut-chart'>
         <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`}>
           {/* Background circle */}
@@ -122,7 +122,7 @@ export const WellnessChart: React.FC<DonutChartProps> = ({
           </div>
         </div>
         </div>
-        <div className="mt-6 grid grid-cols-2 gap-4 flex center-flex">
+        <div className="mt-6 grid grid-cols-2 gap-4">
           <div>
             <div className="donut-legend">
               <div

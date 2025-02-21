@@ -70,7 +70,7 @@ const ByCategoryLineChart = ({ recruit }: { recruit: any }) => {
       },
       title: {
         display: true,
-        text: "By Category",
+        text: "Wellness Ranking by Category",
         font: {
           size: 20,
         },

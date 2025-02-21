@@ -290,7 +290,7 @@ const SelfKnowledgeGraph = ({ recruit,  selfImg }: KnowledgeGraphProps,) => {
     >
       <ForceGraph2D
         ref={graphRef}
-        width={800}
+        width={1200}
         height={600}
         graphData={{ nodes, links }}
         nodeCanvasObject={nodeCanvasObject}

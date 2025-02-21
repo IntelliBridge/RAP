@@ -9,16 +9,18 @@ import {
   Legend,
 } from 'chart.js';
 import { Radar } from 'react-chartjs-2';
+import './spidergraph.scss';
 
-function SpiderGraph(recruits:JSON) {
-    ChartJS.register(
-        RadialLinearScale,
-        PointElement,
-        LineElement,
-        Filler,
-        Tooltip,
-        Legend
-      );
+function SpiderGraph(recruits: JSON, graphWidth: string, graphHeight: string) {
+  ChartJS.register(
+    RadialLinearScale,
+    PointElement,
+    LineElement,
+    Filler,
+    Tooltip,
+    Legend
+  );
+
   const data = {
     labels: Object.keys(recruits.recruits.overall_wellness).map(
       (label) => label.charAt(0).toUpperCase() + label.slice(1).replace('_', ' ').toUpperCase()
@@ -27,13 +29,15 @@ function SpiderGraph(recruits:JSON) {
       {
         label: 'Wellness Score',
         data: Object.values(recruits.recruits.overall_wellness),
-        backgroundColor: 'rgba(99, 102, 241, 0.2)',
-        borderColor: 'rgba(99, 102, 241, 1)',
-        borderWidth: 2,
-        pointBackgroundColor: 'rgba(99, 102, 241, 1)',
+        backgroundColor: 'rgba(99, 102, 241, 0.2)', // Background fill, can be kept or removed
+        borderColor: 'rgba(99, 102, 241, 1)', // Line color, will be removed
+        borderWidth: 2, // Remove or reduce line width
+        pointBackgroundColor: 'rgba(99, 102, 241, 1)', // Point color
         pointBorderColor: '#fff',
         pointHoverBackgroundColor: '#fff',
         pointHoverBorderColor: 'rgba(99, 102, 241, 1)',
+        fill: true, // Disable background fill
+        lineTension: 0, // Disable line smoothing
       },
     ],
   };
@@ -56,16 +60,30 @@ function SpiderGraph(recruits:JSON) {
         },
       },
     },
+    elements: {
+      line: {
+        borderWidth: 0, // Remove line visibility
+      },
+      point: {
+        radius: 5, // Adjust point size
+      },
+    },
     plugins: {
       legend: {
         position: 'bottom' as const,
       },
+      datalabels: {
+        display: false,
+        font: {
+          size: 16,
+        },
+      }
     },
   };
 
   return (
     <div className="radar-graph">
-        <Radar data={data} options={options1} />
+      <Radar data={data} options={options1} width={graphWidth} height={graphHeight} />
     </div>
   );
 }

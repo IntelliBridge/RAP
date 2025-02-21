@@ -96,10 +96,14 @@
 }
 
 .usa-footer-disclaimer {
-    border-top: 1px solid #454545;
+    border-top: 1px solid #8e8e8e;
     color: white;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    background-color: #002554;
+    .usa-footer-idenitifier {
+        background-color: unset;
+    }
 }
 .usa-footer-idenitifier {
     color: white;
@@ -123,4 +127,7 @@
 .disclaimer-title {
     margin-bottom: .5rem;
     font-weight: 700;
+}
+.offset-text-disclaimer {
+    margin-left: 100px;
 }

@@ -88,7 +88,7 @@ const RecruitDetail = () => {
           <div className="flex kgp-container">
             <div className="kgp-title">Platoon:</div>
             {Object.entries(recruitData.overall_wellness).map(([key, value]) => (
-              <KGProgress key={key} label={key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())} value={value} />
+              <KGProgress key={key} label={''} value={value} />
             ))}
           </div>
         )}
@@ -108,14 +108,13 @@ const RecruitDetail = () => {
       </Modal>
 
       <div className="top-level-container">
-        <h1>Assessment Overview</h1>
-        <Grid row>
-          <Grid row gap col={4} tablet={{ col: true }}>
-            <Grid col={6}>
+        <h1>Hello, {recruitData.first_name}, this is your assessment overview.</h1>
+        <Grid row gap>
+            <Grid col={2}>
               <img src={profileImg} alt="Recruit" />
-              <WellnessChart outerData={outerData} innerData={innerData} size={200} outerThickness={20} innerThickness={40} gap={-20} title="Overall Wellness" />
+              <WellnessChart outerData={outerData} innerData={innerData} size={150} outerThickness={15} innerThickness={30} gap={-20} title="Overall Wellness" />
             </Grid>
-            <Grid col={6}>
+            <Grid col={2}>
               <FieldWithLabel label="Name" value={`${recruitData.first_name} ${recruitData.middle_initial} ${recruitData.last_name}`} />
               <FieldWithLabel
                 label="DOB"
@@ -126,14 +125,13 @@ const RecruitDetail = () => {
               <FieldWithLabel label="Email" value={recruitData.email} />
               <FieldWithLabel label="Phone" value={formatPhoneNumber(recruitData.phone)} />
             </Grid>
-          </Grid>
-          <Grid col={5}>
+          <Grid col={5} className="bordered">
             <ByCategoryLineChart recruit={recruitData} />
           </Grid>
-          <Grid col={3}>
-            <div className="wellness-graph-title">Overall Wellness</div>
+          <Grid col={3} className="bordered">
+            <div className="wellness-graph-title">Wellness Overview</div>
             {/* <ProfileMiniKnowledgeGraph recruits={recruitData} profileImg={profileImg} /> */}
-            <SpiderGraph recruits={recruitData} />
+            <SpiderGraph recruits={recruitData} graphWidth={300} graphHeight={300}/>
             <div className="compare-button">
               <ModalToggleButton modalRef={modalKnowledgeRef} className="compare-button" opener type="button" unstyled>
                 Compare with Peers
