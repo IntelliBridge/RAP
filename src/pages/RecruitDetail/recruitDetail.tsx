@@ -26,7 +26,17 @@ const RecruitDetail = () => {
   const [recruits, setRecruits] = useState<any>(null); // Renamed recruitsResponse to recruits
   const modalKnowledgeRef = useRef<ModalRef>(null);
   const [selectedTab, setSelectedTab] = useState("self");
-
+  const platoonAvg = {
+    "alcohol": 95,
+    "experience": 85,
+    "family": 90,
+    "medical": 98,
+    "mental": 80,
+    "military": 85,
+    "physical": 92,
+    "tobacco": 75,
+    "work_experience": 85,
+  }
   useEffect(() => {
     const fetchRecruitData = async () => {
       try {
@@ -83,11 +93,11 @@ const RecruitDetail = () => {
             <KGProgress key={key} label={key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())} value={value} />
           ))}
         </div>
-
+          {console.log(recruitData.overall_wellness)}
         {selectedTab === "platoon" && (
           <div className="flex kgp-container">
             <div className="kgp-title">Platoon:</div>
-            {Object.entries(recruitData.overall_wellness).map(([key, value]) => (
+            {Object.entries(platoonAvg).map(([key, value]) => (
               <KGProgress key={key} label={''} value={value} />
             ))}
           </div>

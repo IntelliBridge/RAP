@@ -26,6 +26,11 @@
   }
   
   #knowledge-modal {
+    .usa-modal__close::before {
+      content: "Close";
+      font-size: 1.25rem;
+      font-weight: 400;
+    }
     .usa-modal {
         width:90vw;
         max-width: 100vw;
@@ -55,22 +60,18 @@
     display: flex;
     justify-content: center;
     width: fit-content;
+    border:  2px solid #1F78B4;
+    border-radius: 5px;
+
     button {
         font-size: 1.5rem;
         padding: 1rem;
         border: 0;
         background-color: white;
-        border-top:  2px solid #1F78B4;
-        border-bottom:  2px solid #1F78B4;
+        margin-left: 5px;
         &:first-child {
-            border-left:  2px solid #1F78B4;
-            border-top-left-radius: 5px;
-            border-bottom-left-radius: 5px;
         }
         &:last-child {
-            border-right:  2px solid #1F78B4;
-            border-top-right-radius: 5px;
-            border-bottom-right-radius: 5px;
         }
     }
     .active {
